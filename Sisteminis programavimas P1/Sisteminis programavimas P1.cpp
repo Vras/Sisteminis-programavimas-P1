@@ -2,9 +2,12 @@
 #include <iomanip>
 #include <string>
 #include <vector>
+#include <random>
+#include <chrono>
 //#include <algorithm>
 
 using namespace std;
+using hrClock = chrono::high_resolution_clock;
 const int db = 20; //kiek studentu saugoti
 
 class GalutinisBalas {
@@ -42,19 +45,7 @@ public:
 		cout << "---Copy constructor---" << endl;
 	}
 	~GalutinisBalas() {}
-	//void setVardas(string v) { vardas=v; }
-	//void setPavarde(string p) { pavarde=p; }
-	//void setNd(double n) { nd=n; }
-	//void setEgz(double e) { egz=e; }
-	//string getVardas() { return vardas; }
-	//string getPavarde() { return pavarde; }
-	//double getNd() { return nd; }
-	//double getEgz() { return egz; }
-
 	void ivesk() {
-
-		//GalutinisBalas* stud = new GalutinisBalas[db];
-
 		cout << "Keliu studentu duomenis norite ivesti? ";
 		cin >> kiekStud;
 		for (int q = 0; q < kiekStud; q++)
@@ -66,18 +57,18 @@ public:
 			cin >> pavarde;
 			cout << "Kiek namu darbu norite ivesti? ";
 			cin >> ndx;
+			cout << "--Namu darbu atsitiktiniai balai--" << endl;
 			for (int i = 0; i < ndx; i++) {
 				n.push_back(i);
-				cout << i + 1 << "-jo namu darbo ivertinimas: " << endl;
-				double x;
-				cin >> x;
+				double x = randomas(1, 10);
+				cout << i + 1 << "-ojo namu darbo ivertinimas: " << setprecision(2) << fixed << x << endl;
 				n.insert(n.begin()+i, x);
 			}
 			for (int i = 0; i < ndx; i++) {
 				nd = nd + n[i];
 			}
-			cout << "Egzamino ivertinimas: " << endl;
-			cin >> egz;
+			egz = randomas(1, 10);
+			cout << "Egzamino ivertinimas: " << setprecision(2) << fixed << egz <<endl;
 			cout << "--------------------------------------------------" << endl;
 			v[q] = vardas;
 			p[q] = pavarde;
@@ -148,6 +139,11 @@ public:
 			e[q] = e[q] * 0.6;
 			g[q] = ndd[q] + e[q];
 		}
+	}
+	double randomas(double a, double b) {
+		mt19937 mt(static_cast<double>(hrClock::now().time_since_epoch().count()));
+		uniform_real_distribution<double> dist(a, b);
+		return dist(mt);
 	}
 
 };
