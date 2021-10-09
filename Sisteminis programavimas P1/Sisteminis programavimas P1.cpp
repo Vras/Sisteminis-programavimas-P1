@@ -1,17 +1,19 @@
 #include <iostream>
 #include <iomanip>
 #include <string>
+#include <vector>
 //#include <algorithm>
 
 using namespace std;
-const int db = 20;
+const int db = 20; //kiek studentu saugoti
 
 class GalutinisBalas {
 private:
 	string vardas = "", pavarde = "";
 	double nd = 0, egz = 0, galutinis = 0;
 
-	double* n = new double[ndx];
+	//double* n = new double[ndx];
+	vector<double>n;
 	string v[db], p[db];
 	double ndd[db], e[db], g[db];
 	int kiekStud = 0, vARm=0, ndx = 1;
@@ -65,8 +67,11 @@ public:
 			cout << "Kiek namu darbu norite ivesti? ";
 			cin >> ndx;
 			for (int i = 0; i < ndx; i++) {
+				n.push_back(i);
 				cout << i + 1 << "-jo namu darbo ivertinimas: " << endl;
-				cin >> n[i];
+				double x;
+				cin >> x;
+				n.insert(n.begin()+i, x);
 			}
 			for (int i = 0; i < ndx; i++) {
 				nd = nd + n[i];
@@ -147,7 +152,7 @@ public:
 
 };
 int main() {
-	//Namu darbai saugomi masyve
+	//Namu darbai saugomi vektoriuje
 	//Rezultatas
 	
 	//--------------------------------------------------
