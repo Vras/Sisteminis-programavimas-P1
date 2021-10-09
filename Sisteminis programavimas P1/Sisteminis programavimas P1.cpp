@@ -169,6 +169,5 @@ int main() {
 	//GalutinisBalas y;
 	//y = x;
 	//GalutinisBalas z = x;
-
 	return 0;
 }
