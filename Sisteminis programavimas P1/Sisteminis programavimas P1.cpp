@@ -4,9 +4,7 @@
 //#include <algorithm>
 
 using namespace std;
-const int ndx = 5;
 const int db = 20;
-
 
 class GalutinisBalas {
 private:
@@ -16,7 +14,8 @@ private:
 	double* n = new double[ndx];
 	string v[db], p[db];
 	double ndd[db], e[db], g[db];
-	int kiekStud = 0;
+	int kiekStud = 0, vARm=0, ndx = 1;
+
 public:
 	GalutinisBalas() {}
 	GalutinisBalas(string v, string p, double n, double e) {
@@ -56,7 +55,6 @@ public:
 
 		cout << "Keliu studentu duomenis norite ivesti? ";
 		cin >> kiekStud;
-
 		for (int q = 0; q < kiekStud; q++)
 		{
 			cout << "---Ivesk duomenis---" << endl;
@@ -64,6 +62,8 @@ public:
 			cin >> vardas;
 			cout << "Pavarde: " << endl;
 			cin >> pavarde;
+			cout << "Kiek namu darbu norite ivesti? ";
+			cin >> ndx;
 			for (int i = 0; i < ndx; i++) {
 				cout << i + 1 << "-jo namu darbo ivertinimas: " << endl;
 				cin >> n[i];
@@ -81,12 +81,30 @@ public:
 		}
 	}
 	void print() {
-		cout << left << setw(12) << "Pavarde" << left << setw(12) << "Vardas" << right << setw(10) << "Galutinis (Vid.)" << endl;
-		cout << "--------------------------------------------------" << endl;
-		for (int q = 0; q < kiekStud; q++)
-		{
-			vidurkis();
-			cout << left << setw(12) << p[q] << left << setw(12) << v[q] << right << setprecision(2) << fixed << g[q] << endl;
+		cout << "Ka norite taikyti: vidurki ar mediana?" << endl << "Vidurkis = 1; Mediana = 2: ";
+		cin >> vARm;
+		while (vARm != 1 && vARm != 2) {
+				cout << "Tokio pasirinkimo nera! Bandyk dar karta." << endl;
+				cin >> vARm;
+		}
+		
+		if (vARm == 1) {
+			cout << left << setw(12) << "Pavarde" << left << setw(12) << "Vardas" << right << setw(10) << "Galutinis (Vid.)" << endl;
+			cout << "--------------------------------------------------" << endl;
+			for (int q = 0; q < kiekStud; q++)
+			{
+				vidurkis();
+				cout << left << setw(12) << p[q] << left << setw(12) << v[q] << right << setprecision(2) << fixed << g[q] << endl;
+			}
+		}
+		else if (vARm == 2) {
+			cout << left << setw(12) << "Pavarde" << left << setw(12) << "Vardas" << right << setw(10) << "Galutinis (Med.)" << endl;
+			cout << "--------------------------------------------------" << endl;
+			for (int q = 0; q < kiekStud; q++)
+			{
+				mediana();
+				cout << left << setw(12) << p[q] << left << setw(12) << v[q] << right << setprecision(2) << fixed << g[q] << endl;
+			}
 		}
 	}
 	void vidurkis() {
@@ -94,15 +112,13 @@ public:
 		for (int q = 0; q < kiekStud; q++) {
 			ndd[q] = (ndd[q] / ndx) * 0.4;
 			e[q] = e[q] * 0.6;
-			galutinis = ndd[q] + e[q];
-			g[q] = galutinis;
+			g[q] = ndd[q] + e[q];
 		}
 	}
-	/*double sort(double x, double y) {
-		int size = sizeof n;
+	double sort(double x, double y) {
 		double temp;
-		for (int i = 0; i < size; i++) {
-			for (int j = i + 1; j < size; j++) {
+		for (int i = 0; i < ndx; i++) {
+			for (int j = i + 1; j < ndx; j++) {
 				if (n[j] < n[i]) {
 					temp = n[i];
 					n[i] = n[j];
@@ -113,39 +129,37 @@ public:
 		return 0;
 	}
 	void mediana() {
-		int size = sizeof n;
-		if (size == 0) {
-			nd = 0;
-		}
-		else {
-			sort(n[0], n[size]);
-			if (size % 2 == 0) {
-				nd = (n[size / 2 - 1] + n[size / 2]) / 2;
+		//0.4 * mediana + 0.6 * egzaminas
+		for (int q = 0; q < kiekStud; q++) {
+			sort(n[0], n[ndx-1]);
+			if (ndx % 2 == 0) {
+				ndd[q] = (n[ndx / 2 - 1] + n[ndx / 2]) / 2;
 			}
 			else {
-				nd = n[size / 2];
+				ndd[q] = n[ndx / 2];
 			}
+			
+			ndd[q] = ndd[q] * 0.4;
+			e[q] = e[q] * 0.6;
+			g[q] = ndd[q] + e[q];
 		}
-		nd = nd * 0.4;
-		egz = egz * 0.6;
-		galutinis = nd + egz;
-	}*/
+	}
 
 };
 int main() {
-	//nepavyko padaryti, kaip norejau
-	//Rezultatas:
+	//Namu darbai saugomi masyve
+	//Rezultatas
 	
 	//--------------------------------------------------
-	//Pavarde     Vardas      Galutinis(Vid.)
+	//Ka norite taikyti : vidurki ar mediana ?
+	//Vidurkis = 1; Mediana = 2: 2
+	//Pavarde     Vardas      Galutinis(Med.)
 	//--------------------------------------------------
-	//Pavardenis1 Vardenis1   7.52
-	//Pavardenis2 Vardenis2   3.35
+	//Pavardenis  Vardenis    8.40
 
 	GalutinisBalas stud;
 	stud.ivesk();
 	stud.print();
-
 
 	//GalutinisBalas y;
 	//y = x;
