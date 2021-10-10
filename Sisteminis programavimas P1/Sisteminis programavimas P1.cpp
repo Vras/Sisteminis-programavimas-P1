@@ -1,4 +1,5 @@
 #include <iostream>
+#include <fstream>
 #include <iomanip>
 #include <string>
 #include <vector>
@@ -8,7 +9,7 @@
 
 using namespace std;
 using hrClock = chrono::high_resolution_clock;
-const int db = 20; //kiek studentu saugoti
+const int db = 200; //kiek studentu saugoti
 
 class GalutinisBalas {
 private:
@@ -19,7 +20,7 @@ private:
 	vector<double>n;
 	string v[db], p[db];
 	double ndd[db], e[db], g[db];
-	int kiekStud = 0, vARm=0, ndx = 1;
+	int kiekStud = 0, vARm=0, ndx = 5;
 
 public:
 	GalutinisBalas() {}
@@ -87,18 +88,20 @@ public:
 		if (vARm == 1) {
 			cout << left << setw(12) << "Pavarde" << left << setw(12) << "Vardas" << right << setw(10) << "Galutinis (Vid.)" << endl;
 			cout << "--------------------------------------------------" << endl;
+			vidurkis();
 			for (int q = 0; q < kiekStud; q++)
 			{
-				vidurkis();
+				
 				cout << left << setw(12) << p[q] << left << setw(12) << v[q] << right << setprecision(2) << fixed << g[q] << endl;
 			}
 		}
 		else if (vARm == 2) {
 			cout << left << setw(12) << "Pavarde" << left << setw(12) << "Vardas" << right << setw(10) << "Galutinis (Med.)" << endl;
 			cout << "--------------------------------------------------" << endl;
+			mediana();
 			for (int q = 0; q < kiekStud; q++)
 			{
-				mediana();
+				
 				cout << left << setw(12) << p[q] << left << setw(12) << v[q] << right << setprecision(2) << fixed << g[q] << endl;
 			}
 		}
@@ -145,25 +148,71 @@ public:
 		uniform_real_distribution<double> dist(a, b);
 		return dist(mt);
 	}
+	int randomasInt(int a, int b) {
+		mt19937 mt(static_cast<int>(hrClock::now().time_since_epoch().count()));
+		uniform_int_distribution<int> dist(a, b);
+		return dist(mt);
+	}
+	void generateFile(int x, string pav) {
 
+		ofstream NewFile(pav);
+		NewFile << left << setw(13) << "Pavarde" << left << setw(13) << "Vardas" << left << setw(4) << "ND1" << left << setw(4) << "ND2" << left << setw(4) << "ND3" << left << setw(4) << "ND4" << left << setw(4) << "ND5" << left << setw(4) << "Egzaminas" << endl;
+		NewFile << "-------------------------------------------------------" << endl;
+		for (int i = 0; i < x; i++)
+		{
+			NewFile<<left << setw(12) << "Pavardenis" << left << setw(14) << "Vardenis" << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << endl;
+		
+		}
+
+		NewFile.close();
+	}
+	void openFile(string x) {
+		vector<string> students;
+		string student;
+		int vSize = 0;
+		ifstream file(x);
+		getline(file, student);//Skipping line
+		getline(file, student);//Skipping line
+		while (file >> student) {
+			students.push_back(student);
+			vSize++;//eiluciu duomenu
+		}
+		vSize/=8; //eiluteje 8 stulpeliai
+		//for (const auto& i : students) { // atspausdina faila
+		//	cout << i << "; ";
+		//}
+		cout << endl;
+		cout <<"Students in txt file: " << vSize << endl;
+		kiekStud = vSize;
+		n.reserve(ndx*vSize+5);
+		file.close();
+
+		ndx = 5; // txt faile 5 ND
+		vSize *= 8;
+		int a = 0;
+		for (int q = 0; q < vSize; q++)
+		{
+			for (int i = 0; i < ndx; i++) {
+				double x = stod(students[q+2+i]);
+				n.push_back(i);
+				ndd[a] = ndd[a] + x;
+			}
+			p[a] = students[q];
+			v[a] = students[q + 1];
+			e[a] = stod(students[q + 7]); //egz to double
+			q += 7;
+			a++;
+		}
+	}
 };
 int main() {
-	//Namu darbai saugomi vektoriuje
-	//Rezultatas
-	
-	//--------------------------------------------------
-	//Ka norite taikyti : vidurki ar mediana ?
-	//Vidurkis = 1; Mediana = 2: 2
-	//Pavarde     Vardas      Galutinis(Med.)
-	//--------------------------------------------------
-	//Pavardenis  Vardenis    8.40
+	//Generuojamas txt failas, perskaitomas ir pateikiami rezultatai
 
 	GalutinisBalas stud;
-	stud.ivesk();
+	//stud.ivesk();
+	//stud.print();
+	//stud.generateFile(10, "kursiokai.txt");
+	stud.openFile("kursiokai.txt");
 	stud.print();
-
-	//GalutinisBalas y;
-	//y = x;
-	//GalutinisBalas z = x;
 	return 0;
 }

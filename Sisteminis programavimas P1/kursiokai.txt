@@ -1,0 +1,12 @@
+Pavarde      Vardas       ND1 ND2 ND3 ND4 ND5 Egzaminas
+-------------------------------------------------------
+Pavardenis  Vardenis      9   2   5   4   10  7   
+Pavardenis  Vardenis      9   1   8   7   6   3   
+Pavardenis  Vardenis      4   9   7   7   5   5   
+Pavardenis  Vardenis      7   10  10  4   4   6   
+Pavardenis  Vardenis      8   1   10  3   10  5   
+Pavardenis  Vardenis      10  5   6   5   4   3   
+Pavardenis  Vardenis      2   5   10  7   9   7   
+Pavardenis  Vardenis      7   5   4   8   5   2   
+Pavardenis  Vardenis      3   9   5   10  6   1   
+Pavardenis  Vardenis      5   4   7   10  2   7   
