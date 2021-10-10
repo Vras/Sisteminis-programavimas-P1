@@ -5,7 +5,8 @@
 #include <vector>
 #include <random>
 #include <chrono>
-//#include <algorithm>
+#include <stdexcept> 
+#include <algorithm>
 
 using namespace std;
 using hrClock = chrono::high_resolution_clock;
@@ -16,12 +17,11 @@ private:
 	string vardas = "", pavarde = "";
 	double nd = 0, egz = 0, galutinis = 0;
 
-	//double* n = new double[ndx];
-	vector<double>n;
+	vector<string>v2, p2, rez;
+	vector<double>n, ndd2, e2, g2;
 	string v[db], p[db];
 	double ndd[db], e[db], g[db];
 	int kiekStud = 0, vARm=0, ndx = 5;
-
 public:
 	GalutinisBalas() {}
 	GalutinisBalas(string v, string p, double n, double e) {
@@ -86,35 +86,44 @@ public:
 		}
 		
 		if (vARm == 1) {
-			cout << left << setw(12) << "Pavarde" << left << setw(12) << "Vardas" << right << setw(10) << "Galutinis (Vid.)" << endl;
+			cout << left << setw(19) << "Pavarde" << left << setw(12) << "Vardas" << right << setw(10) << "Galutinis (Vid.)" << endl;
 			cout << "--------------------------------------------------" << endl;
 			vidurkis();
+			int a = 0;
 			for (int q = 0; q < kiekStud; q++)
 			{
-				
-				cout << left << setw(12) << p[q] << left << setw(12) << v[q] << right << setprecision(2) << fixed << g[q] << endl;
+				cout << left << setw(19) << rez[a] << left << setw(12) << rez[a+1] << right << setprecision(2) << fixed << stod(rez[a+2]) << endl;
+				a += 3;
 			}
 		}
 		else if (vARm == 2) {
-			cout << left << setw(12) << "Pavarde" << left << setw(12) << "Vardas" << right << setw(10) << "Galutinis (Med.)" << endl;
+			cout << left << setw(19) << "Pavarde" << left << setw(12) << "Vardas" << right << setw(10) << "Galutinis (Med.)" << endl;
 			cout << "--------------------------------------------------" << endl;
 			mediana();
+			int a = 0;
 			for (int q = 0; q < kiekStud; q++)
 			{
 				
-				cout << left << setw(12) << p[q] << left << setw(12) << v[q] << right << setprecision(2) << fixed << g[q] << endl;
+				cout << left << setw(19) << rez[a] << left << setw(12) << rez[a+1] << right << setprecision(2) << fixed << stod(rez[a + 2]) << endl;
+				a += 3;
 			}
 		}
 	}
+	
 	void vidurkis() {
 		//0.4 * vidurkis + 0.6 * egzaminas
+		int a = 0;
 		for (int q = 0; q < kiekStud; q++) {
-			ndd[q] = (ndd[q] / ndx) * 0.4;
-			e[q] = e[q] * 0.6;
-			g[q] = ndd[q] + e[q];
+			ndd2.at(q) = (ndd2.at(q) / ndx) * 0.4;
+			e2.at(q) = e2.at(q) * 0.6;
+			g2.push_back(ndd2.at(q) + e2.at(q));
+			rez.push_back(p2[q]);
+			rez.push_back(v2[q]);
+			rez.push_back(to_string(g2[q]));
+			a+3;
 		}
 	}
-	double sort(double x, double y) {
+	double sort2(double x, double y) {
 		double temp;
 		for (int i = 0; i < ndx; i++) {
 			for (int j = i + 1; j < ndx; j++) {
@@ -129,18 +138,22 @@ public:
 	}
 	void mediana() {
 		//0.4 * mediana + 0.6 * egzaminas
+		int a = 0;
 		for (int q = 0; q < kiekStud; q++) {
-			sort(n[0], n[ndx-1]);
+			sort2(n[0], n[ndx-1]);
 			if (ndx % 2 == 0) {
-				ndd[q] = (n[ndx / 2 - 1] + n[ndx / 2]) / 2;
+				ndd2.at(q) = (n[ndx / 2 - 1] + n[ndx / 2]) / 2;
 			}
 			else {
-				ndd[q] = n[ndx / 2];
+				ndd2.at(q) = n[ndx / 2];
 			}
-			
-			ndd[q] = ndd[q] * 0.4;
-			e[q] = e[q] * 0.6;
-			g[q] = ndd[q] + e[q];
+			ndd2.at(q) = (ndd2.at(q) / ndx) * 0.4;
+			e2.at(q) = e2.at(q) * 0.6;
+			g2.push_back(ndd2.at(q) + e2.at(q));
+			rez.push_back(p2[q]);
+			rez.push_back(v2[q]);
+			rez.push_back(to_string(g2[q]));
+			a + 3;
 		}
 	}
 	double randomas(double a, double b) {
@@ -153,17 +166,20 @@ public:
 		uniform_int_distribution<int> dist(a, b);
 		return dist(mt);
 	}
+	string randomSurame() {
+		string surnames[10] = { "Kazlauskas", "Jankauskas", "Petrauskas", "Vasiliauskas", "Butkus", "Urbonas", "Kavaliauskas", "Pranevicius", "Navickas", "Ramanauskas" };
+		return surnames[randomasInt(0, 9)];
+	}
 	void generateFile(int x, string pav) {
 
 		ofstream NewFile(pav);
-		NewFile << left << setw(13) << "Pavarde" << left << setw(13) << "Vardas" << left << setw(4) << "ND1" << left << setw(4) << "ND2" << left << setw(4) << "ND3" << left << setw(4) << "ND4" << left << setw(4) << "ND5" << left << setw(4) << "Egzaminas" << endl;
+		NewFile << left << setw(19) << randomSurame() << left << setw(13) << "Vardas" << left << setw(4) << "ND1" << left << setw(4) << "ND2" << left << setw(4) << "ND3" << left << setw(4) << "ND4" << left << setw(4) << "ND5" << left << setw(4) << "Egzaminas" << endl;
 		NewFile << "-------------------------------------------------------" << endl;
 		for (int i = 0; i < x; i++)
 		{
-			NewFile<<left << setw(12) << "Pavardenis" << left << setw(14) << "Vardenis" << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << endl;
+			NewFile<<left << setw(18) << randomSurame() << left << setw(14) << "Vardenis" << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << endl;
 		
 		}
-
 		NewFile.close();
 	}
 	void openFile(string x) {
@@ -178,6 +194,7 @@ public:
 			vSize++;//eiluciu duomenu
 		}
 		vSize/=8; //eiluteje 8 stulpeliai
+		//
 		//for (const auto& i : students) { // atspausdina faila
 		//	cout << i << "; ";
 		//}
@@ -198,21 +215,33 @@ public:
 				ndd[a] = ndd[a] + x;
 			}
 			p[a] = students[q];
+			p2.push_back(students[q]);
 			v[a] = students[q + 1];
+			v2.push_back(students[q+1]);
 			e[a] = stod(students[q + 7]); //egz to double
+			e2.push_back(stod(students[q+7]));
+			ndd2.push_back(ndd[a]);
 			q += 7;
 			a++;
 		}
+		//sort(p2.begin(), p2.end());		
+		//sort(v2.begin(), v2.end());
+		//sort(p2.begin(), p2.end());
+		//sort(ndd2.begin(), ndd2.end());
+		//sort(e2.begin(), e2.end());
 	}
 };
 int main() {
 	//Generuojamas txt failas, perskaitomas ir pateikiami rezultatai
 
 	GalutinisBalas stud;
-	//stud.ivesk();
-	//stud.print();
-	//stud.generateFile(10, "kursiokai.txt");
+	stud.generateFile(100, "kursiokai.txt");
 	stud.openFile("kursiokai.txt");
-	stud.print();
+	try {
+		stud.print(); 
+	}
+	catch (const std::out_of_range& oor) {
+		cerr << "Out of Range error: " << oor.what() << '\n';
+	}
 	return 0;
 }
