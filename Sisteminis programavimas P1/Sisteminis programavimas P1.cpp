@@ -177,8 +177,7 @@ public:
 		NewFile << "-------------------------------------------------------" << endl;
 		for (int i = 0; i < x; i++)
 		{
-			NewFile << left << setw(18) << randomSurame() << left << setw(14) << "Vardenis" << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << endl;
-
+			NewFile << left << setw(18) << randomSurame()<<i+1 << left << setw(14) << "Vardenis" << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << left << setw(4) << randomasInt(1, 10) << endl;
 		}
 		NewFile.close();
 	}
