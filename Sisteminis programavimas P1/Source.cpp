@@ -206,7 +206,7 @@ public:
 			vSize++;//eiluciu duomenu
 		}
 		vSize /= 8; //eiluteje 8 stulpeliai
-		//
+		
 		//for (const auto& i : students) { // atspausdina faila
 		//	cout << i << "; ";
 		//}

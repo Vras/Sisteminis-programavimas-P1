@@ -1,0 +1,10 @@
+Pavarde            Vardas       Galutinis
+-------------------------------------------------------
+Urbonas            1Vardenis   7.04
+Butkus             2Vardenis   5.68
+Pranevicius        4Vardenis   7.92
+Vasiliauskas       5Vardenis   6.24
+Kazlauskas         6Vardenis   6.32
+Jankauskas         7Vardenis   6.12
+Jankauskas         8Vardenis   5.28
+Ramanauskas        9Vardenis   6.32

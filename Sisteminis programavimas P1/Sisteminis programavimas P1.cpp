@@ -12,7 +12,8 @@ using hrClock = chrono::high_resolution_clock;
 const int db = 102; //kiek studentu saugoti
 struct GalutinisBalas
 {
-    vector<string> rez;
+    vector<string> rez;//galutinis list
+    vector<string> gold, silver;
     int kiekStud = 0, ndx = 5;
     double sum = 0;//for time
     double add = 1;//for time
@@ -32,7 +33,7 @@ public:
         string surnames[10] = { "Kazlauskas", "Jankauskas", "Petrauskas", "Vasiliauskas", "Butkus", "Urbonas", "Kavaliauskas", "Pranevicius", "Navickas", "Ramanauskas" };
         return surnames[randomasInt(0, 9)];
     }
-    void laikas() {
+    void laikas(string text) {
         auto begin = hrClock::now();
         int iterations = 1000 * 1000 * 1000;
         for (int i = 0; i < iterations; i++) {
@@ -42,10 +43,11 @@ public:
         auto end = hrClock::now();
         auto elapsed = chrono::duration_cast<chrono::nanoseconds>(end - begin);
         //printf("Result: %.20f\n", sum);
-        printf("Generate files - Time measured: %.3f seconds.\n", elapsed.count() * 1e-9);
+        cout << text;
+        printf(" - Time measured : % .3f seconds.\n", elapsed.count() * 1e-9);
     }
     void generateFiles(int kiek, int x, string pav) {
-        laikas();
+        laikas("Generate files");
         for (int i = 0; i < kiek; i++)
         {
             ofstream NewFile(pav + to_string(i+1) + ".txt");
@@ -61,11 +63,10 @@ public:
         
     }
     void openFile(string x) {
-        string v[db], p[db];
-        double ndd[db], e[db], g[db];
         vector<string> students;
         string student;
         int vSize = 0;
+        laikas("Open file");
         ifstream file(x);
         getline(file, student);//Skipping line
         getline(file, student);//Skipping line
@@ -99,7 +100,7 @@ public:
     }
     void print() {
 
-            cout << left << setw(19) << "Pavarde" << left << setw(12) << "Vardas" << right << setw(10) << "Galutinis (Vid.)" << endl;
+            cout << left << setw(19) << "Pavarde" << left << setw(12) << "Vardas" << right << setw(10) << "Galutinis" << endl;
             cout << "--------------------------------------------------" << endl;
             int a = 0;
             for (int q = 0; q < kiekStud; q++)
@@ -108,25 +109,79 @@ public:
                 a += 3;
             }
     }
+    void splitByGalutinis() {
+        laikas("Spilt to two lists");
+        for (int q = 0; q < kiekStud*3; q++) {
+            if (stod(rez[q + 2]) < 5.0) {
+                silver.push_back(rez[q]);
+                silver.push_back(rez[q+1]);
+                silver.push_back(rez[q + 2]);
+            }
+            else {
+                gold.push_back(rez[q]);
+                gold.push_back(rez[q+1]);
+                gold.push_back(rez[q + 2]);
+            }
+            q += 2;
+        }
+    }
 
+    void listsToFiles(string name, string name2) {
+        laikas("Save list to file");
+        ofstream NewFile(name + ".txt");
+        NewFile << left << setw(19) << "Pavarde" << left << setw(12) << "Vardas" << right << setw(10) << "Galutinis" << endl;
+        NewFile << "-------------------------------------------------------" << endl;
+        
+        for (int i = 0; i < gold.size(); i++)
+        {
+            NewFile << left << setw(19) << gold[i] << left << setw(12) << gold[i + 1] << right << setprecision(2) << fixed << stod(gold[i + 2]) << endl;
+            i += 2;
+        }
+        NewFile.close();
+        ofstream NewFile2(name2 + ".txt");
+        NewFile2 << left << setw(19) << "Pavarde" << left << setw(12) << "Vardas" << right << setw(10) << "Galutinis" << endl;
+        NewFile2 << "-------------------------------------------------------" << endl;
+        
+        for (int i = 0; i < silver.size(); i++)
+        {
+            NewFile2 << left << setw(19) << silver[i] << left << setw(12) << silver[i + 1] << right << setprecision(2) << fixed << stod(silver[i + 2]) << endl;
+            i += 2;
+        }
+        NewFile2.close();
+        cout << "---------------" << endl;
+        rez.clear();
+        gold.clear();
+        silver.clear();
+    }
 };
 
 //bool sortByvardas(const GalutinisBalas& lhs, const GalutinisBalas& rhs) { return lhs.vardas < rhs.vardas; }
-
-
-
-
 int main()
 {
     GalutinisBalas stud;
 
-    stud.generateFiles(1, 14, "kursiokai");//kiekvienas sarasas dideja 10x
+    //stud.generateFiles(5, 1, "kursiokai");//kiek failu, kiek studentu, failo pavadinimas. kiekvienas sarasas dideja 10x
 
     stud.openFile("kursiokai1.txt");
-
-    stud.print();
-
-
+    //stud.print();
+    stud.splitByGalutinis();
+    stud.listsToFiles("saunuoliai", "nesaunuoliai");
+    
+    stud.openFile("kursiokai2.txt");
+    stud.splitByGalutinis();
+    stud.listsToFiles("saunuoliai2", "nesaunuoliai2");
+    
+    stud.openFile("kursiokai3.txt");
+    stud.splitByGalutinis();
+    stud.listsToFiles("saunuoliai3", "nesaunuoliai3");
+    
+    stud.openFile("kursiokai4.txt");
+    stud.splitByGalutinis();
+    stud.listsToFiles("saunuoliai4", "nesaunuoliai4");
+    
+    stud.openFile("kursiokai5.txt");
+    stud.splitByGalutinis();
+    stud.listsToFiles("saunuoliai5", "nesaunuoliai5");
 
     return 0;
 }

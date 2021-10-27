@@ -1,0 +1,4 @@
+Pavarde            Vardas       Galutinis
+-------------------------------------------------------
+Ramanauskas        3Vardenis   4.80
+Pranevicius        10Vardenis  3.00
