@@ -33,21 +33,13 @@ public:
         string surnames[10] = { "Kazlauskas", "Jankauskas", "Petrauskas", "Vasiliauskas", "Butkus", "Urbonas", "Kavaliauskas", "Pranevicius", "Navickas", "Ramanauskas" };
         return surnames[randomasInt(0, 9)];
     }
-    void laikas(string text) {
+    void generateFiles(int kiek, int x, string pav) {
         auto begin = hrClock::now();
         int iterations = 1000 * 1000 * 1000;
         for (int i = 0; i < iterations; i++) {
             sum += add;
             add /= 2.0;
         }
-        auto end = hrClock::now();
-        auto elapsed = chrono::duration_cast<chrono::nanoseconds>(end - begin);
-        //printf("Result: %.20f\n", sum);
-        cout << text;
-        printf(" - Time measured : % .3f seconds.\n", elapsed.count() * 1e-9);
-    }
-    void generateFiles(int kiek, int x, string pav) {
-        laikas("Generate files");
         for (int i = 0; i < kiek; i++)
         {
             ofstream NewFile(pav + to_string(i+1) + ".txt");
@@ -60,13 +52,22 @@ public:
             NewFile.close();
             x *= 10;
         }
-        
+        auto end = hrClock::now();
+        auto elapsed = chrono::duration_cast<chrono::nanoseconds>(end - begin);
+        //printf("Result: %.20f\n", sum);
+        cout << "Generate files";
+        printf(" - Time measured : % .3f seconds.\n", elapsed.count() * 1e-9);
     }
     void openFile(string x) {
+        auto begin = hrClock::now();
+        int iterations = 1000 * 1000 * 1000;
+        for (int i = 0; i < iterations; i++) {
+            sum += add;
+            add /= 2.0;
+        }
         vector<string> students;
         string student;
         int vSize = 0;
-        laikas("Open file");
         ifstream file(x);
         getline(file, student);//Skipping line
         getline(file, student);//Skipping line
@@ -96,7 +97,11 @@ public:
             nd = 0;
             q += 7;
         }
-        
+        auto end = hrClock::now();
+        auto elapsed = chrono::duration_cast<chrono::nanoseconds>(end - begin);
+        //printf("Result: %.20f\n", sum);
+        cout << "Open file";
+        printf(" - Time measured : % .3f seconds.\n", elapsed.count() * 1e-9);
     }
     void print() {
 
@@ -110,7 +115,12 @@ public:
             }
     }
     void splitByGalutinis() {
-        laikas("Spilt to two lists");
+        auto begin = hrClock::now();
+        int iterations = 1000 * 1000 * 1000;
+        for (int i = 0; i < iterations; i++) {
+            sum += add;
+            add /= 2.0;
+        }
         for (int q = 0; q < kiekStud*3; q++) {
             if (stod(rez[q + 2]) < 5.0) {
                 silver.push_back(rez[q]);
@@ -124,10 +134,19 @@ public:
             }
             q += 2;
         }
+        auto end = hrClock::now();
+        auto elapsed = chrono::duration_cast<chrono::nanoseconds>(end - begin);
+        //printf("Result: %.20f\n", sum);
+        cout << "Spilt to two lists";
+        printf(" - Time measured : % .3f seconds.\n", elapsed.count() * 1e-9);
     }
-
     void listsToFiles(string name, string name2) {
-        laikas("Save list to file");
+        auto begin = hrClock::now();
+        int iterations = 1000 * 1000 * 1000;
+        for (int i = 0; i < iterations; i++) {
+            sum += add;
+            add /= 2.0;
+        }
         ofstream NewFile(name + ".txt");
         NewFile << left << setw(19) << "Pavarde" << left << setw(12) << "Vardas" << right << setw(10) << "Galutinis" << endl;
         NewFile << "-------------------------------------------------------" << endl;
@@ -152,6 +171,11 @@ public:
         rez.clear();
         gold.clear();
         silver.clear();
+        auto end = hrClock::now();
+        auto elapsed = chrono::duration_cast<chrono::nanoseconds>(end - begin);
+        //printf("Result: %.20f\n", sum);
+        cout << "Save list to file";
+        printf(" - Time measured : % .3f seconds.\n", elapsed.count() * 1e-9);
     }
 };
 
@@ -160,7 +184,7 @@ int main()
 {
     GalutinisBalas stud;
 
-    //stud.generateFiles(5, 1, "kursiokai");//kiek failu, kiek studentu, failo pavadinimas. kiekvienas sarasas dideja 10x
+    stud.generateFiles(5, 1000, "kursiokai");//kiek failu, kiek studentu, failo pavadinimas. kiekvienas sarasas dideja 10x
 
     stud.openFile("kursiokai1.txt");
     //stud.print();
@@ -179,9 +203,9 @@ int main()
     stud.splitByGalutinis();
     stud.listsToFiles("saunuoliai4", "nesaunuoliai4");
     
-    stud.openFile("kursiokai5.txt");
-    stud.splitByGalutinis();
-    stud.listsToFiles("saunuoliai5", "nesaunuoliai5");
+    //stud.openFile("kursiokai5.txt");
+    //stud.splitByGalutinis();
+    //stud.listsToFiles("saunuoliai5", "nesaunuoliai5");
 
     return 0;
 }

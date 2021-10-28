@@ -1,4 +1,4124 @@
 Pavarde            Vardas       Galutinis
 -------------------------------------------------------
-Ramanauskas        3Vardenis   4.80
-Pranevicius        10Vardenis  3.00
+Vasiliauskas       7Vardenis   2.28
+Vasiliauskas       9Vardenis   4.32
+Petrauskas         11Vardenis  4.16
+Navickas           14Vardenis  2.88
+Petrauskas         15Vardenis  3.00
+Ramanauskas        19Vardenis  4.80
+Ramanauskas        21Vardenis  3.60
+Navickas           22Vardenis  4.64
+Urbonas            26Vardenis  4.12
+Urbonas            30Vardenis  3.28
+Jankauskas         33Vardenis  3.72
+Vasiliauskas       36Vardenis  4.64
+Urbonas            38Vardenis  3.24
+Jankauskas         39Vardenis  2.92
+Jankauskas         41Vardenis  3.28
+Vasiliauskas       44Vardenis  3.76
+Kazlauskas         45Vardenis  2.68
+Kavaliauskas       52Vardenis  3.76
+Kazlauskas         56Vardenis  3.72
+Kazlauskas         57Vardenis  3.44
+Ramanauskas        60Vardenis  3.40
+Petrauskas         63Vardenis  2.12
+Navickas           68Vardenis  2.92
+Kazlauskas         69Vardenis  4.32
+Jankauskas         71Vardenis  3.20
+Jankauskas         72Vardenis  4.00
+Butkus             73Vardenis  3.64
+Navickas           74Vardenis  4.16
+Kavaliauskas       82Vardenis  3.32
+Vasiliauskas       83Vardenis  4.64
+Pranevicius        92Vardenis  4.00
+Jankauskas         94Vardenis  3.68
+Kavaliauskas       95Vardenis  3.20
+Kavaliauskas       97Vardenis  1.96
+Petrauskas         98Vardenis  4.64
+Navickas           100Vardenis 4.56
+Vasiliauskas       101Vardenis 1.96
+Navickas           102Vardenis 4.00
+Urbonas            104Vardenis 4.92
+Kavaliauskas       105Vardenis 4.24
+Kavaliauskas       107Vardenis 4.04
+Kavaliauskas       109Vardenis 2.52
+Urbonas            110Vardenis 3.84
+Vasiliauskas       112Vardenis 2.52
+Butkus             114Vardenis 4.96
+Urbonas            116Vardenis 2.36
+Kazlauskas         120Vardenis 3.16
+Ramanauskas        121Vardenis 4.44
+Ramanauskas        123Vardenis 4.80
+Navickas           124Vardenis 3.80
+Pranevicius        126Vardenis 3.96
+Jankauskas         128Vardenis 3.52
+Navickas           130Vardenis 1.84
+Kazlauskas         132Vardenis 4.96
+Urbonas            133Vardenis 4.76
+Ramanauskas        137Vardenis 2.36
+Petrauskas         141Vardenis 3.72
+Navickas           147Vardenis 2.52
+Urbonas            153Vardenis 3.32
+Butkus             154Vardenis 3.88
+Kazlauskas         156Vardenis 2.08
+Ramanauskas        157Vardenis 4.28
+Vasiliauskas       158Vardenis 3.12
+Kazlauskas         159Vardenis 3.08
+Butkus             161Vardenis 2.96
+Vasiliauskas       162Vardenis 4.76
+Navickas           164Vardenis 3.84
+Ramanauskas        165Vardenis 4.36
+Vasiliauskas       166Vardenis 3.84
+Butkus             169Vardenis 3.68
+Navickas           171Vardenis 4.76
+Pranevicius        172Vardenis 3.84
+Vasiliauskas       173Vardenis 4.32
+Urbonas            175Vardenis 3.92
+Petrauskas         176Vardenis 3.68
+Kazlauskas         177Vardenis 3.44
+Jankauskas         179Vardenis 3.64
+Petrauskas         180Vardenis 3.80
+Jankauskas         181Vardenis 3.24
+Navickas           182Vardenis 3.04
+Pranevicius        184Vardenis 3.44
+Ramanauskas        185Vardenis 4.20
+Butkus             186Vardenis 2.52
+Petrauskas         188Vardenis 3.40
+Butkus             195Vardenis 3.92
+Vasiliauskas       202Vardenis 3.60
+Ramanauskas        203Vardenis 3.68
+Petrauskas         204Vardenis 4.76
+Navickas           205Vardenis 2.96
+Kazlauskas         206Vardenis 3.52
+Kavaliauskas       208Vardenis 4.88
+Urbonas            209Vardenis 4.76
+Kavaliauskas       212Vardenis 4.52
+Pranevicius        215Vardenis 4.84
+Ramanauskas        216Vardenis 4.28
+Pranevicius        219Vardenis 2.92
+Jankauskas         220Vardenis 2.84
+Urbonas            221Vardenis 3.40
+Kavaliauskas       222Vardenis 3.64
+Butkus             233Vardenis 4.28
+Navickas           234Vardenis 3.84
+Ramanauskas        236Vardenis 3.64
+Pranevicius        239Vardenis 2.36
+Pranevicius        243Vardenis 4.52
+Jankauskas         246Vardenis 3.00
+Ramanauskas        248Vardenis 4.60
+Ramanauskas        249Vardenis 4.72
+Kavaliauskas       250Vardenis 3.68
+Butkus             251Vardenis 3.80
+Pranevicius        252Vardenis 2.56
+Kazlauskas         254Vardenis 4.60
+Pranevicius        255Vardenis 4.72
+Kazlauskas         256Vardenis 4.76
+Vasiliauskas       257Vardenis 2.44
+Jankauskas         266Vardenis 3.20
+Ramanauskas        267Vardenis 4.28
+Urbonas            269Vardenis 2.12
+Jankauskas         274Vardenis 4.48
+Petrauskas         275Vardenis 3.44
+Butkus             279Vardenis 2.92
+Ramanauskas        285Vardenis 4.68
+Urbonas            288Vardenis 3.24
+Urbonas            296Vardenis 3.72
+Navickas           297Vardenis 4.96
+Petrauskas         298Vardenis 3.80
+Pranevicius        299Vardenis 3.72
+Navickas           303Vardenis 4.00
+Butkus             305Vardenis 3.76
+Kazlauskas         306Vardenis 4.40
+Pranevicius        307Vardenis 4.28
+Pranevicius        310Vardenis 2.20
+Ramanauskas        313Vardenis 3.12
+Vasiliauskas       314Vardenis 3.32
+Petrauskas         316Vardenis 3.72
+Ramanauskas        319Vardenis 2.80
+Kazlauskas         320Vardenis 2.20
+Navickas           323Vardenis 2.68
+Ramanauskas        324Vardenis 2.92
+Vasiliauskas       325Vardenis 4.08
+Kavaliauskas       326Vardenis 3.20
+Kazlauskas         327Vardenis 4.76
+Petrauskas         330Vardenis 2.60
+Vasiliauskas       331Vardenis 4.32
+Urbonas            332Vardenis 4.76
+Vasiliauskas       334Vardenis 2.32
+Pranevicius        336Vardenis 3.88
+Urbonas            339Vardenis 4.76
+Petrauskas         340Vardenis 4.40
+Butkus             341Vardenis 3.68
+Butkus             342Vardenis 4.48
+Kazlauskas         344Vardenis 2.80
+Ramanauskas        346Vardenis 4.96
+Butkus             347Vardenis 4.64
+Petrauskas         348Vardenis 3.68
+Pranevicius        350Vardenis 3.40
+Pranevicius        353Vardenis 3.64
+Urbonas            354Vardenis 4.20
+Kazlauskas         358Vardenis 1.80
+Kavaliauskas       359Vardenis 3.64
+Jankauskas         363Vardenis 4.72
+Urbonas            364Vardenis 3.04
+Ramanauskas        367Vardenis 3.20
+Navickas           368Vardenis 4.88
+Navickas           370Vardenis 4.16
+Ramanauskas        371Vardenis 4.88
+Pranevicius        376Vardenis 4.28
+Navickas           377Vardenis 4.12
+Jankauskas         379Vardenis 4.24
+Pranevicius        388Vardenis 3.80
+Urbonas            389Vardenis 4.16
+Jankauskas         399Vardenis 4.20
+Butkus             404Vardenis 3.76
+Navickas           414Vardenis 3.68
+Navickas           415Vardenis 3.52
+Butkus             416Vardenis 3.40
+Navickas           417Vardenis 4.76
+Kazlauskas         422Vardenis 4.36
+Vasiliauskas       424Vardenis 2.20
+Urbonas            425Vardenis 4.56
+Navickas           431Vardenis 2.36
+Navickas           434Vardenis 3.16
+Vasiliauskas       440Vardenis 3.32
+Kavaliauskas       441Vardenis 3.96
+Kavaliauskas       442Vardenis 4.20
+Navickas           448Vardenis 4.80
+Navickas           454Vardenis 3.96
+Kavaliauskas       456Vardenis 3.52
+Jankauskas         457Vardenis 1.88
+Jankauskas         460Vardenis 4.60
+Jankauskas         464Vardenis 2.60
+Pranevicius        467Vardenis 4.68
+Ramanauskas        468Vardenis 4.52
+Jankauskas         469Vardenis 2.28
+Petrauskas         470Vardenis 3.88
+Ramanauskas        472Vardenis 4.96
+Petrauskas         473Vardenis 2.92
+Navickas           477Vardenis 3.68
+Petrauskas         483Vardenis 3.64
+Ramanauskas        484Vardenis 4.48
+Butkus             486Vardenis 3.20
+Kazlauskas         489Vardenis 3.56
+Ramanauskas        492Vardenis 3.04
+Pranevicius        493Vardenis 3.60
+Butkus             495Vardenis 4.60
+Kavaliauskas       500Vardenis 2.60
+Vasiliauskas       502Vardenis 3.52
+Kazlauskas         504Vardenis 4.20
+Jankauskas         505Vardenis 4.40
+Navickas           506Vardenis 4.88
+Butkus             507Vardenis 4.88
+Pranevicius        509Vardenis 2.20
+Jankauskas         510Vardenis 2.60
+Navickas           511Vardenis 4.16
+Butkus             513Vardenis 4.56
+Kavaliauskas       516Vardenis 4.80
+Kavaliauskas       523Vardenis 3.44
+Jankauskas         525Vardenis 3.44
+Urbonas            528Vardenis 4.92
+Kazlauskas         537Vardenis 3.76
+Ramanauskas        539Vardenis 3.12
+Urbonas            545Vardenis 1.64
+Jankauskas         546Vardenis 4.72
+Navickas           547Vardenis 4.96
+Urbonas            549Vardenis 3.76
+Kavaliauskas       551Vardenis 2.60
+Ramanauskas        554Vardenis 3.76
+Jankauskas         558Vardenis 4.72
+Vasiliauskas       559Vardenis 4.00
+Jankauskas         562Vardenis 4.76
+Vasiliauskas       563Vardenis 4.36
+Petrauskas         564Vardenis 2.80
+Pranevicius        567Vardenis 2.44
+Kavaliauskas       569Vardenis 4.76
+Petrauskas         570Vardenis 3.96
+Kazlauskas         576Vardenis 4.76
+Urbonas            580Vardenis 4.40
+Butkus             582Vardenis 3.40
+Pranevicius        585Vardenis 3.88
+Kazlauskas         587Vardenis 4.56
+Jankauskas         593Vardenis 4.96
+Vasiliauskas       596Vardenis 2.88
+Kazlauskas         606Vardenis 3.40
+Vasiliauskas       607Vardenis 3.16
+Vasiliauskas       609Vardenis 3.68
+Ramanauskas        615Vardenis 4.76
+Urbonas            617Vardenis 4.92
+Kazlauskas         618Vardenis 3.60
+Butkus             620Vardenis 4.52
+Jankauskas         622Vardenis 3.72
+Kavaliauskas       623Vardenis 2.92
+Vasiliauskas       625Vardenis 3.08
+Ramanauskas        626Vardenis 2.20
+Kazlauskas         627Vardenis 4.84
+Pranevicius        630Vardenis 3.76
+Urbonas            632Vardenis 2.92
+Pranevicius        640Vardenis 3.08
+Navickas           645Vardenis 2.48
+Navickas           647Vardenis 3.60
+Ramanauskas        650Vardenis 2.92
+Petrauskas         651Vardenis 4.76
+Jankauskas         653Vardenis 4.12
+Petrauskas         658Vardenis 1.96
+Kazlauskas         661Vardenis 4.08
+Jankauskas         663Vardenis 4.32
+Kazlauskas         668Vardenis 3.40
+Kavaliauskas       669Vardenis 4.56
+Petrauskas         675Vardenis 4.16
+Pranevicius        676Vardenis 2.24
+Vasiliauskas       679Vardenis 3.00
+Urbonas            682Vardenis 3.16
+Vasiliauskas       683Vardenis 3.24
+Ramanauskas        684Vardenis 4.32
+Kavaliauskas       686Vardenis 4.56
+Jankauskas         687Vardenis 4.00
+Pranevicius        691Vardenis 2.76
+Kazlauskas         692Vardenis 4.52
+Jankauskas         694Vardenis 4.12
+Ramanauskas        695Vardenis 3.88
+Urbonas            696Vardenis 4.36
+Urbonas            697Vardenis 3.00
+Petrauskas         699Vardenis 2.12
+Vasiliauskas       700Vardenis 3.00
+Butkus             703Vardenis 3.72
+Pranevicius        704Vardenis 4.28
+Jankauskas         705Vardenis 2.84
+Vasiliauskas       706Vardenis 2.56
+Pranevicius        708Vardenis 4.32
+Jankauskas         709Vardenis 3.44
+Kavaliauskas       711Vardenis 3.36
+Urbonas            712Vardenis 3.12
+Kazlauskas         715Vardenis 2.44
+Vasiliauskas       716Vardenis 4.88
+Petrauskas         719Vardenis 3.80
+Kazlauskas         720Vardenis 4.88
+Vasiliauskas       722Vardenis 3.60
+Jankauskas         723Vardenis 4.92
+Pranevicius        726Vardenis 4.32
+Navickas           729Vardenis 2.60
+Butkus             733Vardenis 3.40
+Vasiliauskas       734Vardenis 4.88
+Urbonas            737Vardenis 2.92
+Ramanauskas        738Vardenis 4.48
+Navickas           739Vardenis 4.28
+Jankauskas         740Vardenis 4.28
+Butkus             743Vardenis 4.04
+Kavaliauskas       744Vardenis 3.52
+Ramanauskas        745Vardenis 4.00
+Jankauskas         746Vardenis 4.68
+Ramanauskas        747Vardenis 3.28
+Kazlauskas         748Vardenis 2.76
+Butkus             752Vardenis 4.04
+Pranevicius        753Vardenis 4.16
+Kazlauskas         754Vardenis 3.88
+Butkus             756Vardenis 4.84
+Ramanauskas        757Vardenis 3.32
+Kazlauskas         759Vardenis 4.52
+Petrauskas         763Vardenis 4.92
+Urbonas            766Vardenis 3.92
+Jankauskas         767Vardenis 4.00
+Petrauskas         770Vardenis 3.96
+Urbonas            771Vardenis 3.60
+Ramanauskas        773Vardenis 3.80
+Urbonas            791Vardenis 4.60
+Kavaliauskas       793Vardenis 4.16
+Petrauskas         795Vardenis 4.44
+Vasiliauskas       796Vardenis 2.68
+Butkus             799Vardenis 4.56
+Navickas           800Vardenis 4.08
+Urbonas            802Vardenis 4.08
+Butkus             803Vardenis 4.20
+Butkus             804Vardenis 3.72
+Urbonas            805Vardenis 4.96
+Ramanauskas        806Vardenis 3.16
+Kavaliauskas       808Vardenis 3.56
+Urbonas            809Vardenis 2.12
+Jankauskas         810Vardenis 4.48
+Butkus             811Vardenis 3.88
+Navickas           812Vardenis 3.12
+Kavaliauskas       814Vardenis 3.44
+Vasiliauskas       818Vardenis 2.84
+Butkus             821Vardenis 3.52
+Kavaliauskas       823Vardenis 4.52
+Navickas           824Vardenis 2.44
+Vasiliauskas       825Vardenis 3.84
+Kazlauskas         828Vardenis 3.92
+Navickas           830Vardenis 3.04
+Petrauskas         831Vardenis 4.12
+Pranevicius        832Vardenis 3.44
+Jankauskas         833Vardenis 3.76
+Jankauskas         835Vardenis 3.16
+Ramanauskas        838Vardenis 3.96
+Butkus             839Vardenis 4.64
+Jankauskas         840Vardenis 2.48
+Navickas           841Vardenis 4.84
+Vasiliauskas       842Vardenis 2.68
+Urbonas            845Vardenis 4.60
+Jankauskas         849Vardenis 3.16
+Butkus             850Vardenis 3.56
+Navickas           851Vardenis 4.44
+Ramanauskas        857Vardenis 3.08
+Urbonas            859Vardenis 2.76
+Jankauskas         861Vardenis 3.04
+Butkus             862Vardenis 3.84
+Kazlauskas         863Vardenis 2.20
+Navickas           867Vardenis 4.48
+Vasiliauskas       872Vardenis 4.20
+Kavaliauskas       876Vardenis 4.40
+Butkus             877Vardenis 4.20
+Petrauskas         878Vardenis 2.52
+Butkus             882Vardenis 4.60
+Ramanauskas        884Vardenis 3.12
+Kavaliauskas       888Vardenis 4.64
+Ramanauskas        891Vardenis 3.04
+Jankauskas         892Vardenis 2.68
+Navickas           893Vardenis 3.48
+Urbonas            896Vardenis 4.36
+Butkus             897Vardenis 3.00
+Kazlauskas         899Vardenis 4.48
+Navickas           901Vardenis 2.84
+Pranevicius        904Vardenis 4.28
+Kazlauskas         911Vardenis 3.40
+Vasiliauskas       914Vardenis 4.04
+Kazlauskas         919Vardenis 4.92
+Petrauskas         921Vardenis 4.88
+Vasiliauskas       923Vardenis 3.36
+Ramanauskas        926Vardenis 4.80
+Butkus             931Vardenis 4.56
+Kavaliauskas       932Vardenis 2.84
+Navickas           933Vardenis 4.92
+Ramanauskas        935Vardenis 1.72
+Urbonas            936Vardenis 4.60
+Urbonas            937Vardenis 3.68
+Jankauskas         938Vardenis 4.24
+Petrauskas         940Vardenis 4.92
+Vasiliauskas       945Vardenis 4.36
+Petrauskas         946Vardenis 2.60
+Jankauskas         948Vardenis 4.72
+Urbonas            953Vardenis 3.76
+Butkus             959Vardenis 4.00
+Urbonas            963Vardenis 3.68
+Urbonas            964Vardenis 4.64
+Butkus             966Vardenis 3.64
+Urbonas            971Vardenis 3.84
+Butkus             974Vardenis 3.08
+Urbonas            981Vardenis 3.00
+Navickas           983Vardenis 2.60
+Petrauskas         984Vardenis 4.52
+Navickas           985Vardenis 4.00
+Kavaliauskas       986Vardenis 4.40
+Navickas           987Vardenis 4.64
+Ramanauskas        992Vardenis 3.36
+Ramanauskas        994Vardenis 4.52
+Ramanauskas        999Vardenis 2.60
+Kazlauskas         1000Vardenis3.36
+Kavaliauskas       1003Vardenis3.64
+Butkus             1010Vardenis4.88
+Petrauskas         1015Vardenis3.88
+Navickas           1016Vardenis4.92
+Petrauskas         1018Vardenis4.64
+Navickas           1025Vardenis3.56
+Navickas           1026Vardenis3.84
+Navickas           1027Vardenis3.92
+Petrauskas         1032Vardenis3.32
+Vasiliauskas       1033Vardenis4.60
+Urbonas            1034Vardenis4.00
+Ramanauskas        1036Vardenis4.04
+Ramanauskas        1037Vardenis3.16
+Navickas           1045Vardenis2.36
+Navickas           1046Vardenis4.96
+Vasiliauskas       1047Vardenis4.72
+Kavaliauskas       1050Vardenis4.00
+Urbonas            1051Vardenis4.12
+Kavaliauskas       1052Vardenis3.48
+Petrauskas         1056Vardenis3.48
+Kavaliauskas       1057Vardenis3.00
+Butkus             1059Vardenis4.28
+Jankauskas         1060Vardenis4.20
+Vasiliauskas       1062Vardenis4.88
+Pranevicius        1064Vardenis2.60
+Vasiliauskas       1065Vardenis4.32
+Navickas           1066Vardenis3.00
+Kazlauskas         1067Vardenis4.40
+Pranevicius        1075Vardenis3.60
+Butkus             1080Vardenis3.80
+Kavaliauskas       1082Vardenis3.64
+Butkus             1083Vardenis2.52
+Kazlauskas         1084Vardenis2.68
+Vasiliauskas       1085Vardenis4.20
+Petrauskas         1086Vardenis4.68
+Pranevicius        1089Vardenis3.44
+Urbonas            1090Vardenis3.28
+Kavaliauskas       1091Vardenis3.04
+Kazlauskas         1092Vardenis3.56
+Ramanauskas        1095Vardenis3.28
+Ramanauskas        1096Vardenis2.36
+Pranevicius        1097Vardenis2.44
+Vasiliauskas       1102Vardenis2.24
+Vasiliauskas       1103Vardenis4.04
+Butkus             1106Vardenis3.84
+Kazlauskas         1108Vardenis4.40
+Petrauskas         1109Vardenis2.36
+Navickas           1113Vardenis3.00
+Pranevicius        1120Vardenis3.72
+Ramanauskas        1121Vardenis4.24
+Jankauskas         1122Vardenis3.56
+Vasiliauskas       1123Vardenis3.32
+Jankauskas         1128Vardenis4.64
+Kazlauskas         1134Vardenis4.44
+Petrauskas         1136Vardenis4.20
+Ramanauskas        1140Vardenis3.36
+Kazlauskas         1146Vardenis2.64
+Urbonas            1147Vardenis3.00
+Ramanauskas        1150Vardenis4.08
+Vasiliauskas       1152Vardenis4.20
+Pranevicius        1153Vardenis4.44
+Jankauskas         1154Vardenis4.60
+Kavaliauskas       1156Vardenis2.68
+Navickas           1161Vardenis3.60
+Petrauskas         1162Vardenis4.76
+Ramanauskas        1164Vardenis3.00
+Jankauskas         1165Vardenis4.08
+Kavaliauskas       1166Vardenis4.68
+Navickas           1169Vardenis4.96
+Kazlauskas         1171Vardenis3.16
+Pranevicius        1175Vardenis2.76
+Kavaliauskas       1176Vardenis4.64
+Kazlauskas         1177Vardenis2.76
+Petrauskas         1178Vardenis4.72
+Jankauskas         1179Vardenis3.12
+Kavaliauskas       1181Vardenis3.08
+Kazlauskas         1184Vardenis4.16
+Vasiliauskas       1185Vardenis2.20
+Jankauskas         1189Vardenis3.72
+Kavaliauskas       1190Vardenis2.68
+Kazlauskas         1193Vardenis4.84
+Urbonas            1194Vardenis4.08
+Petrauskas         1196Vardenis4.96
+Urbonas            1197Vardenis2.44
+Pranevicius        1198Vardenis4.68
+Kavaliauskas       1202Vardenis3.40
+Ramanauskas        1203Vardenis4.80
+Vasiliauskas       1204Vardenis4.92
+Kazlauskas         1206Vardenis3.24
+Urbonas            1210Vardenis2.44
+Ramanauskas        1212Vardenis2.04
+Navickas           1215Vardenis4.36
+Vasiliauskas       1216Vardenis3.80
+Ramanauskas        1223Vardenis3.56
+Vasiliauskas       1228Vardenis3.40
+Kazlauskas         1229Vardenis2.28
+Petrauskas         1230Vardenis4.20
+Ramanauskas        1232Vardenis2.92
+Urbonas            1233Vardenis4.68
+Pranevicius        1234Vardenis2.92
+Ramanauskas        1237Vardenis3.92
+Urbonas            1239Vardenis3.88
+Butkus             1240Vardenis4.76
+Kavaliauskas       1242Vardenis4.48
+Ramanauskas        1245Vardenis4.48
+Urbonas            1247Vardenis3.96
+Petrauskas         1250Vardenis2.76
+Navickas           1251Vardenis2.68
+Vasiliauskas       1253Vardenis4.72
+Urbonas            1257Vardenis4.84
+Butkus             1258Vardenis3.32
+Jankauskas         1259Vardenis4.76
+Vasiliauskas       1261Vardenis4.12
+Kazlauskas         1263Vardenis2.68
+Urbonas            1265Vardenis4.48
+Pranevicius        1270Vardenis4.24
+Kavaliauskas       1283Vardenis2.68
+Pranevicius        1284Vardenis2.68
+Navickas           1285Vardenis3.56
+Ramanauskas        1288Vardenis4.00
+Butkus             1289Vardenis2.80
+Butkus             1293Vardenis3.40
+Petrauskas         1295Vardenis4.04
+Jankauskas         1297Vardenis3.88
+Kavaliauskas       1301Vardenis3.52
+Kavaliauskas       1302Vardenis4.00
+Pranevicius        1304Vardenis2.52
+Navickas           1307Vardenis2.88
+Kazlauskas         1310Vardenis4.16
+Pranevicius        1311Vardenis3.28
+Jankauskas         1320Vardenis3.08
+Ramanauskas        1321Vardenis4.40
+Ramanauskas        1326Vardenis3.92
+Butkus             1327Vardenis2.88
+Vasiliauskas       1330Vardenis2.64
+Ramanauskas        1332Vardenis3.60
+Navickas           1337Vardenis3.40
+Navickas           1338Vardenis2.04
+Kavaliauskas       1339Vardenis2.92
+Butkus             1341Vardenis3.04
+Jankauskas         1343Vardenis4.12
+Ramanauskas        1347Vardenis3.52
+Pranevicius        1351Vardenis3.04
+Urbonas            1359Vardenis4.80
+Kavaliauskas       1362Vardenis3.32
+Kavaliauskas       1363Vardenis4.20
+Jankauskas         1364Vardenis4.64
+Urbonas            1366Vardenis4.16
+Butkus             1367Vardenis3.36
+Pranevicius        1370Vardenis3.68
+Ramanauskas        1371Vardenis4.76
+Kavaliauskas       1372Vardenis4.92
+Petrauskas         1375Vardenis4.40
+Urbonas            1376Vardenis4.80
+Jankauskas         1380Vardenis3.68
+Navickas           1381Vardenis3.80
+Urbonas            1386Vardenis1.56
+Kazlauskas         1387Vardenis2.20
+Butkus             1395Vardenis4.60
+Pranevicius        1398Vardenis3.44
+Ramanauskas        1399Vardenis4.48
+Kavaliauskas       1403Vardenis3.24
+Kazlauskas         1407Vardenis2.92
+Kavaliauskas       1409Vardenis4.04
+Kazlauskas         1410Vardenis4.48
+Urbonas            1412Vardenis3.92
+Kazlauskas         1415Vardenis3.24
+Urbonas            1416Vardenis4.44
+Pranevicius        1422Vardenis4.52
+Petrauskas         1424Vardenis3.24
+Jankauskas         1425Vardenis2.84
+Butkus             1426Vardenis3.56
+Pranevicius        1428Vardenis2.52
+Butkus             1429Vardenis2.60
+Navickas           1430Vardenis2.96
+Kavaliauskas       1432Vardenis4.40
+Kazlauskas         1440Vardenis3.16
+Jankauskas         1445Vardenis4.12
+Jankauskas         1447Vardenis4.48
+Urbonas            1449Vardenis3.72
+Urbonas            1450Vardenis4.60
+Ramanauskas        1458Vardenis3.92
+Kazlauskas         1466Vardenis3.08
+Butkus             1467Vardenis4.44
+Butkus             1468Vardenis2.96
+Kavaliauskas       1470Vardenis3.24
+Navickas           1471Vardenis4.84
+Navickas           1475Vardenis3.24
+Ramanauskas        1476Vardenis4.40
+Jankauskas         1479Vardenis4.44
+Pranevicius        1481Vardenis4.84
+Navickas           1482Vardenis4.00
+Jankauskas         1485Vardenis3.72
+Vasiliauskas       1486Vardenis2.72
+Kazlauskas         1487Vardenis4.40
+Urbonas            1490Vardenis4.56
+Petrauskas         1492Vardenis4.16
+Jankauskas         1493Vardenis3.36
+Kazlauskas         1496Vardenis4.52
+Petrauskas         1498Vardenis2.76
+Kavaliauskas       1502Vardenis2.52
+Petrauskas         1504Vardenis3.00
+Urbonas            1506Vardenis3.08
+Pranevicius        1509Vardenis3.08
+Petrauskas         1512Vardenis4.52
+Ramanauskas        1515Vardenis4.64
+Vasiliauskas       1517Vardenis4.88
+Ramanauskas        1519Vardenis3.28
+Kazlauskas         1520Vardenis3.68
+Butkus             1521Vardenis4.48
+Butkus             1522Vardenis4.60
+Urbonas            1527Vardenis3.80
+Ramanauskas        1528Vardenis4.48
+Navickas           1529Vardenis2.64
+Pranevicius        1531Vardenis2.52
+Urbonas            1539Vardenis2.20
+Urbonas            1540Vardenis3.88
+Pranevicius        1544Vardenis3.04
+Navickas           1546Vardenis3.36
+Ramanauskas        1549Vardenis4.64
+Jankauskas         1551Vardenis4.24
+Urbonas            1552Vardenis2.84
+Navickas           1553Vardenis4.00
+Ramanauskas        1554Vardenis3.60
+Butkus             1555Vardenis4.32
+Jankauskas         1556Vardenis4.20
+Kazlauskas         1557Vardenis2.36
+Vasiliauskas       1558Vardenis2.48
+Petrauskas         1559Vardenis4.12
+Pranevicius        1564Vardenis3.76
+Ramanauskas        1565Vardenis2.64
+Urbonas            1570Vardenis3.16
+Navickas           1572Vardenis4.32
+Ramanauskas        1575Vardenis4.32
+Ramanauskas        1576Vardenis3.12
+Kavaliauskas       1577Vardenis3.04
+Kazlauskas         1578Vardenis3.12
+Jankauskas         1580Vardenis4.96
+Butkus             1581Vardenis3.40
+Kavaliauskas       1586Vardenis3.36
+Kazlauskas         1592Vardenis3.16
+Pranevicius        1593Vardenis4.12
+Vasiliauskas       1594Vardenis4.84
+Petrauskas         1595Vardenis3.60
+Kavaliauskas       1596Vardenis3.64
+Pranevicius        1599Vardenis2.60
+Ramanauskas        1600Vardenis3.16
+Vasiliauskas       1602Vardenis4.56
+Navickas           1603Vardenis3.92
+Petrauskas         1604Vardenis4.36
+Kavaliauskas       1607Vardenis3.88
+Pranevicius        1608Vardenis2.76
+Petrauskas         1611Vardenis2.20
+Pranevicius        1613Vardenis4.60
+Kavaliauskas       1614Vardenis2.20
+Vasiliauskas       1619Vardenis4.04
+Jankauskas         1621Vardenis3.56
+Urbonas            1623Vardenis3.28
+Pranevicius        1624Vardenis3.64
+Butkus             1625Vardenis3.28
+Vasiliauskas       1627Vardenis2.76
+Navickas           1633Vardenis4.52
+Butkus             1634Vardenis4.80
+Jankauskas         1636Vardenis3.44
+Butkus             1637Vardenis4.36
+Kazlauskas         1639Vardenis4.60
+Vasiliauskas       1640Vardenis2.28
+Pranevicius        1644Vardenis4.28
+Petrauskas         1646Vardenis1.88
+Kavaliauskas       1648Vardenis3.84
+Pranevicius        1649Vardenis4.24
+Kavaliauskas       1651Vardenis3.96
+Jankauskas         1653Vardenis2.84
+Kavaliauskas       1655Vardenis4.36
+Kavaliauskas       1657Vardenis4.00
+Kazlauskas         1664Vardenis4.24
+Butkus             1666Vardenis3.32
+Urbonas            1668Vardenis4.08
+Kavaliauskas       1670Vardenis3.72
+Pranevicius        1674Vardenis2.28
+Petrauskas         1675Vardenis3.56
+Jankauskas         1676Vardenis4.88
+Butkus             1677Vardenis4.80
+Ramanauskas        1680Vardenis3.24
+Pranevicius        1683Vardenis4.80
+Butkus             1685Vardenis2.68
+Butkus             1690Vardenis4.32
+Ramanauskas        1692Vardenis4.28
+Navickas           1693Vardenis2.60
+Vasiliauskas       1694Vardenis3.28
+Navickas           1695Vardenis4.24
+Kavaliauskas       1697Vardenis4.96
+Kazlauskas         1698Vardenis3.44
+Urbonas            1700Vardenis4.40
+Navickas           1702Vardenis3.36
+Butkus             1703Vardenis3.80
+Butkus             1704Vardenis4.16
+Navickas           1705Vardenis4.76
+Ramanauskas        1706Vardenis4.32
+Kavaliauskas       1712Vardenis3.56
+Navickas           1714Vardenis3.48
+Jankauskas         1717Vardenis4.20
+Ramanauskas        1721Vardenis3.08
+Vasiliauskas       1724Vardenis4.44
+Urbonas            1725Vardenis3.92
+Kazlauskas         1729Vardenis4.56
+Ramanauskas        1730Vardenis3.52
+Petrauskas         1731Vardenis4.56
+Kazlauskas         1734Vardenis4.36
+Vasiliauskas       1739Vardenis2.28
+Pranevicius        1740Vardenis3.72
+Butkus             1742Vardenis4.28
+Ramanauskas        1743Vardenis3.64
+Kavaliauskas       1744Vardenis3.28
+Petrauskas         1746Vardenis3.36
+Kazlauskas         1748Vardenis3.04
+Jankauskas         1752Vardenis3.48
+Urbonas            1754Vardenis4.56
+Ramanauskas        1755Vardenis2.52
+Jankauskas         1756Vardenis3.24
+Kavaliauskas       1760Vardenis4.44
+Petrauskas         1761Vardenis4.84
+Urbonas            1762Vardenis3.16
+Jankauskas         1763Vardenis4.56
+Kavaliauskas       1764Vardenis4.08
+Ramanauskas        1765Vardenis3.44
+Urbonas            1766Vardenis3.80
+Navickas           1771Vardenis3.36
+Petrauskas         1778Vardenis4.72
+Ramanauskas        1779Vardenis3.04
+Ramanauskas        1782Vardenis2.84
+Navickas           1784Vardenis3.08
+Petrauskas         1785Vardenis3.28
+Petrauskas         1791Vardenis3.04
+Urbonas            1792Vardenis4.88
+Kavaliauskas       1793Vardenis3.08
+Kazlauskas         1794Vardenis3.84
+Vasiliauskas       1800Vardenis3.00
+Vasiliauskas       1803Vardenis3.08
+Urbonas            1806Vardenis3.72
+Butkus             1813Vardenis4.24
+Pranevicius        1814Vardenis4.04
+Pranevicius        1818Vardenis4.60
+Navickas           1824Vardenis3.52
+Pranevicius        1825Vardenis3.92
+Kavaliauskas       1826Vardenis4.12
+Urbonas            1829Vardenis4.36
+Ramanauskas        1830Vardenis3.16
+Petrauskas         1833Vardenis3.88
+Butkus             1837Vardenis2.52
+Kazlauskas         1840Vardenis3.12
+Urbonas            1844Vardenis2.12
+Kavaliauskas       1853Vardenis3.12
+Pranevicius        1855Vardenis3.52
+Vasiliauskas       1857Vardenis1.80
+Vasiliauskas       1858Vardenis4.68
+Urbonas            1859Vardenis3.64
+Butkus             1860Vardenis4.24
+Urbonas            1863Vardenis4.68
+Urbonas            1864Vardenis4.32
+Navickas           1866Vardenis2.20
+Kazlauskas         1869Vardenis4.64
+Pranevicius        1871Vardenis4.92
+Jankauskas         1874Vardenis4.60
+Vasiliauskas       1875Vardenis3.56
+Pranevicius        1876Vardenis2.36
+Kavaliauskas       1879Vardenis2.36
+Pranevicius        1881Vardenis4.68
+Navickas           1883Vardenis2.76
+Pranevicius        1886Vardenis2.52
+Kavaliauskas       1887Vardenis2.84
+Petrauskas         1891Vardenis3.16
+Navickas           1892Vardenis4.12
+Petrauskas         1895Vardenis3.32
+Urbonas            1896Vardenis4.68
+Ramanauskas        1897Vardenis3.68
+Jankauskas         1898Vardenis2.16
+Ramanauskas        1899Vardenis4.56
+Urbonas            1901Vardenis2.12
+Navickas           1902Vardenis2.12
+Jankauskas         1905Vardenis2.04
+Pranevicius        1906Vardenis4.28
+Ramanauskas        1907Vardenis4.48
+Pranevicius        1908Vardenis3.92
+Vasiliauskas       1909Vardenis3.40
+Kavaliauskas       1910Vardenis4.40
+Vasiliauskas       1911Vardenis2.68
+Butkus             1912Vardenis4.44
+Butkus             1915Vardenis4.52
+Kavaliauskas       1916Vardenis2.28
+Navickas           1917Vardenis4.20
+Vasiliauskas       1918Vardenis4.32
+Navickas           1919Vardenis4.00
+Petrauskas         1922Vardenis4.48
+Jankauskas         1923Vardenis2.28
+Vasiliauskas       1927Vardenis4.04
+Jankauskas         1931Vardenis3.48
+Kavaliauskas       1932Vardenis4.96
+Vasiliauskas       1934Vardenis4.40
+Ramanauskas        1935Vardenis4.00
+Butkus             1937Vardenis3.60
+Vasiliauskas       1938Vardenis4.44
+Ramanauskas        1940Vardenis3.88
+Kavaliauskas       1948Vardenis2.96
+Urbonas            1952Vardenis3.48
+Ramanauskas        1953Vardenis4.80
+Urbonas            1955Vardenis3.52
+Pranevicius        1956Vardenis3.52
+Ramanauskas        1957Vardenis2.12
+Vasiliauskas       1961Vardenis4.72
+Jankauskas         1964Vardenis3.56
+Pranevicius        1967Vardenis3.92
+Ramanauskas        1969Vardenis4.52
+Butkus             1970Vardenis3.64
+Kavaliauskas       1973Vardenis4.16
+Jankauskas         1974Vardenis2.52
+Butkus             1976Vardenis4.52
+Kazlauskas         1977Vardenis3.16
+Petrauskas         1978Vardenis4.40
+Navickas           1979Vardenis2.92
+Vasiliauskas       1983Vardenis4.28
+Butkus             1986Vardenis4.08
+Petrauskas         1988Vardenis3.84
+Ramanauskas        1990Vardenis3.28
+Vasiliauskas       1994Vardenis3.24
+Jankauskas         1995Vardenis2.44
+Butkus             1996Vardenis2.88
+Urbonas            1998Vardenis4.84
+Petrauskas         2002Vardenis3.44
+Navickas           2004Vardenis4.76
+Jankauskas         2019Vardenis4.76
+Urbonas            2022Vardenis3.96
+Kavaliauskas       2030Vardenis4.36
+Kazlauskas         2038Vardenis3.76
+Butkus             2040Vardenis3.48
+Pranevicius        2043Vardenis4.60
+Vasiliauskas       2044Vardenis4.16
+Ramanauskas        2045Vardenis4.48
+Jankauskas         2050Vardenis4.12
+Petrauskas         2051Vardenis2.68
+Pranevicius        2056Vardenis3.60
+Butkus             2059Vardenis3.72
+Kavaliauskas       2062Vardenis4.68
+Vasiliauskas       2063Vardenis3.12
+Vasiliauskas       2064Vardenis2.44
+Ramanauskas        2067Vardenis3.48
+Butkus             2069Vardenis3.24
+Pranevicius        2070Vardenis4.24
+Ramanauskas        2073Vardenis3.00
+Pranevicius        2074Vardenis3.96
+Vasiliauskas       2075Vardenis2.92
+Kavaliauskas       2076Vardenis4.56
+Kavaliauskas       2079Vardenis2.60
+Urbonas            2085Vardenis4.12
+Vasiliauskas       2087Vardenis3.04
+Navickas           2089Vardenis3.32
+Ramanauskas        2093Vardenis2.28
+Butkus             2095Vardenis4.32
+Ramanauskas        2097Vardenis4.08
+Ramanauskas        2099Vardenis3.12
+Kazlauskas         2100Vardenis4.80
+Jankauskas         2102Vardenis3.52
+Jankauskas         2103Vardenis3.04
+Ramanauskas        2105Vardenis3.60
+Jankauskas         2107Vardenis4.48
+Navickas           2109Vardenis2.36
+Vasiliauskas       2117Vardenis3.92
+Kavaliauskas       2121Vardenis3.84
+Vasiliauskas       2123Vardenis4.52
+Butkus             2127Vardenis3.40
+Jankauskas         2128Vardenis4.00
+Pranevicius        2132Vardenis2.96
+Butkus             2137Vardenis3.52
+Petrauskas         2141Vardenis4.80
+Kavaliauskas       2143Vardenis4.92
+Kavaliauskas       2148Vardenis4.96
+Kavaliauskas       2149Vardenis2.56
+Petrauskas         2151Vardenis4.64
+Kavaliauskas       2152Vardenis3.92
+Kavaliauskas       2153Vardenis3.68
+Jankauskas         2158Vardenis3.92
+Urbonas            2159Vardenis2.60
+Vasiliauskas       2162Vardenis3.76
+Vasiliauskas       2163Vardenis3.96
+Vasiliauskas       2165Vardenis2.60
+Ramanauskas        2167Vardenis4.24
+Jankauskas         2173Vardenis2.92
+Kazlauskas         2178Vardenis4.48
+Urbonas            2182Vardenis3.56
+Urbonas            2183Vardenis4.48
+Urbonas            2184Vardenis4.20
+Ramanauskas        2190Vardenis4.16
+Navickas           2191Vardenis4.52
+Kavaliauskas       2193Vardenis4.40
+Kavaliauskas       2195Vardenis3.00
+Urbonas            2198Vardenis2.92
+Jankauskas         2199Vardenis4.12
+Butkus             2200Vardenis2.36
+Urbonas            2203Vardenis4.12
+Butkus             2205Vardenis3.36
+Kazlauskas         2207Vardenis2.36
+Pranevicius        2208Vardenis4.36
+Ramanauskas        2209Vardenis3.28
+Kazlauskas         2210Vardenis3.36
+Kavaliauskas       2211Vardenis3.56
+Jankauskas         2215Vardenis3.72
+Urbonas            2216Vardenis3.92
+Vasiliauskas       2217Vardenis3.12
+Jankauskas         2218Vardenis4.84
+Pranevicius        2219Vardenis2.44
+Kazlauskas         2222Vardenis3.12
+Petrauskas         2226Vardenis2.68
+Vasiliauskas       2227Vardenis3.64
+Urbonas            2228Vardenis2.60
+Pranevicius        2231Vardenis4.12
+Kazlauskas         2234Vardenis3.00
+Navickas           2236Vardenis4.76
+Navickas           2237Vardenis3.40
+Pranevicius        2238Vardenis3.04
+Ramanauskas        2240Vardenis2.96
+Jankauskas         2243Vardenis4.08
+Kazlauskas         2244Vardenis3.52
+Urbonas            2245Vardenis3.52
+Ramanauskas        2249Vardenis2.68
+Kavaliauskas       2250Vardenis3.24
+Pranevicius        2251Vardenis3.92
+Ramanauskas        2253Vardenis4.68
+Urbonas            2255Vardenis4.36
+Pranevicius        2256Vardenis2.80
+Kazlauskas         2259Vardenis3.48
+Petrauskas         2262Vardenis2.36
+Ramanauskas        2264Vardenis3.32
+Ramanauskas        2266Vardenis2.76
+Urbonas            2271Vardenis4.28
+Kavaliauskas       2274Vardenis2.96
+Kavaliauskas       2276Vardenis2.44
+Petrauskas         2280Vardenis2.20
+Kazlauskas         2281Vardenis4.72
+Vasiliauskas       2283Vardenis3.56
+Kazlauskas         2286Vardenis3.76
+Jankauskas         2287Vardenis4.16
+Butkus             2288Vardenis4.68
+Jankauskas         2290Vardenis4.52
+Kavaliauskas       2295Vardenis3.20
+Kazlauskas         2296Vardenis3.52
+Kazlauskas         2297Vardenis2.84
+Ramanauskas        2298Vardenis4.44
+Kavaliauskas       2301Vardenis3.60
+Kavaliauskas       2302Vardenis2.44
+Vasiliauskas       2305Vardenis4.20
+Navickas           2306Vardenis3.00
+Petrauskas         2309Vardenis4.52
+Petrauskas         2310Vardenis4.56
+Pranevicius        2311Vardenis4.72
+Ramanauskas        2314Vardenis2.64
+Kavaliauskas       2317Vardenis3.68
+Navickas           2318Vardenis4.96
+Kavaliauskas       2322Vardenis4.44
+Urbonas            2323Vardenis4.08
+Jankauskas         2328Vardenis4.92
+Kazlauskas         2331Vardenis4.76
+Butkus             2334Vardenis3.00
+Pranevicius        2337Vardenis4.52
+Navickas           2339Vardenis4.72
+Kavaliauskas       2343Vardenis3.56
+Kavaliauskas       2345Vardenis4.88
+Kavaliauskas       2351Vardenis3.56
+Ramanauskas        2355Vardenis3.84
+Urbonas            2358Vardenis4.60
+Petrauskas         2360Vardenis2.72
+Navickas           2361Vardenis4.16
+Navickas           2363Vardenis4.72
+Petrauskas         2370Vardenis3.56
+Jankauskas         2375Vardenis2.88
+Vasiliauskas       2386Vardenis2.76
+Urbonas            2391Vardenis4.44
+Ramanauskas        2399Vardenis4.92
+Pranevicius        2402Vardenis4.52
+Jankauskas         2408Vardenis3.44
+Kazlauskas         2411Vardenis2.36
+Pranevicius        2415Vardenis2.68
+Kavaliauskas       2417Vardenis4.60
+Kazlauskas         2418Vardenis4.16
+Kazlauskas         2421Vardenis4.12
+Kavaliauskas       2422Vardenis3.96
+Urbonas            2424Vardenis3.40
+Vasiliauskas       2425Vardenis3.32
+Petrauskas         2431Vardenis4.48
+Vasiliauskas       2432Vardenis4.56
+Butkus             2440Vardenis4.56
+Vasiliauskas       2443Vardenis4.84
+Urbonas            2447Vardenis3.32
+Butkus             2448Vardenis3.48
+Navickas           2449Vardenis3.28
+Petrauskas         2450Vardenis3.44
+Ramanauskas        2452Vardenis2.88
+Kavaliauskas       2453Vardenis2.68
+Jankauskas         2455Vardenis3.88
+Butkus             2457Vardenis4.16
+Kavaliauskas       2458Vardenis4.88
+Kazlauskas         2463Vardenis4.08
+Jankauskas         2467Vardenis4.48
+Ramanauskas        2472Vardenis2.84
+Kavaliauskas       2476Vardenis4.16
+Jankauskas         2478Vardenis4.96
+Petrauskas         2479Vardenis2.68
+Jankauskas         2480Vardenis2.92
+Petrauskas         2488Vardenis2.60
+Petrauskas         2496Vardenis2.88
+Pranevicius        2499Vardenis4.04
+Jankauskas         2500Vardenis2.92
+Petrauskas         2502Vardenis4.24
+Pranevicius        2503Vardenis3.00
+Jankauskas         2504Vardenis3.72
+Kavaliauskas       2505Vardenis4.20
+Pranevicius        2507Vardenis3.16
+Kavaliauskas       2508Vardenis4.80
+Jankauskas         2510Vardenis4.96
+Vasiliauskas       2511Vardenis2.84
+Navickas           2512Vardenis2.76
+Petrauskas         2513Vardenis4.96
+Urbonas            2515Vardenis2.96
+Kavaliauskas       2519Vardenis4.92
+Jankauskas         2523Vardenis4.56
+Navickas           2524Vardenis3.72
+Vasiliauskas       2525Vardenis3.32
+Navickas           2527Vardenis4.56
+Butkus             2528Vardenis4.92
+Urbonas            2529Vardenis3.28
+Jankauskas         2530Vardenis4.60
+Kazlauskas         2533Vardenis3.52
+Vasiliauskas       2535Vardenis2.72
+Petrauskas         2539Vardenis3.12
+Pranevicius        2541Vardenis4.48
+Urbonas            2542Vardenis2.88
+Navickas           2544Vardenis2.88
+Kavaliauskas       2547Vardenis3.08
+Pranevicius        2548Vardenis3.92
+Urbonas            2553Vardenis2.88
+Pranevicius        2556Vardenis2.36
+Butkus             2559Vardenis2.72
+Urbonas            2560Vardenis3.72
+Ramanauskas        2564Vardenis4.24
+Vasiliauskas       2571Vardenis3.04
+Butkus             2572Vardenis4.16
+Jankauskas         2574Vardenis4.16
+Navickas           2575Vardenis3.64
+Kazlauskas         2576Vardenis3.28
+Kazlauskas         2577Vardenis3.40
+Ramanauskas        2578Vardenis4.28
+Kazlauskas         2579Vardenis4.68
+Pranevicius        2581Vardenis3.40
+Kavaliauskas       2583Vardenis3.32
+Butkus             2585Vardenis2.88
+Navickas           2587Vardenis2.56
+Navickas           2591Vardenis4.32
+Kazlauskas         2593Vardenis4.12
+Petrauskas         2595Vardenis4.00
+Jankauskas         2596Vardenis4.76
+Vasiliauskas       2597Vardenis4.88
+Vasiliauskas       2598Vardenis3.40
+Vasiliauskas       2600Vardenis2.36
+Navickas           2601Vardenis4.92
+Pranevicius        2606Vardenis3.84
+Kavaliauskas       2609Vardenis3.28
+Butkus             2611Vardenis4.48
+Petrauskas         2612Vardenis4.48
+Kazlauskas         2622Vardenis4.60
+Kavaliauskas       2624Vardenis3.40
+Butkus             2628Vardenis4.72
+Urbonas            2629Vardenis4.88
+Ramanauskas        2630Vardenis3.12
+Urbonas            2631Vardenis4.80
+Jankauskas         2632Vardenis2.52
+Kavaliauskas       2633Vardenis3.00
+Pranevicius        2635Vardenis3.08
+Navickas           2638Vardenis4.88
+Petrauskas         2642Vardenis3.64
+Petrauskas         2644Vardenis3.84
+Jankauskas         2646Vardenis4.44
+Kavaliauskas       2649Vardenis2.68
+Butkus             2650Vardenis4.76
+Butkus             2651Vardenis3.00
+Pranevicius        2653Vardenis2.12
+Jankauskas         2655Vardenis3.76
+Kazlauskas         2656Vardenis3.76
+Pranevicius        2658Vardenis2.20
+Ramanauskas        2659Vardenis2.60
+Butkus             2661Vardenis4.52
+Jankauskas         2664Vardenis2.64
+Jankauskas         2665Vardenis3.44
+Jankauskas         2667Vardenis4.52
+Pranevicius        2668Vardenis3.56
+Kazlauskas         2671Vardenis4.16
+Vasiliauskas       2676Vardenis3.48
+Urbonas            2680Vardenis3.72
+Vasiliauskas       2685Vardenis4.76
+Kazlauskas         2691Vardenis3.76
+Kazlauskas         2693Vardenis4.84
+Pranevicius        2694Vardenis4.24
+Navickas           2696Vardenis3.44
+Butkus             2699Vardenis3.28
+Petrauskas         2700Vardenis3.52
+Pranevicius        2702Vardenis3.64
+Navickas           2704Vardenis3.36
+Jankauskas         2706Vardenis3.12
+Jankauskas         2707Vardenis2.84
+Jankauskas         2714Vardenis3.24
+Butkus             2719Vardenis2.60
+Ramanauskas        2720Vardenis4.60
+Butkus             2721Vardenis4.36
+Urbonas            2723Vardenis4.52
+Pranevicius        2727Vardenis4.72
+Jankauskas         2731Vardenis4.80
+Jankauskas         2733Vardenis3.60
+Ramanauskas        2740Vardenis3.16
+Jankauskas         2742Vardenis4.56
+Ramanauskas        2743Vardenis3.48
+Ramanauskas        2745Vardenis3.08
+Kavaliauskas       2746Vardenis4.48
+Jankauskas         2750Vardenis3.12
+Kazlauskas         2751Vardenis4.40
+Urbonas            2754Vardenis1.96
+Butkus             2755Vardenis3.72
+Jankauskas         2758Vardenis3.44
+Navickas           2759Vardenis3.84
+Petrauskas         2764Vardenis3.52
+Petrauskas         2767Vardenis4.16
+Butkus             2769Vardenis2.68
+Petrauskas         2772Vardenis3.44
+Vasiliauskas       2774Vardenis3.20
+Kavaliauskas       2779Vardenis4.24
+Kazlauskas         2784Vardenis3.60
+Jankauskas         2785Vardenis3.52
+Butkus             2786Vardenis4.16
+Ramanauskas        2787Vardenis2.60
+Vasiliauskas       2788Vardenis3.24
+Ramanauskas        2789Vardenis4.80
+Petrauskas         2790Vardenis2.68
+Ramanauskas        2791Vardenis3.72
+Vasiliauskas       2794Vardenis3.28
+Jankauskas         2797Vardenis3.04
+Butkus             2800Vardenis3.48
+Ramanauskas        2802Vardenis2.44
+Urbonas            2805Vardenis2.16
+Navickas           2807Vardenis4.76
+Pranevicius        2808Vardenis3.32
+Pranevicius        2809Vardenis3.88
+Petrauskas         2815Vardenis3.24
+Ramanauskas        2816Vardenis4.60
+Navickas           2817Vardenis3.72
+Urbonas            2826Vardenis3.00
+Butkus             2828Vardenis3.76
+Kazlauskas         2829Vardenis4.72
+Vasiliauskas       2838Vardenis4.40
+Vasiliauskas       2840Vardenis2.88
+Navickas           2841Vardenis4.00
+Jankauskas         2843Vardenis1.80
+Jankauskas         2844Vardenis3.44
+Pranevicius        2849Vardenis4.16
+Pranevicius        2854Vardenis2.24
+Navickas           2855Vardenis3.24
+Navickas           2857Vardenis3.88
+Ramanauskas        2860Vardenis4.92
+Butkus             2861Vardenis3.16
+Kavaliauskas       2863Vardenis2.52
+Kazlauskas         2865Vardenis3.40
+Kazlauskas         2866Vardenis3.32
+Kazlauskas         2868Vardenis2.28
+Jankauskas         2869Vardenis4.00
+Jankauskas         2872Vardenis2.40
+Jankauskas         2873Vardenis3.72
+Urbonas            2874Vardenis4.64
+Pranevicius        2876Vardenis3.52
+Butkus             2883Vardenis4.44
+Urbonas            2884Vardenis4.08
+Vasiliauskas       2885Vardenis3.60
+Navickas           2886Vardenis2.72
+Ramanauskas        2887Vardenis3.32
+Kazlauskas         2889Vardenis3.92
+Petrauskas         2892Vardenis4.28
+Vasiliauskas       2896Vardenis4.16
+Pranevicius        2901Vardenis3.64
+Petrauskas         2903Vardenis4.28
+Jankauskas         2905Vardenis2.60
+Petrauskas         2906Vardenis2.96
+Kazlauskas         2908Vardenis2.52
+Kavaliauskas       2910Vardenis3.24
+Kavaliauskas       2912Vardenis4.20
+Urbonas            2913Vardenis3.72
+Petrauskas         2918Vardenis3.80
+Ramanauskas        2920Vardenis3.68
+Kavaliauskas       2921Vardenis2.76
+Navickas           2925Vardenis2.24
+Pranevicius        2926Vardenis3.32
+Navickas           2928Vardenis3.16
+Ramanauskas        2930Vardenis4.96
+Kavaliauskas       2931Vardenis3.12
+Jankauskas         2932Vardenis4.36
+Kazlauskas         2935Vardenis4.24
+Urbonas            2938Vardenis2.96
+Kazlauskas         2942Vardenis2.64
+Ramanauskas        2944Vardenis2.44
+Pranevicius        2950Vardenis1.80
+Vasiliauskas       2952Vardenis4.24
+Jankauskas         2956Vardenis3.20
+Urbonas            2957Vardenis3.12
+Kavaliauskas       2960Vardenis2.60
+Ramanauskas        2962Vardenis4.72
+Vasiliauskas       2966Vardenis4.40
+Kazlauskas         2972Vardenis2.84
+Pranevicius        2974Vardenis4.72
+Petrauskas         2975Vardenis3.00
+Kazlauskas         2977Vardenis3.16
+Jankauskas         2981Vardenis4.96
+Pranevicius        2983Vardenis2.76
+Pranevicius        2984Vardenis4.44
+Pranevicius        2985Vardenis3.36
+Kazlauskas         2987Vardenis2.72
+Pranevicius        2989Vardenis4.16
+Kazlauskas         2990Vardenis3.64
+Pranevicius        2995Vardenis3.76
+Navickas           2997Vardenis2.84
+Navickas           3000Vardenis4.36
+Petrauskas         3002Vardenis4.52
+Kazlauskas         3003Vardenis2.76
+Kazlauskas         3004Vardenis4.24
+Vasiliauskas       3005Vardenis4.88
+Kazlauskas         3006Vardenis3.88
+Kazlauskas         3008Vardenis3.56
+Petrauskas         3009Vardenis4.76
+Urbonas            3015Vardenis3.32
+Urbonas            3018Vardenis4.60
+Ramanauskas        3021Vardenis2.36
+Jankauskas         3023Vardenis4.92
+Petrauskas         3025Vardenis3.32
+Vasiliauskas       3026Vardenis3.00
+Pranevicius        3029Vardenis3.88
+Pranevicius        3031Vardenis2.28
+Kazlauskas         3033Vardenis4.40
+Petrauskas         3036Vardenis4.36
+Petrauskas         3037Vardenis3.80
+Urbonas            3039Vardenis4.88
+Urbonas            3040Vardenis2.60
+Pranevicius        3042Vardenis4.76
+Ramanauskas        3045Vardenis2.44
+Pranevicius        3048Vardenis3.24
+Ramanauskas        3049Vardenis2.76
+Pranevicius        3050Vardenis3.96
+Kavaliauskas       3051Vardenis4.40
+Navickas           3052Vardenis4.08
+Vasiliauskas       3058Vardenis3.68
+Navickas           3062Vardenis2.88
+Kavaliauskas       3063Vardenis4.48
+Pranevicius        3065Vardenis4.80
+Jankauskas         3068Vardenis3.44
+Kavaliauskas       3070Vardenis4.68
+Butkus             3072Vardenis3.96
+Ramanauskas        3073Vardenis3.40
+Kazlauskas         3079Vardenis4.04
+Petrauskas         3086Vardenis4.52
+Petrauskas         3090Vardenis3.52
+Urbonas            3096Vardenis2.52
+Pranevicius        3100Vardenis4.12
+Navickas           3101Vardenis3.80
+Butkus             3103Vardenis4.24
+Kavaliauskas       3107Vardenis3.88
+Petrauskas         3109Vardenis3.20
+Kavaliauskas       3110Vardenis3.00
+Jankauskas         3112Vardenis4.36
+Jankauskas         3119Vardenis4.04
+Butkus             3121Vardenis3.44
+Pranevicius        3124Vardenis4.04
+Navickas           3126Vardenis4.88
+Vasiliauskas       3131Vardenis4.28
+Pranevicius        3132Vardenis4.12
+Butkus             3134Vardenis3.08
+Pranevicius        3135Vardenis4.28
+Urbonas            3138Vardenis3.64
+Navickas           3139Vardenis4.44
+Vasiliauskas       3140Vardenis4.00
+Navickas           3144Vardenis3.28
+Petrauskas         3145Vardenis3.80
+Navickas           3147Vardenis3.92
+Urbonas            3149Vardenis1.88
+Urbonas            3150Vardenis2.80
+Butkus             3152Vardenis4.16
+Butkus             3155Vardenis4.72
+Navickas           3156Vardenis2.64
+Vasiliauskas       3157Vardenis4.96
+Ramanauskas        3158Vardenis4.72
+Ramanauskas        3164Vardenis4.96
+Petrauskas         3168Vardenis3.04
+Petrauskas         3173Vardenis2.20
+Vasiliauskas       3174Vardenis4.76
+Urbonas            3175Vardenis2.92
+Urbonas            3177Vardenis2.56
+Petrauskas         3179Vardenis4.36
+Butkus             3184Vardenis3.44
+Vasiliauskas       3185Vardenis4.92
+Urbonas            3186Vardenis3.32
+Kavaliauskas       3187Vardenis2.52
+Kavaliauskas       3194Vardenis3.36
+Kavaliauskas       3195Vardenis4.40
+Navickas           3196Vardenis3.56
+Vasiliauskas       3197Vardenis4.16
+Butkus             3198Vardenis4.92
+Vasiliauskas       3200Vardenis3.04
+Urbonas            3204Vardenis3.68
+Pranevicius        3207Vardenis2.96
+Petrauskas         3208Vardenis4.84
+Butkus             3210Vardenis3.92
+Kazlauskas         3211Vardenis3.88
+Ramanauskas        3212Vardenis3.48
+Navickas           3215Vardenis3.92
+Ramanauskas        3216Vardenis4.52
+Jankauskas         3218Vardenis2.76
+Butkus             3219Vardenis2.68
+Navickas           3221Vardenis3.76
+Navickas           3222Vardenis4.16
+Jankauskas         3223Vardenis3.80
+Kavaliauskas       3226Vardenis4.56
+Kavaliauskas       3228Vardenis4.52
+Navickas           3229Vardenis3.96
+Butkus             3233Vardenis4.64
+Vasiliauskas       3234Vardenis4.36
+Urbonas            3235Vardenis2.56
+Navickas           3238Vardenis4.48
+Kavaliauskas       3239Vardenis1.32
+Navickas           3241Vardenis4.04
+Pranevicius        3242Vardenis3.28
+Jankauskas         3244Vardenis4.00
+Butkus             3249Vardenis4.76
+Pranevicius        3250Vardenis3.52
+Pranevicius        3256Vardenis4.92
+Kazlauskas         3257Vardenis3.32
+Ramanauskas        3262Vardenis4.40
+Urbonas            3266Vardenis3.04
+Petrauskas         3270Vardenis4.96
+Butkus             3271Vardenis3.88
+Butkus             3272Vardenis4.76
+Kavaliauskas       3274Vardenis3.92
+Ramanauskas        3275Vardenis4.52
+Butkus             3277Vardenis3.04
+Butkus             3279Vardenis4.00
+Pranevicius        3284Vardenis3.72
+Petrauskas         3287Vardenis3.76
+Petrauskas         3288Vardenis4.08
+Urbonas            3291Vardenis3.88
+Butkus             3295Vardenis2.80
+Kavaliauskas       3298Vardenis4.92
+Kavaliauskas       3303Vardenis4.00
+Kazlauskas         3306Vardenis2.92
+Butkus             3307Vardenis4.52
+Butkus             3308Vardenis3.60
+Kazlauskas         3310Vardenis3.56
+Vasiliauskas       3311Vardenis3.72
+Navickas           3312Vardenis4.64
+Jankauskas         3313Vardenis4.08
+Vasiliauskas       3319Vardenis3.20
+Kazlauskas         3320Vardenis4.52
+Jankauskas         3324Vardenis4.52
+Kazlauskas         3325Vardenis4.04
+Ramanauskas        3326Vardenis3.76
+Petrauskas         3327Vardenis4.40
+Butkus             3329Vardenis3.40
+Navickas           3332Vardenis4.80
+Petrauskas         3334Vardenis4.32
+Kazlauskas         3339Vardenis3.40
+Kazlauskas         3342Vardenis4.20
+Ramanauskas        3347Vardenis3.44
+Petrauskas         3349Vardenis3.88
+Kazlauskas         3350Vardenis3.88
+Vasiliauskas       3351Vardenis3.96
+Petrauskas         3354Vardenis3.92
+Kavaliauskas       3361Vardenis2.76
+Kazlauskas         3362Vardenis4.56
+Petrauskas         3363Vardenis3.76
+Vasiliauskas       3364Vardenis4.20
+Pranevicius        3366Vardenis4.52
+Kavaliauskas       3368Vardenis2.68
+Jankauskas         3369Vardenis3.12
+Butkus             3371Vardenis4.16
+Petrauskas         3374Vardenis4.08
+Pranevicius        3375Vardenis3.08
+Petrauskas         3377Vardenis4.04
+Petrauskas         3378Vardenis3.04
+Kavaliauskas       3381Vardenis4.32
+Navickas           3382Vardenis3.08
+Ramanauskas        3383Vardenis4.68
+Ramanauskas        3384Vardenis4.20
+Urbonas            3385Vardenis2.72
+Kazlauskas         3396Vardenis4.16
+Butkus             3397Vardenis3.56
+Butkus             3399Vardenis4.08
+Butkus             3400Vardenis4.08
+Petrauskas         3401Vardenis3.68
+Kazlauskas         3404Vardenis2.84
+Kazlauskas         3405Vardenis3.40
+Kavaliauskas       3406Vardenis3.28
+Butkus             3408Vardenis4.80
+Urbonas            3414Vardenis3.72
+Pranevicius        3421Vardenis4.96
+Ramanauskas        3423Vardenis4.68
+Petrauskas         3424Vardenis3.08
+Jankauskas         3426Vardenis4.92
+Petrauskas         3427Vardenis4.36
+Kavaliauskas       3429Vardenis2.76
+Kavaliauskas       3431Vardenis4.12
+Navickas           3436Vardenis4.00
+Urbonas            3441Vardenis2.68
+Butkus             3442Vardenis4.48
+Urbonas            3445Vardenis4.88
+Petrauskas         3452Vardenis4.96
+Butkus             3454Vardenis4.12
+Pranevicius        3455Vardenis4.00
+Petrauskas         3456Vardenis4.32
+Kazlauskas         3457Vardenis3.08
+Petrauskas         3458Vardenis4.76
+Urbonas            3460Vardenis2.80
+Navickas           3463Vardenis4.20
+Vasiliauskas       3464Vardenis2.92
+Butkus             3468Vardenis4.00
+Petrauskas         3469Vardenis3.84
+Petrauskas         3472Vardenis3.80
+Kavaliauskas       3475Vardenis4.68
+Kavaliauskas       3476Vardenis4.20
+Petrauskas         3480Vardenis4.40
+Petrauskas         3485Vardenis4.84
+Petrauskas         3486Vardenis3.72
+Navickas           3492Vardenis4.76
+Kazlauskas         3494Vardenis4.20
+Vasiliauskas       3499Vardenis4.00
+Butkus             3500Vardenis3.28
+Navickas           3505Vardenis2.28
+Petrauskas         3506Vardenis4.36
+Kazlauskas         3508Vardenis4.00
+Kavaliauskas       3509Vardenis2.20
+Vasiliauskas       3510Vardenis2.44
+Vasiliauskas       3511Vardenis3.56
+Jankauskas         3512Vardenis4.44
+Jankauskas         3516Vardenis4.64
+Kazlauskas         3517Vardenis3.60
+Urbonas            3522Vardenis3.84
+Vasiliauskas       3525Vardenis4.36
+Butkus             3526Vardenis4.56
+Butkus             3528Vardenis4.08
+Ramanauskas        3533Vardenis3.40
+Vasiliauskas       3535Vardenis2.80
+Kazlauskas         3536Vardenis2.44
+Urbonas            3537Vardenis4.04
+Urbonas            3538Vardenis3.84
+Kavaliauskas       3539Vardenis3.20
+Kazlauskas         3548Vardenis3.84
+Navickas           3552Vardenis4.40
+Ramanauskas        3553Vardenis4.80
+Kavaliauskas       3557Vardenis3.00
+Jankauskas         3558Vardenis3.72
+Pranevicius        3560Vardenis3.84
+Pranevicius        3562Vardenis3.12
+Navickas           3568Vardenis3.52
+Urbonas            3570Vardenis3.56
+Ramanauskas        3571Vardenis2.68
+Petrauskas         3575Vardenis3.00
+Ramanauskas        3576Vardenis3.60
+Kavaliauskas       3577Vardenis4.52
+Jankauskas         3578Vardenis4.32
+Navickas           3581Vardenis3.16
+Urbonas            3587Vardenis2.76
+Vasiliauskas       3588Vardenis3.56
+Butkus             3589Vardenis3.24
+Petrauskas         3593Vardenis3.20
+Vasiliauskas       3597Vardenis2.68
+Urbonas            3598Vardenis4.96
+Petrauskas         3602Vardenis4.68
+Ramanauskas        3605Vardenis4.84
+Pranevicius        3606Vardenis4.80
+Kazlauskas         3608Vardenis3.96
+Jankauskas         3610Vardenis2.96
+Vasiliauskas       3611Vardenis4.72
+Urbonas            3612Vardenis3.08
+Urbonas            3613Vardenis3.80
+Butkus             3614Vardenis3.04
+Pranevicius        3617Vardenis3.60
+Butkus             3626Vardenis3.32
+Vasiliauskas       3628Vardenis3.56
+Jankauskas         3633Vardenis2.68
+Vasiliauskas       3636Vardenis2.48
+Kavaliauskas       3639Vardenis3.92
+Jankauskas         3643Vardenis4.04
+Navickas           3644Vardenis3.28
+Petrauskas         3646Vardenis4.04
+Ramanauskas        3649Vardenis3.60
+Butkus             3652Vardenis4.40
+Navickas           3653Vardenis4.84
+Kazlauskas         3656Vardenis4.48
+Vasiliauskas       3657Vardenis3.84
+Navickas           3661Vardenis2.76
+Petrauskas         3664Vardenis4.16
+Vasiliauskas       3667Vardenis4.48
+Navickas           3669Vardenis4.44
+Kazlauskas         3672Vardenis3.16
+Kavaliauskas       3673Vardenis4.56
+Urbonas            3674Vardenis3.72
+Urbonas            3675Vardenis2.20
+Vasiliauskas       3681Vardenis3.68
+Vasiliauskas       3682Vardenis2.36
+Ramanauskas        3684Vardenis3.00
+Kavaliauskas       3685Vardenis4.20
+Navickas           3686Vardenis4.08
+Urbonas            3687Vardenis4.64
+Jankauskas         3688Vardenis4.24
+Kavaliauskas       3689Vardenis4.52
+Ramanauskas        3693Vardenis3.24
+Pranevicius        3695Vardenis3.40
+Kavaliauskas       3697Vardenis4.64
+Urbonas            3698Vardenis4.80
+Navickas           3702Vardenis1.80
+Pranevicius        3708Vardenis3.44
+Urbonas            3709Vardenis2.88
+Ramanauskas        3710Vardenis3.56
+Navickas           3712Vardenis4.08
+Ramanauskas        3713Vardenis3.08
+Ramanauskas        3715Vardenis4.96
+Pranevicius        3717Vardenis4.20
+Navickas           3724Vardenis2.44
+Petrauskas         3725Vardenis3.72
+Pranevicius        3728Vardenis4.28
+Jankauskas         3730Vardenis4.36
+Petrauskas         3733Vardenis4.96
+Vasiliauskas       3736Vardenis3.36
+Vasiliauskas       3737Vardenis3.56
+Butkus             3740Vardenis4.80
+Jankauskas         3743Vardenis4.72
+Urbonas            3747Vardenis4.24
+Pranevicius        3749Vardenis4.20
+Petrauskas         3750Vardenis4.16
+Pranevicius        3755Vardenis3.32
+Navickas           3756Vardenis3.32
+Jankauskas         3763Vardenis2.72
+Vasiliauskas       3766Vardenis4.36
+Kavaliauskas       3772Vardenis3.84
+Butkus             3774Vardenis3.48
+Urbonas            3776Vardenis4.68
+Jankauskas         3781Vardenis3.64
+Petrauskas         3782Vardenis3.92
+Pranevicius        3784Vardenis4.96
+Urbonas            3785Vardenis3.24
+Kavaliauskas       3786Vardenis3.84
+Urbonas            3788Vardenis4.68
+Kavaliauskas       3790Vardenis3.56
+Kavaliauskas       3792Vardenis4.64
+Butkus             3793Vardenis4.08
+Butkus             3795Vardenis2.52
+Vasiliauskas       3797Vardenis4.20
+Urbonas            3798Vardenis3.68
+Pranevicius        3800Vardenis3.80
+Kazlauskas         3801Vardenis4.48
+Kavaliauskas       3802Vardenis4.72
+Ramanauskas        3803Vardenis2.16
+Kavaliauskas       3804Vardenis2.88
+Petrauskas         3805Vardenis4.88
+Urbonas            3806Vardenis2.36
+Kavaliauskas       3810Vardenis4.16
+Navickas           3812Vardenis4.48
+Urbonas            3813Vardenis3.44
+Butkus             3820Vardenis3.32
+Petrauskas         3826Vardenis3.92
+Urbonas            3829Vardenis3.92
+Kavaliauskas       3832Vardenis4.68
+Jankauskas         3833Vardenis3.84
+Butkus             3835Vardenis3.88
+Ramanauskas        3840Vardenis4.00
+Butkus             3842Vardenis4.24
+Vasiliauskas       3845Vardenis4.72
+Kazlauskas         3847Vardenis2.36
+Petrauskas         3850Vardenis3.08
+Butkus             3855Vardenis3.04
+Kazlauskas         3864Vardenis2.48
+Pranevicius        3869Vardenis2.84
+Vasiliauskas       3872Vardenis3.56
+Ramanauskas        3874Vardenis3.92
+Navickas           3875Vardenis4.12
+Pranevicius        3877Vardenis4.08
+Jankauskas         3878Vardenis3.72
+Urbonas            3879Vardenis4.08
+Ramanauskas        3884Vardenis2.84
+Jankauskas         3886Vardenis3.72
+Navickas           3887Vardenis4.88
+Kazlauskas         3896Vardenis3.60
+Petrauskas         3897Vardenis3.52
+Ramanauskas        3899Vardenis4.20
+Kavaliauskas       3901Vardenis3.60
+Vasiliauskas       3905Vardenis4.36
+Ramanauskas        3906Vardenis3.72
+Butkus             3912Vardenis4.44
+Ramanauskas        3915Vardenis3.52
+Kavaliauskas       3918Vardenis4.80
+Kavaliauskas       3920Vardenis3.48
+Urbonas            3921Vardenis4.08
+Pranevicius        3923Vardenis4.32
+Navickas           3926Vardenis4.76
+Vasiliauskas       3927Vardenis3.88
+Ramanauskas        3928Vardenis4.52
+Urbonas            3929Vardenis3.96
+Pranevicius        3931Vardenis3.92
+Kazlauskas         3933Vardenis3.64
+Butkus             3934Vardenis2.28
+Navickas           3935Vardenis4.84
+Petrauskas         3936Vardenis4.92
+Urbonas            3937Vardenis3.12
+Pranevicius        3940Vardenis3.68
+Vasiliauskas       3944Vardenis3.68
+Jankauskas         3946Vardenis4.96
+Urbonas            3950Vardenis4.84
+Pranevicius        3951Vardenis3.60
+Urbonas            3952Vardenis2.20
+Navickas           3955Vardenis4.04
+Navickas           3956Vardenis4.08
+Navickas           3957Vardenis3.40
+Butkus             3958Vardenis4.72
+Butkus             3961Vardenis3.36
+Kazlauskas         3962Vardenis4.08
+Vasiliauskas       3965Vardenis4.00
+Urbonas            3966Vardenis4.16
+Jankauskas         3967Vardenis4.04
+Kavaliauskas       3968Vardenis3.08
+Pranevicius        3973Vardenis4.48
+Petrauskas         3974Vardenis3.68
+Vasiliauskas       3975Vardenis4.28
+Kavaliauskas       3976Vardenis3.16
+Urbonas            3978Vardenis4.20
+Navickas           3979Vardenis4.48
+Butkus             3980Vardenis3.00
+Navickas           3981Vardenis4.32
+Urbonas            3982Vardenis2.28
+Navickas           3983Vardenis3.00
+Butkus             3986Vardenis2.84
+Vasiliauskas       3987Vardenis2.96
+Petrauskas         3988Vardenis3.96
+Ramanauskas        3989Vardenis3.08
+Urbonas            3990Vardenis3.56
+Vasiliauskas       3996Vardenis3.64
+Pranevicius        4001Vardenis3.56
+Urbonas            4005Vardenis4.04
+Kavaliauskas       4008Vardenis1.24
+Urbonas            4012Vardenis2.92
+Pranevicius        4014Vardenis2.92
+Petrauskas         4017Vardenis4.76
+Kazlauskas         4018Vardenis3.96
+Jankauskas         4019Vardenis4.04
+Jankauskas         4027Vardenis4.72
+Navickas           4031Vardenis3.76
+Kazlauskas         4032Vardenis4.36
+Vasiliauskas       4035Vardenis2.52
+Urbonas            4037Vardenis2.44
+Kazlauskas         4038Vardenis3.64
+Pranevicius        4040Vardenis2.84
+Pranevicius        4042Vardenis3.64
+Butkus             4043Vardenis3.00
+Vasiliauskas       4044Vardenis3.80
+Vasiliauskas       4045Vardenis2.56
+Kavaliauskas       4046Vardenis3.36
+Vasiliauskas       4049Vardenis4.96
+Jankauskas         4052Vardenis3.36
+Kavaliauskas       4055Vardenis4.84
+Butkus             4056Vardenis4.28
+Jankauskas         4058Vardenis3.08
+Urbonas            4060Vardenis3.76
+Vasiliauskas       4061Vardenis4.76
+Jankauskas         4062Vardenis3.68
+Navickas           4063Vardenis2.68
+Kavaliauskas       4068Vardenis4.52
+Kazlauskas         4070Vardenis4.44
+Butkus             4071Vardenis3.60
+Kavaliauskas       4072Vardenis4.04
+Navickas           4075Vardenis3.56
+Ramanauskas        4076Vardenis4.12
+Petrauskas         4079Vardenis2.76
+Ramanauskas        4080Vardenis4.96
+Pranevicius        4081Vardenis3.88
+Butkus             4086Vardenis3.28
+Ramanauskas        4090Vardenis3.24
+Vasiliauskas       4091Vardenis4.04
+Urbonas            4092Vardenis4.40
+Navickas           4093Vardenis2.88
+Jankauskas         4094Vardenis3.52
+Navickas           4095Vardenis3.64
+Pranevicius        4097Vardenis4.44
+Navickas           4099Vardenis4.08
+Ramanauskas        4100Vardenis3.40
+Urbonas            4102Vardenis3.28
+Urbonas            4103Vardenis4.36
+Vasiliauskas       4104Vardenis4.92
+Jankauskas         4111Vardenis3.08
+Kazlauskas         4112Vardenis4.80
+Jankauskas         4115Vardenis4.32
+Butkus             4116Vardenis4.76
+Ramanauskas        4117Vardenis3.28
+Navickas           4118Vardenis2.16
+Butkus             4119Vardenis2.40
+Butkus             4121Vardenis1.96
+Pranevicius        4122Vardenis4.36
+Jankauskas         4126Vardenis4.72
+Kavaliauskas       4127Vardenis3.76
+Butkus             4128Vardenis3.80
+Ramanauskas        4132Vardenis2.84
+Jankauskas         4133Vardenis4.60
+Pranevicius        4134Vardenis3.64
+Vasiliauskas       4135Vardenis4.36
+Kavaliauskas       4144Vardenis3.52
+Petrauskas         4145Vardenis2.84
+Navickas           4146Vardenis1.96
+Vasiliauskas       4147Vardenis4.44
+Kavaliauskas       4148Vardenis4.12
+Pranevicius        4152Vardenis1.88
+Urbonas            4153Vardenis2.44
+Kazlauskas         4156Vardenis3.28
+Jankauskas         4161Vardenis4.12
+Vasiliauskas       4163Vardenis1.80
+Kavaliauskas       4165Vardenis4.00
+Pranevicius        4167Vardenis4.32
+Kavaliauskas       4170Vardenis4.96
+Urbonas            4173Vardenis4.76
+Urbonas            4174Vardenis3.80
+Navickas           4175Vardenis3.20
+Kazlauskas         4178Vardenis4.40
+Kazlauskas         4180Vardenis3.48
+Butkus             4181Vardenis4.68
+Navickas           4182Vardenis2.56
+Jankauskas         4184Vardenis4.24
+Butkus             4185Vardenis3.04
+Urbonas            4186Vardenis4.16
+Navickas           4188Vardenis4.28
+Butkus             4189Vardenis3.08
+Navickas           4190Vardenis4.52
+Jankauskas         4193Vardenis4.84
+Butkus             4197Vardenis2.84
+Vasiliauskas       4202Vardenis4.40
+Kavaliauskas       4203Vardenis4.20
+Urbonas            4205Vardenis3.92
+Vasiliauskas       4208Vardenis2.48
+Petrauskas         4210Vardenis4.00
+Petrauskas         4211Vardenis3.76
+Ramanauskas        4214Vardenis4.04
+Vasiliauskas       4215Vardenis4.52
+Petrauskas         4216Vardenis2.44
+Butkus             4218Vardenis4.76
+Kavaliauskas       4219Vardenis3.16
+Navickas           4221Vardenis4.36
+Vasiliauskas       4226Vardenis2.40
+Navickas           4229Vardenis4.16
+Pranevicius        4233Vardenis4.72
+Butkus             4234Vardenis3.00
+Jankauskas         4235Vardenis4.64
+Jankauskas         4236Vardenis3.08
+Vasiliauskas       4238Vardenis4.28
+Butkus             4248Vardenis3.72
+Urbonas            4251Vardenis4.56
+Butkus             4253Vardenis3.08
+Pranevicius        4255Vardenis4.60
+Vasiliauskas       4259Vardenis3.28
+Jankauskas         4260Vardenis3.00
+Ramanauskas        4261Vardenis3.00
+Kavaliauskas       4263Vardenis3.72
+Pranevicius        4271Vardenis3.32
+Petrauskas         4272Vardenis3.52
+Petrauskas         4274Vardenis4.72
+Ramanauskas        4278Vardenis4.20
+Navickas           4279Vardenis4.12
+Kavaliauskas       4282Vardenis3.68
+Urbonas            4283Vardenis2.84
+Vasiliauskas       4285Vardenis3.52
+Vasiliauskas       4286Vardenis3.72
+Pranevicius        4289Vardenis3.12
+Pranevicius        4290Vardenis2.04
+Navickas           4293Vardenis4.88
+Ramanauskas        4294Vardenis3.16
+Kazlauskas         4295Vardenis2.88
+Kazlauskas         4297Vardenis2.68
+Navickas           4298Vardenis3.40
+Kazlauskas         4299Vardenis4.12
+Butkus             4304Vardenis3.72
+Jankauskas         4305Vardenis4.68
+Petrauskas         4309Vardenis2.36
+Navickas           4313Vardenis4.60
+Pranevicius        4317Vardenis3.40
+Kazlauskas         4322Vardenis4.44
+Ramanauskas        4325Vardenis3.56
+Butkus             4326Vardenis4.48
+Kazlauskas         4328Vardenis2.72
+Butkus             4330Vardenis4.16
+Petrauskas         4331Vardenis2.88
+Kazlauskas         4340Vardenis4.24
+Jankauskas         4343Vardenis4.72
+Vasiliauskas       4347Vardenis4.88
+Kavaliauskas       4350Vardenis3.56
+Vasiliauskas       4356Vardenis3.20
+Urbonas            4359Vardenis3.16
+Navickas           4360Vardenis3.84
+Kazlauskas         4361Vardenis3.84
+Petrauskas         4362Vardenis4.00
+Petrauskas         4365Vardenis4.52
+Navickas           4367Vardenis2.40
+Ramanauskas        4370Vardenis4.00
+Petrauskas         4371Vardenis3.72
+Ramanauskas        4372Vardenis3.28
+Urbonas            4373Vardenis3.96
+Butkus             4374Vardenis2.76
+Vasiliauskas       4376Vardenis3.32
+Ramanauskas        4377Vardenis3.88
+Vasiliauskas       4380Vardenis2.76
+Jankauskas         4383Vardenis4.04
+Butkus             4385Vardenis2.72
+Jankauskas         4387Vardenis4.76
+Ramanauskas        4393Vardenis4.68
+Petrauskas         4394Vardenis3.12
+Kazlauskas         4398Vardenis3.04
+Jankauskas         4400Vardenis3.60
+Urbonas            4401Vardenis3.24
+Vasiliauskas       4403Vardenis2.04
+Petrauskas         4404Vardenis3.80
+Butkus             4410Vardenis2.04
+Vasiliauskas       4411Vardenis4.64
+Ramanauskas        4412Vardenis2.92
+Ramanauskas        4413Vardenis3.60
+Navickas           4414Vardenis3.16
+Petrauskas         4416Vardenis4.28
+Vasiliauskas       4419Vardenis3.88
+Kavaliauskas       4423Vardenis2.92
+Urbonas            4424Vardenis2.44
+Jankauskas         4425Vardenis3.56
+Vasiliauskas       4427Vardenis3.08
+Kavaliauskas       4428Vardenis3.48
+Ramanauskas        4429Vardenis2.84
+Vasiliauskas       4435Vardenis3.80
+Kazlauskas         4437Vardenis3.64
+Kazlauskas         4439Vardenis4.20
+Pranevicius        4440Vardenis2.76
+Navickas           4442Vardenis3.12
+Kazlauskas         4444Vardenis4.04
+Butkus             4446Vardenis4.32
+Kavaliauskas       4453Vardenis3.72
+Jankauskas         4456Vardenis3.12
+Butkus             4457Vardenis3.48
+Vasiliauskas       4459Vardenis3.92
+Petrauskas         4460Vardenis3.24
+Butkus             4462Vardenis4.12
+Navickas           4463Vardenis4.88
+Ramanauskas        4464Vardenis4.36
+Vasiliauskas       4468Vardenis3.76
+Kazlauskas         4470Vardenis4.12
+Vasiliauskas       4474Vardenis3.76
+Pranevicius        4476Vardenis3.96
+Kazlauskas         4480Vardenis4.36
+Jankauskas         4481Vardenis3.68
+Pranevicius        4484Vardenis4.60
+Butkus             4485Vardenis3.68
+Pranevicius        4489Vardenis3.64
+Vasiliauskas       4493Vardenis3.36
+Urbonas            4494Vardenis3.00
+Pranevicius        4495Vardenis2.80
+Butkus             4498Vardenis4.04
+Jankauskas         4499Vardenis4.76
+Pranevicius        4500Vardenis4.44
+Jankauskas         4504Vardenis3.92
+Pranevicius        4505Vardenis4.52
+Vasiliauskas       4506Vardenis3.28
+Butkus             4507Vardenis4.52
+Jankauskas         4508Vardenis4.44
+Urbonas            4509Vardenis4.76
+Urbonas            4511Vardenis4.08
+Pranevicius        4512Vardenis4.84
+Urbonas            4515Vardenis4.64
+Jankauskas         4517Vardenis4.68
+Pranevicius        4520Vardenis3.56
+Jankauskas         4530Vardenis3.24
+Navickas           4532Vardenis2.96
+Vasiliauskas       4536Vardenis3.12
+Petrauskas         4540Vardenis4.24
+Vasiliauskas       4541Vardenis4.68
+Ramanauskas        4542Vardenis3.28
+Butkus             4544Vardenis1.88
+Urbonas            4545Vardenis3.32
+Ramanauskas        4546Vardenis2.28
+Ramanauskas        4548Vardenis4.92
+Vasiliauskas       4552Vardenis4.56
+Butkus             4553Vardenis4.32
+Petrauskas         4555Vardenis4.40
+Petrauskas         4557Vardenis3.44
+Butkus             4560Vardenis2.84
+Urbonas            4562Vardenis4.60
+Navickas           4564Vardenis4.04
+Jankauskas         4568Vardenis4.92
+Ramanauskas        4570Vardenis3.16
+Petrauskas         4572Vardenis4.28
+Butkus             4576Vardenis4.20
+Navickas           4577Vardenis2.92
+Pranevicius        4578Vardenis3.16
+Ramanauskas        4580Vardenis4.68
+Navickas           4582Vardenis2.76
+Kazlauskas         4585Vardenis2.28
+Kavaliauskas       4586Vardenis3.76
+Urbonas            4587Vardenis2.44
+Navickas           4592Vardenis3.96
+Kazlauskas         4596Vardenis4.40
+Jankauskas         4599Vardenis4.68
+Vasiliauskas       4600Vardenis3.92
+Butkus             4602Vardenis2.44
+Urbonas            4608Vardenis3.68
+Jankauskas         4610Vardenis4.48
+Kazlauskas         4613Vardenis4.08
+Urbonas            4614Vardenis3.64
+Kavaliauskas       4616Vardenis3.88
+Kazlauskas         4617Vardenis3.04
+Vasiliauskas       4620Vardenis2.92
+Jankauskas         4622Vardenis3.44
+Kazlauskas         4623Vardenis4.16
+Pranevicius        4624Vardenis2.76
+Petrauskas         4626Vardenis3.48
+Butkus             4627Vardenis2.80
+Vasiliauskas       4629Vardenis4.76
+Butkus             4630Vardenis4.88
+Butkus             4631Vardenis3.28
+Jankauskas         4634Vardenis3.40
+Vasiliauskas       4635Vardenis4.24
+Butkus             4643Vardenis3.80
+Kazlauskas         4651Vardenis4.36
+Jankauskas         4653Vardenis2.60
+Ramanauskas        4655Vardenis3.80
+Petrauskas         4657Vardenis2.60
+Petrauskas         4660Vardenis4.68
+Urbonas            4661Vardenis3.88
+Vasiliauskas       4663Vardenis3.24
+Petrauskas         4665Vardenis3.28
+Petrauskas         4668Vardenis3.16
+Petrauskas         4670Vardenis2.52
+Kavaliauskas       4672Vardenis2.84
+Kavaliauskas       4679Vardenis3.76
+Vasiliauskas       4680Vardenis3.44
+Ramanauskas        4682Vardenis3.72
+Petrauskas         4683Vardenis3.80
+Navickas           4686Vardenis4.84
+Ramanauskas        4687Vardenis3.16
+Urbonas            4688Vardenis2.68
+Kavaliauskas       4690Vardenis4.96
+Urbonas            4692Vardenis3.56
+Kazlauskas         4698Vardenis2.92
+Kazlauskas         4699Vardenis3.56
+Kavaliauskas       4700Vardenis4.36
+Vasiliauskas       4701Vardenis3.08
+Butkus             4704Vardenis4.76
+Petrauskas         4716Vardenis2.88
+Vasiliauskas       4717Vardenis3.80
+Navickas           4718Vardenis2.80
+Vasiliauskas       4719Vardenis4.32
+Butkus             4720Vardenis3.04
+Butkus             4721Vardenis3.00
+Petrauskas         4722Vardenis3.72
+Kazlauskas         4726Vardenis4.40
+Navickas           4729Vardenis3.80
+Navickas           4732Vardenis4.12
+Pranevicius        4734Vardenis2.04
+Kazlauskas         4736Vardenis2.52
+Butkus             4739Vardenis3.68
+Jankauskas         4742Vardenis2.20
+Pranevicius        4743Vardenis4.16
+Butkus             4747Vardenis4.08
+Pranevicius        4748Vardenis4.72
+Kavaliauskas       4749Vardenis3.76
+Butkus             4750Vardenis4.40
+Vasiliauskas       4751Vardenis2.76
+Kavaliauskas       4754Vardenis3.48
+Kazlauskas         4756Vardenis4.84
+Ramanauskas        4759Vardenis4.48
+Kazlauskas         4760Vardenis3.44
+Butkus             4762Vardenis4.52
+Petrauskas         4769Vardenis4.28
+Vasiliauskas       4770Vardenis4.64
+Jankauskas         4771Vardenis2.84
+Jankauskas         4772Vardenis2.60
+Urbonas            4776Vardenis3.72
+Petrauskas         4781Vardenis2.24
+Vasiliauskas       4782Vardenis4.04
+Pranevicius        4785Vardenis3.36
+Jankauskas         4787Vardenis2.56
+Ramanauskas        4788Vardenis4.44
+Urbonas            4789Vardenis4.52
+Jankauskas         4791Vardenis4.80
+Urbonas            4796Vardenis4.84
+Navickas           4797Vardenis3.56
+Jankauskas         4800Vardenis3.80
+Kavaliauskas       4802Vardenis4.92
+Pranevicius        4804Vardenis4.20
+Petrauskas         4806Vardenis3.68
+Ramanauskas        4807Vardenis3.24
+Urbonas            4808Vardenis4.32
+Ramanauskas        4811Vardenis2.96
+Ramanauskas        4815Vardenis4.68
+Ramanauskas        4817Vardenis4.72
+Pranevicius        4818Vardenis4.92
+Vasiliauskas       4819Vardenis4.56
+Butkus             4822Vardenis3.08
+Jankauskas         4824Vardenis4.00
+Kavaliauskas       4825Vardenis4.60
+Petrauskas         4826Vardenis4.36
+Kavaliauskas       4827Vardenis4.28
+Jankauskas         4830Vardenis2.84
+Vasiliauskas       4831Vardenis3.96
+Butkus             4834Vardenis3.92
+Navickas           4835Vardenis3.20
+Kavaliauskas       4840Vardenis3.16
+Kavaliauskas       4841Vardenis4.52
+Pranevicius        4842Vardenis2.20
+Pranevicius        4843Vardenis2.76
+Ramanauskas        4846Vardenis3.20
+Vasiliauskas       4847Vardenis3.32
+Kavaliauskas       4852Vardenis2.40
+Ramanauskas        4854Vardenis4.16
+Butkus             4855Vardenis4.00
+Butkus             4858Vardenis3.36
+Kavaliauskas       4859Vardenis3.48
+Kavaliauskas       4860Vardenis3.04
+Petrauskas         4861Vardenis3.92
+Urbonas            4863Vardenis4.56
+Jankauskas         4867Vardenis4.40
+Vasiliauskas       4871Vardenis2.36
+Kavaliauskas       4872Vardenis4.12
+Pranevicius        4874Vardenis4.12
+Vasiliauskas       4875Vardenis3.12
+Vasiliauskas       4876Vardenis4.68
+Ramanauskas        4877Vardenis4.92
+Kazlauskas         4879Vardenis4.00
+Vasiliauskas       4889Vardenis2.72
+Butkus             4892Vardenis4.00
+Jankauskas         4894Vardenis4.88
+Kazlauskas         4897Vardenis4.68
+Kazlauskas         4898Vardenis4.08
+Kavaliauskas       4902Vardenis4.68
+Petrauskas         4903Vardenis4.84
+Urbonas            4907Vardenis3.16
+Butkus             4908Vardenis4.12
+Ramanauskas        4909Vardenis3.56
+Navickas           4910Vardenis2.52
+Petrauskas         4911Vardenis2.84
+Pranevicius        4912Vardenis4.28
+Vasiliauskas       4913Vardenis3.44
+Pranevicius        4916Vardenis3.16
+Vasiliauskas       4917Vardenis2.36
+Vasiliauskas       4918Vardenis4.68
+Butkus             4919Vardenis3.80
+Jankauskas         4920Vardenis4.80
+Butkus             4923Vardenis3.04
+Petrauskas         4927Vardenis2.00
+Kazlauskas         4928Vardenis4.44
+Butkus             4930Vardenis4.76
+Pranevicius        4931Vardenis3.68
+Navickas           4933Vardenis4.64
+Butkus             4937Vardenis3.60
+Kazlauskas         4938Vardenis3.92
+Petrauskas         4939Vardenis4.20
+Jankauskas         4941Vardenis4.24
+Butkus             4943Vardenis2.52
+Petrauskas         4946Vardenis3.16
+Ramanauskas        4948Vardenis2.12
+Ramanauskas        4955Vardenis4.68
+Jankauskas         4957Vardenis4.56
+Jankauskas         4959Vardenis2.96
+Urbonas            4962Vardenis2.60
+Jankauskas         4963Vardenis4.60
+Urbonas            4965Vardenis3.52
+Vasiliauskas       4966Vardenis4.00
+Vasiliauskas       4967Vardenis2.72
+Ramanauskas        4969Vardenis4.96
+Navickas           4970Vardenis3.44
+Ramanauskas        4971Vardenis3.76
+Jankauskas         4972Vardenis2.80
+Kavaliauskas       4973Vardenis3.68
+Kazlauskas         4976Vardenis4.76
+Pranevicius        4977Vardenis2.80
+Butkus             4978Vardenis3.28
+Pranevicius        4981Vardenis4.16
+Kavaliauskas       4983Vardenis4.84
+Kazlauskas         4985Vardenis2.20
+Vasiliauskas       4987Vardenis3.92
+Kavaliauskas       4990Vardenis3.68
+Vasiliauskas       4991Vardenis3.84
+Petrauskas         4993Vardenis3.48
+Petrauskas         4995Vardenis3.88
+Vasiliauskas       4996Vardenis3.56
+Jankauskas         5000Vardenis2.44
+Ramanauskas        5004Vardenis3.88
+Kavaliauskas       5005Vardenis4.24
+Ramanauskas        5007Vardenis3.36
+Pranevicius        5011Vardenis3.48
+Navickas           5013Vardenis4.76
+Pranevicius        5015Vardenis3.56
+Kavaliauskas       5022Vardenis4.88
+Kavaliauskas       5023Vardenis2.88
+Kavaliauskas       5024Vardenis2.72
+Urbonas            5025Vardenis4.40
+Vasiliauskas       5029Vardenis2.20
+Petrauskas         5034Vardenis2.56
+Pranevicius        5038Vardenis2.96
+Vasiliauskas       5040Vardenis3.04
+Kazlauskas         5041Vardenis4.08
+Kavaliauskas       5044Vardenis2.52
+Ramanauskas        5045Vardenis3.64
+Navickas           5046Vardenis4.68
+Ramanauskas        5053Vardenis2.52
+Jankauskas         5054Vardenis4.76
+Petrauskas         5055Vardenis3.16
+Kavaliauskas       5058Vardenis3.84
+Vasiliauskas       5063Vardenis4.92
+Vasiliauskas       5064Vardenis4.04
+Ramanauskas        5067Vardenis4.52
+Butkus             5068Vardenis3.84
+Navickas           5069Vardenis2.80
+Vasiliauskas       5070Vardenis2.68
+Pranevicius        5072Vardenis3.96
+Urbonas            5074Vardenis3.16
+Kavaliauskas       5075Vardenis3.76
+Kazlauskas         5076Vardenis3.68
+Urbonas            5077Vardenis4.04
+Butkus             5078Vardenis4.12
+Kazlauskas         5079Vardenis3.80
+Kazlauskas         5080Vardenis4.28
+Navickas           5086Vardenis3.56
+Petrauskas         5089Vardenis3.72
+Navickas           5091Vardenis3.56
+Jankauskas         5095Vardenis2.84
+Vasiliauskas       5096Vardenis4.44
+Ramanauskas        5097Vardenis4.20
+Ramanauskas        5100Vardenis4.20
+Pranevicius        5101Vardenis4.04
+Navickas           5106Vardenis3.20
+Pranevicius        5110Vardenis2.16
+Kavaliauskas       5111Vardenis2.68
+Butkus             5112Vardenis3.72
+Petrauskas         5115Vardenis4.48
+Vasiliauskas       5116Vardenis4.12
+Ramanauskas        5123Vardenis4.44
+Urbonas            5124Vardenis2.28
+Ramanauskas        5128Vardenis4.84
+Ramanauskas        5129Vardenis4.32
+Vasiliauskas       5131Vardenis3.68
+Navickas           5132Vardenis4.80
+Kazlauskas         5133Vardenis2.64
+Ramanauskas        5134Vardenis4.28
+Pranevicius        5135Vardenis2.84
+Jankauskas         5138Vardenis3.84
+Urbonas            5142Vardenis4.56
+Butkus             5143Vardenis4.56
+Jankauskas         5144Vardenis3.44
+Urbonas            5145Vardenis3.16
+Urbonas            5147Vardenis4.24
+Petrauskas         5150Vardenis4.24
+Urbonas            5152Vardenis3.64
+Urbonas            5157Vardenis4.68
+Pranevicius        5159Vardenis2.92
+Ramanauskas        5161Vardenis4.92
+Butkus             5162Vardenis3.40
+Ramanauskas        5171Vardenis4.00
+Urbonas            5173Vardenis4.84
+Urbonas            5175Vardenis3.52
+Petrauskas         5179Vardenis2.60
+Butkus             5180Vardenis3.24
+Urbonas            5182Vardenis2.20
+Butkus             5183Vardenis3.92
+Kazlauskas         5184Vardenis2.92
+Kavaliauskas       5185Vardenis2.56
+Jankauskas         5189Vardenis2.72
+Petrauskas         5190Vardenis3.32
+Jankauskas         5191Vardenis3.96
+Jankauskas         5197Vardenis4.64
+Butkus             5201Vardenis4.32
+Jankauskas         5202Vardenis3.08
+Vasiliauskas       5203Vardenis3.84
+Butkus             5204Vardenis4.68
+Kazlauskas         5205Vardenis4.72
+Butkus             5210Vardenis2.80
+Petrauskas         5214Vardenis4.44
+Ramanauskas        5215Vardenis2.88
+Pranevicius        5216Vardenis2.92
+Ramanauskas        5226Vardenis4.40
+Urbonas            5228Vardenis4.92
+Petrauskas         5229Vardenis2.28
+Kazlauskas         5232Vardenis3.04
+Kazlauskas         5233Vardenis3.28
+Jankauskas         5238Vardenis4.92
+Urbonas            5240Vardenis2.44
+Urbonas            5241Vardenis4.52
+Pranevicius        5243Vardenis3.08
+Petrauskas         5250Vardenis4.28
+Ramanauskas        5252Vardenis3.24
+Vasiliauskas       5253Vardenis3.92
+Kavaliauskas       5254Vardenis3.76
+Vasiliauskas       5256Vardenis2.28
+Jankauskas         5258Vardenis4.44
+Jankauskas         5259Vardenis3.52
+Kazlauskas         5261Vardenis2.92
+Pranevicius        5262Vardenis2.60
+Butkus             5264Vardenis3.44
+Petrauskas         5268Vardenis2.68
+Butkus             5272Vardenis3.56
+Petrauskas         5274Vardenis2.36
+Urbonas            5275Vardenis3.28
+Butkus             5277Vardenis3.12
+Kavaliauskas       5278Vardenis4.60
+Ramanauskas        5283Vardenis4.28
+Ramanauskas        5284Vardenis4.24
+Ramanauskas        5285Vardenis2.52
+Navickas           5289Vardenis4.64
+Kazlauskas         5290Vardenis4.76
+Kavaliauskas       5293Vardenis3.08
+Ramanauskas        5295Vardenis4.04
+Urbonas            5297Vardenis2.64
+Butkus             5305Vardenis4.48
+Petrauskas         5306Vardenis2.96
+Petrauskas         5311Vardenis3.40
+Pranevicius        5314Vardenis4.52
+Kavaliauskas       5315Vardenis2.72
+Jankauskas         5316Vardenis4.96
+Kazlauskas         5317Vardenis4.48
+Butkus             5322Vardenis2.88
+Urbonas            5325Vardenis4.76
+Navickas           5333Vardenis4.20
+Navickas           5336Vardenis4.64
+Kavaliauskas       5338Vardenis3.88
+Urbonas            5339Vardenis4.92
+Navickas           5340Vardenis4.08
+Petrauskas         5344Vardenis4.96
+Pranevicius        5348Vardenis3.88
+Pranevicius        5351Vardenis4.24
+Ramanauskas        5355Vardenis4.60
+Navickas           5356Vardenis4.72
+Ramanauskas        5357Vardenis4.56
+Butkus             5358Vardenis3.56
+Urbonas            5364Vardenis4.28
+Urbonas            5365Vardenis3.40
+Ramanauskas        5366Vardenis3.12
+Ramanauskas        5368Vardenis2.52
+Jankauskas         5369Vardenis4.80
+Kazlauskas         5370Vardenis3.04
+Jankauskas         5371Vardenis3.72
+Pranevicius        5372Vardenis3.24
+Kazlauskas         5373Vardenis3.52
+Kazlauskas         5375Vardenis3.64
+Jankauskas         5376Vardenis3.92
+Kazlauskas         5382Vardenis3.88
+Kazlauskas         5383Vardenis3.28
+Kazlauskas         5385Vardenis3.28
+Pranevicius        5386Vardenis4.52
+Urbonas            5388Vardenis2.84
+Vasiliauskas       5389Vardenis4.56
+Butkus             5391Vardenis4.12
+Petrauskas         5392Vardenis3.76
+Pranevicius        5394Vardenis3.04
+Ramanauskas        5398Vardenis4.52
+Kazlauskas         5399Vardenis2.68
+Jankauskas         5400Vardenis3.88
+Petrauskas         5403Vardenis3.60
+Navickas           5404Vardenis3.12
+Pranevicius        5407Vardenis3.20
+Ramanauskas        5410Vardenis3.36
+Vasiliauskas       5412Vardenis4.92
+Jankauskas         5415Vardenis2.76
+Urbonas            5416Vardenis2.68
+Navickas           5421Vardenis4.04
+Pranevicius        5422Vardenis3.08
+Kavaliauskas       5424Vardenis4.44
+Jankauskas         5425Vardenis4.56
+Urbonas            5426Vardenis4.64
+Kavaliauskas       5428Vardenis1.64
+Navickas           5433Vardenis4.72
+Petrauskas         5435Vardenis4.00
+Jankauskas         5438Vardenis4.20
+Navickas           5439Vardenis3.12
+Ramanauskas        5440Vardenis3.00
+Petrauskas         5442Vardenis4.68
+Pranevicius        5443Vardenis3.28
+Ramanauskas        5446Vardenis4.88
+Petrauskas         5448Vardenis4.68
+Petrauskas         5451Vardenis3.60
+Pranevicius        5455Vardenis4.48
+Urbonas            5458Vardenis2.28
+Ramanauskas        5459Vardenis3.36
+Urbonas            5460Vardenis3.92
+Ramanauskas        5461Vardenis4.20
+Jankauskas         5465Vardenis4.24
+Jankauskas         5469Vardenis2.64
+Ramanauskas        5470Vardenis3.48
+Navickas           5472Vardenis4.48
+Vasiliauskas       5474Vardenis3.64
+Vasiliauskas       5476Vardenis2.12
+Pranevicius        5477Vardenis4.68
+Butkus             5479Vardenis2.80
+Butkus             5485Vardenis4.68
+Vasiliauskas       5487Vardenis3.36
+Navickas           5490Vardenis3.28
+Pranevicius        5491Vardenis3.28
+Petrauskas         5493Vardenis4.08
+Vasiliauskas       5494Vardenis3.76
+Petrauskas         5499Vardenis3.48
+Navickas           5500Vardenis3.56
+Jankauskas         5501Vardenis3.48
+Kavaliauskas       5502Vardenis2.12
+Kavaliauskas       5506Vardenis3.76
+Urbonas            5508Vardenis4.64
+Butkus             5509Vardenis4.32
+Ramanauskas        5510Vardenis2.44
+Navickas           5513Vardenis3.84
+Ramanauskas        5514Vardenis3.40
+Urbonas            5518Vardenis3.36
+Navickas           5519Vardenis2.88
+Pranevicius        5525Vardenis4.84
+Kazlauskas         5526Vardenis4.92
+Urbonas            5528Vardenis4.12
+Navickas           5529Vardenis2.04
+Butkus             5530Vardenis4.72
+Urbonas            5540Vardenis4.44
+Butkus             5541Vardenis4.72
+Urbonas            5542Vardenis4.64
+Ramanauskas        5546Vardenis3.72
+Butkus             5549Vardenis4.76
+Ramanauskas        5559Vardenis3.00
+Pranevicius        5561Vardenis3.76
+Ramanauskas        5563Vardenis4.48
+Kavaliauskas       5564Vardenis4.56
+Pranevicius        5565Vardenis4.32
+Kazlauskas         5566Vardenis4.84
+Pranevicius        5567Vardenis3.00
+Vasiliauskas       5569Vardenis3.60
+Pranevicius        5570Vardenis4.04
+Kazlauskas         5571Vardenis3.40
+Kazlauskas         5575Vardenis3.12
+Kazlauskas         5576Vardenis4.76
+Navickas           5579Vardenis4.00
+Ramanauskas        5582Vardenis4.36
+Vasiliauskas       5584Vardenis3.44
+Petrauskas         5586Vardenis4.04
+Kazlauskas         5588Vardenis4.08
+Kazlauskas         5593Vardenis2.36
+Urbonas            5594Vardenis2.68
+Pranevicius        5595Vardenis4.64
+Jankauskas         5598Vardenis3.16
+Vasiliauskas       5601Vardenis3.64
+Jankauskas         5607Vardenis3.48
+Butkus             5611Vardenis3.08
+Kavaliauskas       5612Vardenis2.28
+Ramanauskas        5617Vardenis2.20
+Kazlauskas         5621Vardenis3.32
+Kazlauskas         5623Vardenis3.72
+Urbonas            5625Vardenis3.84
+Urbonas            5626Vardenis1.92
+Kavaliauskas       5628Vardenis4.36
+Ramanauskas        5631Vardenis3.16
+Kavaliauskas       5632Vardenis3.40
+Butkus             5636Vardenis3.44
+Jankauskas         5637Vardenis4.84
+Butkus             5639Vardenis3.36
+Ramanauskas        5640Vardenis4.72
+Jankauskas         5643Vardenis4.96
+Petrauskas         5646Vardenis3.20
+Kazlauskas         5648Vardenis3.88
+Ramanauskas        5652Vardenis3.12
+Navickas           5654Vardenis4.72
+Pranevicius        5656Vardenis3.36
+Kavaliauskas       5659Vardenis3.52
+Jankauskas         5661Vardenis3.60
+Ramanauskas        5665Vardenis4.68
+Urbonas            5667Vardenis4.04
+Jankauskas         5671Vardenis2.92
+Petrauskas         5673Vardenis4.36
+Jankauskas         5675Vardenis3.72
+Pranevicius        5680Vardenis4.16
+Butkus             5685Vardenis4.44
+Ramanauskas        5686Vardenis4.40
+Kavaliauskas       5688Vardenis3.72
+Jankauskas         5692Vardenis3.12
+Pranevicius        5693Vardenis4.92
+Jankauskas         5698Vardenis3.88
+Kazlauskas         5705Vardenis4.84
+Jankauskas         5707Vardenis3.24
+Jankauskas         5708Vardenis2.28
+Navickas           5710Vardenis2.68
+Vasiliauskas       5712Vardenis3.40
+Butkus             5713Vardenis3.96
+Butkus             5718Vardenis3.24
+Petrauskas         5721Vardenis4.20
+Kavaliauskas       5723Vardenis3.48
+Urbonas            5724Vardenis4.12
+Navickas           5725Vardenis3.16
+Butkus             5726Vardenis4.68
+Jankauskas         5729Vardenis2.52
+Petrauskas         5730Vardenis3.84
+Vasiliauskas       5731Vardenis1.96
+Butkus             5737Vardenis3.76
+Butkus             5738Vardenis3.92
+Kazlauskas         5740Vardenis3.72
+Pranevicius        5741Vardenis3.04
+Butkus             5748Vardenis3.60
+Navickas           5750Vardenis4.72
+Kazlauskas         5751Vardenis4.40
+Ramanauskas        5753Vardenis2.60
+Kazlauskas         5756Vardenis4.56
+Navickas           5758Vardenis3.32
+Petrauskas         5760Vardenis2.20
+Pranevicius        5762Vardenis3.76
+Butkus             5766Vardenis3.24
+Ramanauskas        5769Vardenis3.92
+Ramanauskas        5772Vardenis3.36
+Kavaliauskas       5773Vardenis2.92
+Urbonas            5774Vardenis2.92
+Navickas           5775Vardenis2.68
+Pranevicius        5776Vardenis4.56
+Navickas           5777Vardenis4.28
+Kavaliauskas       5787Vardenis3.60
+Ramanauskas        5789Vardenis4.56
+Butkus             5790Vardenis2.20
+Butkus             5793Vardenis4.04
+Kavaliauskas       5794Vardenis2.40
+Kazlauskas         5795Vardenis4.08
+Kavaliauskas       5796Vardenis3.16
+Vasiliauskas       5798Vardenis4.72
+Ramanauskas        5799Vardenis3.32
+Kavaliauskas       5801Vardenis2.20
+Vasiliauskas       5802Vardenis2.12
+Urbonas            5806Vardenis2.28
+Kavaliauskas       5808Vardenis3.52
+Butkus             5810Vardenis4.44
+Kazlauskas         5813Vardenis4.56
+Jankauskas         5815Vardenis3.92
+Ramanauskas        5817Vardenis3.88
+Ramanauskas        5821Vardenis3.36
+Urbonas            5822Vardenis2.04
+Vasiliauskas       5824Vardenis2.56
+Kazlauskas         5827Vardenis3.00
+Urbonas            5828Vardenis3.36
+Vasiliauskas       5829Vardenis3.28
+Ramanauskas        5835Vardenis4.84
+Kazlauskas         5836Vardenis2.36
+Petrauskas         5837Vardenis2.04
+Pranevicius        5843Vardenis4.04
+Pranevicius        5851Vardenis4.96
+Vasiliauskas       5853Vardenis4.24
+Urbonas            5854Vardenis3.12
+Pranevicius        5857Vardenis3.60
+Kazlauskas         5859Vardenis4.68
+Pranevicius        5860Vardenis3.60
+Butkus             5861Vardenis3.76
+Pranevicius        5866Vardenis3.40
+Kavaliauskas       5868Vardenis4.68
+Jankauskas         5884Vardenis4.12
+Butkus             5887Vardenis4.16
+Navickas           5889Vardenis3.32
+Navickas           5893Vardenis3.84
+Navickas           5894Vardenis3.76
+Pranevicius        5895Vardenis4.80
+Jankauskas         5896Vardenis3.44
+Ramanauskas        5898Vardenis3.12
+Jankauskas         5899Vardenis2.36
+Petrauskas         5901Vardenis2.72
+Butkus             5902Vardenis2.84
+Navickas           5905Vardenis3.84
+Kazlauskas         5910Vardenis3.20
+Vasiliauskas       5915Vardenis1.56
+Petrauskas         5917Vardenis4.72
+Kavaliauskas       5921Vardenis3.12
+Kavaliauskas       5925Vardenis4.56
+Jankauskas         5927Vardenis3.88
+Vasiliauskas       5928Vardenis3.28
+Petrauskas         5929Vardenis4.28
+Petrauskas         5930Vardenis4.68
+Navickas           5933Vardenis3.96
+Navickas           5934Vardenis3.96
+Kavaliauskas       5937Vardenis2.36
+Ramanauskas        5941Vardenis4.92
+Pranevicius        5944Vardenis4.60
+Kavaliauskas       5945Vardenis3.44
+Jankauskas         5947Vardenis3.92
+Kavaliauskas       5948Vardenis4.72
+Butkus             5949Vardenis4.88
+Navickas           5951Vardenis3.28
+Petrauskas         5952Vardenis2.44
+Urbonas            5954Vardenis3.68
+Ramanauskas        5970Vardenis2.44
+Navickas           5973Vardenis3.28
+Vasiliauskas       5978Vardenis4.76
+Urbonas            5981Vardenis3.72
+Kazlauskas         5989Vardenis4.04
+Kazlauskas         5990Vardenis3.76
+Petrauskas         5992Vardenis2.92
+Kazlauskas         5994Vardenis4.52
+Kavaliauskas       5995Vardenis4.24
+Pranevicius        5998Vardenis3.72
+Urbonas            5999Vardenis2.96
+Vasiliauskas       6000Vardenis4.64
+Vasiliauskas       6002Vardenis4.68
+Kavaliauskas       6006Vardenis4.00
+Kavaliauskas       6008Vardenis2.56
+Petrauskas         6011Vardenis4.48
+Pranevicius        6013Vardenis3.92
+Vasiliauskas       6017Vardenis4.04
+Butkus             6018Vardenis4.00
+Butkus             6022Vardenis3.68
+Butkus             6024Vardenis3.60
+Kazlauskas         6027Vardenis3.48
+Ramanauskas        6028Vardenis2.92
+Jankauskas         6030Vardenis3.32
+Navickas           6031Vardenis4.60
+Urbonas            6032Vardenis4.72
+Navickas           6034Vardenis3.24
+Urbonas            6035Vardenis2.88
+Petrauskas         6037Vardenis3.04
+Urbonas            6038Vardenis3.04
+Vasiliauskas       6039Vardenis4.68
+Urbonas            6040Vardenis4.32
+Urbonas            6041Vardenis3.40
+Butkus             6049Vardenis3.52
+Petrauskas         6051Vardenis2.84
+Pranevicius        6052Vardenis3.48
+Petrauskas         6053Vardenis3.64
+Butkus             6055Vardenis4.64
+Petrauskas         6057Vardenis4.20
+Kavaliauskas       6058Vardenis3.04
+Navickas           6059Vardenis3.80
+Petrauskas         6062Vardenis2.52
+Jankauskas         6063Vardenis3.92
+Kavaliauskas       6066Vardenis2.84
+Navickas           6071Vardenis4.36
+Vasiliauskas       6072Vardenis2.68
+Kazlauskas         6073Vardenis4.20
+Jankauskas         6077Vardenis3.92
+Butkus             6081Vardenis4.64
+Urbonas            6082Vardenis4.36
+Vasiliauskas       6083Vardenis4.64
+Kazlauskas         6084Vardenis4.08
+Kazlauskas         6085Vardenis3.48
+Butkus             6087Vardenis3.40
+Ramanauskas        6089Vardenis2.12
+Pranevicius        6090Vardenis4.24
+Pranevicius        6091Vardenis4.48
+Kavaliauskas       6092Vardenis4.28
+Kavaliauskas       6096Vardenis4.64
+Navickas           6098Vardenis4.88
+Butkus             6101Vardenis4.08
+Kavaliauskas       6102Vardenis3.64
+Jankauskas         6103Vardenis2.84
+Pranevicius        6109Vardenis3.80
+Kazlauskas         6116Vardenis3.20
+Jankauskas         6118Vardenis3.88
+Pranevicius        6120Vardenis4.36
+Kazlauskas         6122Vardenis3.84
+Kazlauskas         6125Vardenis4.16
+Pranevicius        6126Vardenis4.56
+Pranevicius        6130Vardenis4.48
+Butkus             6133Vardenis4.80
+Petrauskas         6134Vardenis4.36
+Kavaliauskas       6137Vardenis3.16
+Petrauskas         6138Vardenis4.56
+Jankauskas         6139Vardenis2.52
+Urbonas            6140Vardenis3.20
+Vasiliauskas       6141Vardenis2.92
+Urbonas            6144Vardenis4.56
+Jankauskas         6147Vardenis4.60
+Kavaliauskas       6148Vardenis3.20
+Navickas           6150Vardenis4.16
+Pranevicius        6151Vardenis3.12
+Pranevicius        6154Vardenis4.64
+Vasiliauskas       6161Vardenis2.44
+Kavaliauskas       6165Vardenis4.48
+Pranevicius        6166Vardenis3.52
+Vasiliauskas       6167Vardenis3.44
+Pranevicius        6169Vardenis2.84
+Petrauskas         6170Vardenis4.44
+Navickas           6171Vardenis3.40
+Jankauskas         6173Vardenis3.36
+Kavaliauskas       6177Vardenis4.24
+Jankauskas         6178Vardenis3.16
+Navickas           6180Vardenis2.52
+Kavaliauskas       6181Vardenis3.80
+Jankauskas         6188Vardenis3.36
+Vasiliauskas       6190Vardenis1.80
+Petrauskas         6191Vardenis3.48
+Urbonas            6192Vardenis4.52
+Urbonas            6197Vardenis4.48
+Kazlauskas         6198Vardenis4.04
+Kavaliauskas       6203Vardenis4.64
+Butkus             6209Vardenis1.72
+Petrauskas         6210Vardenis3.56
+Petrauskas         6212Vardenis2.12
+Jankauskas         6216Vardenis4.36
+Vasiliauskas       6217Vardenis3.64
+Pranevicius        6220Vardenis4.12
+Pranevicius        6221Vardenis4.12
+Jankauskas         6223Vardenis1.96
+Kavaliauskas       6226Vardenis2.76
+Kavaliauskas       6229Vardenis4.32
+Ramanauskas        6230Vardenis3.64
+Pranevicius        6231Vardenis4.96
+Ramanauskas        6234Vardenis4.72
+Kazlauskas         6237Vardenis3.80
+Urbonas            6238Vardenis3.72
+Kazlauskas         6239Vardenis3.20
+Navickas           6242Vardenis2.12
+Butkus             6245Vardenis4.96
+Pranevicius        6246Vardenis4.24
+Kazlauskas         6249Vardenis4.56
+Urbonas            6260Vardenis3.32
+Navickas           6262Vardenis3.00
+Kavaliauskas       6263Vardenis4.56
+Urbonas            6264Vardenis2.44
+Vasiliauskas       6267Vardenis4.68
+Petrauskas         6269Vardenis4.08
+Vasiliauskas       6271Vardenis4.72
+Petrauskas         6273Vardenis4.16
+Urbonas            6276Vardenis3.92
+Vasiliauskas       6277Vardenis3.40
+Navickas           6280Vardenis3.64
+Jankauskas         6281Vardenis4.72
+Kazlauskas         6283Vardenis4.72
+Butkus             6286Vardenis3.44
+Jankauskas         6287Vardenis4.88
+Jankauskas         6291Vardenis3.44
+Pranevicius        6295Vardenis3.76
+Jankauskas         6297Vardenis4.48
+Ramanauskas        6299Vardenis3.56
+Urbonas            6306Vardenis2.80
+Kazlauskas         6307Vardenis3.72
+Kazlauskas         6308Vardenis3.60
+Butkus             6309Vardenis2.76
+Navickas           6310Vardenis3.00
+Ramanauskas        6319Vardenis3.00
+Jankauskas         6322Vardenis4.48
+Navickas           6328Vardenis2.88
+Petrauskas         6329Vardenis4.20
+Kazlauskas         6332Vardenis3.08
+Jankauskas         6338Vardenis3.08
+Navickas           6339Vardenis3.68
+Urbonas            6341Vardenis3.24
+Petrauskas         6345Vardenis2.92
+Kavaliauskas       6347Vardenis4.04
+Pranevicius        6353Vardenis4.32
+Kazlauskas         6355Vardenis4.40
+Kazlauskas         6362Vardenis3.16
+Navickas           6364Vardenis4.60
+Pranevicius        6368Vardenis4.60
+Kavaliauskas       6378Vardenis4.64
+Vasiliauskas       6380Vardenis2.72
+Petrauskas         6381Vardenis3.80
+Kazlauskas         6384Vardenis2.60
+Vasiliauskas       6386Vardenis4.56
+Butkus             6387Vardenis3.52
+Urbonas            6388Vardenis3.08
+Vasiliauskas       6390Vardenis4.76
+Jankauskas         6393Vardenis4.80
+Navickas           6395Vardenis3.48
+Butkus             6396Vardenis4.16
+Petrauskas         6398Vardenis4.32
+Petrauskas         6405Vardenis3.44
+Vasiliauskas       6406Vardenis4.72
+Pranevicius        6410Vardenis3.28
+Kazlauskas         6415Vardenis3.84
+Pranevicius        6416Vardenis4.36
+Kazlauskas         6417Vardenis4.24
+Urbonas            6419Vardenis3.60
+Butkus             6422Vardenis3.04
+Ramanauskas        6424Vardenis2.60
+Vasiliauskas       6426Vardenis2.36
+Urbonas            6427Vardenis4.40
+Kavaliauskas       6428Vardenis2.60
+Pranevicius        6429Vardenis3.08
+Petrauskas         6437Vardenis3.72
+Ramanauskas        6442Vardenis4.00
+Vasiliauskas       6443Vardenis3.36
+Vasiliauskas       6444Vardenis3.84
+Kazlauskas         6448Vardenis4.56
+Butkus             6450Vardenis3.36
+Kazlauskas         6452Vardenis4.88
+Jankauskas         6457Vardenis2.76
+Jankauskas         6458Vardenis4.28
+Kavaliauskas       6459Vardenis3.68
+Ramanauskas        6460Vardenis2.80
+Navickas           6462Vardenis3.48
+Urbonas            6463Vardenis3.08
+Butkus             6469Vardenis3.00
+Butkus             6470Vardenis2.12
+Butkus             6473Vardenis3.36
+Kavaliauskas       6477Vardenis4.48
+Vasiliauskas       6479Vardenis3.60
+Urbonas            6480Vardenis4.00
+Kazlauskas         6482Vardenis4.68
+Vasiliauskas       6483Vardenis2.12
+Petrauskas         6484Vardenis4.96
+Butkus             6485Vardenis3.08
+Navickas           6486Vardenis2.04
+Navickas           6488Vardenis4.68
+Petrauskas         6491Vardenis4.04
+Urbonas            6497Vardenis2.52
+Butkus             6499Vardenis3.36
+Butkus             6502Vardenis4.40
+Vasiliauskas       6503Vardenis3.00
+Butkus             6504Vardenis2.76
+Kavaliauskas       6505Vardenis3.28
+Urbonas            6508Vardenis1.96
+Pranevicius        6509Vardenis4.88
+Pranevicius        6512Vardenis4.64
+Kavaliauskas       6513Vardenis4.88
+Urbonas            6519Vardenis4.56
+Vasiliauskas       6520Vardenis3.88
+Butkus             6521Vardenis2.52
+Petrauskas         6522Vardenis4.04
+Butkus             6525Vardenis3.08
+Ramanauskas        6526Vardenis3.28
+Butkus             6530Vardenis2.48
+Pranevicius        6531Vardenis2.12
+Urbonas            6533Vardenis4.00
+Jankauskas         6536Vardenis4.48
+Pranevicius        6537Vardenis4.80
+Kavaliauskas       6538Vardenis3.72
+Pranevicius        6540Vardenis3.56
+Urbonas            6541Vardenis2.76
+Jankauskas         6544Vardenis4.16
+Kazlauskas         6547Vardenis2.68
+Vasiliauskas       6549Vardenis4.64
+Urbonas            6551Vardenis3.88
+Petrauskas         6559Vardenis3.16
+Vasiliauskas       6563Vardenis3.16
+Petrauskas         6567Vardenis2.52
+Jankauskas         6569Vardenis3.76
+Navickas           6571Vardenis4.88
+Pranevicius        6577Vardenis4.40
+Ramanauskas        6581Vardenis2.96
+Kazlauskas         6582Vardenis4.80
+Jankauskas         6589Vardenis3.72
+Jankauskas         6594Vardenis4.56
+Pranevicius        6603Vardenis2.92
+Jankauskas         6605Vardenis4.80
+Pranevicius        6609Vardenis4.48
+Pranevicius        6610Vardenis2.72
+Kazlauskas         6612Vardenis4.12
+Navickas           6614Vardenis3.00
+Petrauskas         6617Vardenis2.84
+Kavaliauskas       6618Vardenis3.40
+Pranevicius        6622Vardenis2.36
+Urbonas            6624Vardenis3.76
+Butkus             6625Vardenis3.48
+Butkus             6626Vardenis2.32
+Petrauskas         6629Vardenis4.20
+Kazlauskas         6630Vardenis3.08
+Jankauskas         6631Vardenis4.68
+Ramanauskas        6632Vardenis2.92
+Petrauskas         6633Vardenis2.92
+Kazlauskas         6635Vardenis3.28
+Urbonas            6637Vardenis4.80
+Ramanauskas        6638Vardenis4.52
+Navickas           6641Vardenis4.24
+Jankauskas         6643Vardenis2.96
+Jankauskas         6646Vardenis3.68
+Navickas           6647Vardenis3.96
+Vasiliauskas       6652Vardenis2.28
+Ramanauskas        6655Vardenis3.40
+Vasiliauskas       6656Vardenis2.60
+Ramanauskas        6659Vardenis4.32
+Jankauskas         6660Vardenis4.96
+Vasiliauskas       6661Vardenis4.60
+Urbonas            6662Vardenis3.44
+Kavaliauskas       6663Vardenis4.88
+Jankauskas         6665Vardenis4.92
+Kazlauskas         6667Vardenis3.12
+Vasiliauskas       6668Vardenis3.56
+Vasiliauskas       6669Vardenis3.28
+Navickas           6675Vardenis2.12
+Jankauskas         6677Vardenis3.40
+Butkus             6679Vardenis2.60
+Kavaliauskas       6686Vardenis3.92
+Vasiliauskas       6688Vardenis4.84
+Navickas           6691Vardenis3.60
+Butkus             6692Vardenis2.72
+Navickas           6693Vardenis3.56
+Jankauskas         6694Vardenis2.88
+Urbonas            6696Vardenis4.88
+Urbonas            6702Vardenis3.16
+Jankauskas         6705Vardenis2.88
+Jankauskas         6712Vardenis3.64
+Butkus             6719Vardenis2.92
+Vasiliauskas       6725Vardenis4.76
+Jankauskas         6726Vardenis4.96
+Navickas           6728Vardenis3.56
+Urbonas            6731Vardenis3.32
+Vasiliauskas       6733Vardenis4.80
+Pranevicius        6734Vardenis4.16
+Vasiliauskas       6736Vardenis2.56
+Kazlauskas         6737Vardenis3.88
+Pranevicius        6738Vardenis4.44
+Kavaliauskas       6739Vardenis3.32
+Petrauskas         6743Vardenis3.76
+Jankauskas         6745Vardenis3.48
+Pranevicius        6747Vardenis2.84
+Jankauskas         6748Vardenis3.68
+Pranevicius        6749Vardenis3.28
+Urbonas            6759Vardenis4.20
+Vasiliauskas       6767Vardenis3.20
+Kazlauskas         6772Vardenis3.88
+Navickas           6774Vardenis3.28
+Urbonas            6776Vardenis4.80
+Navickas           6783Vardenis3.16
+Kazlauskas         6784Vardenis2.12
+Vasiliauskas       6787Vardenis2.80
+Navickas           6790Vardenis4.88
+Navickas           6798Vardenis4.12
+Pranevicius        6799Vardenis4.84
+Urbonas            6800Vardenis2.32
+Kazlauskas         6801Vardenis2.96
+Navickas           6802Vardenis3.28
+Kavaliauskas       6803Vardenis3.08
+Jankauskas         6804Vardenis3.40
+Butkus             6808Vardenis1.80
+Petrauskas         6809Vardenis2.96
+Vasiliauskas       6818Vardenis3.76
+Kazlauskas         6825Vardenis4.44
+Navickas           6831Vardenis3.92
+Butkus             6834Vardenis4.76
+Kazlauskas         6836Vardenis4.68
+Jankauskas         6841Vardenis4.60
+Vasiliauskas       6842Vardenis4.68
+Vasiliauskas       6846Vardenis4.40
+Ramanauskas        6851Vardenis4.56
+Navickas           6853Vardenis4.20
+Ramanauskas        6855Vardenis4.52
+Kazlauskas         6856Vardenis4.16
+Navickas           6859Vardenis3.80
+Kavaliauskas       6865Vardenis4.04
+Navickas           6866Vardenis4.40
+Vasiliauskas       6867Vardenis4.56
+Urbonas            6871Vardenis4.44
+Petrauskas         6872Vardenis4.36
+Kazlauskas         6875Vardenis2.84
+Kavaliauskas       6878Vardenis3.52
+Butkus             6879Vardenis3.00
+Urbonas            6880Vardenis3.28
+Vasiliauskas       6882Vardenis3.28
+Navickas           6883Vardenis3.20
+Pranevicius        6889Vardenis4.48
+Petrauskas         6890Vardenis3.80
+Urbonas            6892Vardenis4.00
+Vasiliauskas       6896Vardenis4.84
+Kavaliauskas       6897Vardenis4.60
+Urbonas            6898Vardenis4.56
+Vasiliauskas       6899Vardenis4.40
+Kavaliauskas       6902Vardenis3.32
+Ramanauskas        6903Vardenis4.48
+Petrauskas         6904Vardenis2.68
+Kavaliauskas       6905Vardenis3.16
+Petrauskas         6906Vardenis3.08
+Vasiliauskas       6909Vardenis4.72
+Kavaliauskas       6910Vardenis2.76
+Jankauskas         6911Vardenis3.56
+Urbonas            6916Vardenis3.56
+Kazlauskas         6919Vardenis2.92
+Kazlauskas         6924Vardenis2.56
+Butkus             6929Vardenis3.16
+Pranevicius        6931Vardenis3.92
+Petrauskas         6934Vardenis3.16
+Navickas           6936Vardenis3.44
+Urbonas            6937Vardenis2.84
+Ramanauskas        6939Vardenis4.68
+Pranevicius        6941Vardenis3.24
+Vasiliauskas       6942Vardenis3.60
+Butkus             6946Vardenis3.52
+Urbonas            6948Vardenis4.84
+Navickas           6954Vardenis4.04
+Ramanauskas        6955Vardenis4.00
+Butkus             6960Vardenis4.56
+Pranevicius        6964Vardenis3.24
+Jankauskas         6965Vardenis4.60
+Vasiliauskas       6970Vardenis3.84
+Butkus             6972Vardenis3.72
+Kazlauskas         6973Vardenis2.04
+Navickas           6974Vardenis2.92
+Petrauskas         6976Vardenis4.60
+Navickas           6978Vardenis4.12
+Jankauskas         6981Vardenis2.88
+Ramanauskas        6983Vardenis3.56
+Navickas           6985Vardenis3.16
+Navickas           6986Vardenis4.88
+Butkus             6989Vardenis4.96
+Urbonas            6990Vardenis4.24
+Navickas           6993Vardenis4.24
+Butkus             6995Vardenis3.76
+Vasiliauskas       6996Vardenis3.64
+Kavaliauskas       6997Vardenis2.60
+Pranevicius        7008Vardenis4.12
+Vasiliauskas       7009Vardenis4.76
+Kavaliauskas       7010Vardenis3.12
+Pranevicius        7016Vardenis2.60
+Vasiliauskas       7017Vardenis2.60
+Petrauskas         7018Vardenis3.04
+Vasiliauskas       7019Vardenis2.60
+Petrauskas         7024Vardenis2.68
+Butkus             7030Vardenis4.28
+Petrauskas         7032Vardenis3.20
+Pranevicius        7035Vardenis4.08
+Navickas           7042Vardenis4.32
+Jankauskas         7043Vardenis1.64
+Kazlauskas         7045Vardenis4.12
+Petrauskas         7046Vardenis3.36
+Kavaliauskas       7047Vardenis3.64
+Butkus             7058Vardenis2.76
+Vasiliauskas       7061Vardenis4.84
+Vasiliauskas       7064Vardenis3.44
+Ramanauskas        7065Vardenis2.44
+Jankauskas         7066Vardenis2.04
+Navickas           7067Vardenis3.20
+Kavaliauskas       7071Vardenis3.76
+Vasiliauskas       7074Vardenis2.92
+Navickas           7076Vardenis3.16
+Pranevicius        7077Vardenis3.32
+Petrauskas         7078Vardenis3.64
+Ramanauskas        7079Vardenis4.80
+Butkus             7084Vardenis4.12
+Vasiliauskas       7086Vardenis4.56
+Kavaliauskas       7089Vardenis3.20
+Urbonas            7091Vardenis4.16
+Jankauskas         7093Vardenis3.28
+Jankauskas         7094Vardenis4.88
+Jankauskas         7095Vardenis4.68
+Jankauskas         7097Vardenis4.12
+Navickas           7098Vardenis1.80
+Kavaliauskas       7111Vardenis4.64
+Vasiliauskas       7112Vardenis4.04
+Kazlauskas         7113Vardenis4.68
+Urbonas            7117Vardenis4.28
+Pranevicius        7118Vardenis4.96
+Butkus             7119Vardenis4.20
+Petrauskas         7120Vardenis2.52
+Vasiliauskas       7121Vardenis3.60
+Navickas           7123Vardenis4.20
+Jankauskas         7126Vardenis3.68
+Petrauskas         7128Vardenis4.36
+Kavaliauskas       7130Vardenis4.20
+Petrauskas         7132Vardenis4.72
+Jankauskas         7137Vardenis3.36
+Urbonas            7147Vardenis4.48
+Vasiliauskas       7149Vardenis4.24
+Butkus             7151Vardenis2.52
+Petrauskas         7152Vardenis3.24
+Vasiliauskas       7154Vardenis3.08
+Navickas           7156Vardenis2.84
+Vasiliauskas       7157Vardenis4.72
+Pranevicius        7158Vardenis3.76
+Petrauskas         7159Vardenis4.80
+Butkus             7162Vardenis3.08
+Kavaliauskas       7163Vardenis4.72
+Vasiliauskas       7164Vardenis3.24
+Petrauskas         7165Vardenis3.44
+Kavaliauskas       7168Vardenis2.60
+Navickas           7170Vardenis2.44
+Urbonas            7177Vardenis3.60
+Kavaliauskas       7180Vardenis2.52
+Navickas           7181Vardenis4.80
+Kazlauskas         7182Vardenis2.80
+Petrauskas         7183Vardenis3.36
+Pranevicius        7186Vardenis3.20
+Urbonas            7188Vardenis2.44
+Jankauskas         7190Vardenis4.28
+Petrauskas         7192Vardenis3.24
+Ramanauskas        7193Vardenis4.48
+Petrauskas         7194Vardenis4.28
+Pranevicius        7198Vardenis1.64
+Vasiliauskas       7201Vardenis2.92
+Butkus             7205Vardenis3.00
+Petrauskas         7211Vardenis3.32
+Jankauskas         7214Vardenis2.24
+Butkus             7215Vardenis3.76
+Butkus             7219Vardenis3.68
+Ramanauskas        7220Vardenis4.72
+Kavaliauskas       7222Vardenis4.52
+Kavaliauskas       7225Vardenis4.00
+Vasiliauskas       7226Vardenis3.08
+Navickas           7230Vardenis3.24
+Butkus             7232Vardenis3.80
+Navickas           7233Vardenis3.72
+Ramanauskas        7235Vardenis3.72
+Petrauskas         7236Vardenis3.40
+Petrauskas         7238Vardenis4.08
+Kavaliauskas       7239Vardenis4.60
+Vasiliauskas       7240Vardenis4.52
+Navickas           7241Vardenis4.36
+Urbonas            7244Vardenis3.84
+Kavaliauskas       7252Vardenis4.28
+Urbonas            7256Vardenis3.68
+Vasiliauskas       7260Vardenis3.88
+Pranevicius        7261Vardenis3.44
+Vasiliauskas       7262Vardenis4.52
+Jankauskas         7265Vardenis2.68
+Butkus             7269Vardenis4.28
+Pranevicius        7272Vardenis2.80
+Kazlauskas         7274Vardenis4.76
+Pranevicius        7275Vardenis4.52
+Petrauskas         7283Vardenis4.00
+Kavaliauskas       7285Vardenis3.60
+Pranevicius        7288Vardenis4.80
+Navickas           7289Vardenis4.88
+Butkus             7292Vardenis2.68
+Kavaliauskas       7296Vardenis4.00
+Butkus             7297Vardenis4.40
+Butkus             7300Vardenis4.40
+Kazlauskas         7301Vardenis2.44
+Petrauskas         7302Vardenis2.76
+Vasiliauskas       7303Vardenis3.56
+Vasiliauskas       7305Vardenis3.20
+Vasiliauskas       7306Vardenis3.68
+Petrauskas         7307Vardenis3.72
+Vasiliauskas       7308Vardenis3.24
+Navickas           7309Vardenis3.52
+Vasiliauskas       7310Vardenis3.56
+Vasiliauskas       7313Vardenis3.12
+Ramanauskas        7315Vardenis2.36
+Pranevicius        7318Vardenis4.56
+Vasiliauskas       7319Vardenis4.64
+Jankauskas         7321Vardenis4.64
+Pranevicius        7322Vardenis3.16
+Kavaliauskas       7326Vardenis4.24
+Vasiliauskas       7331Vardenis2.04
+Vasiliauskas       7332Vardenis3.04
+Navickas           7335Vardenis2.60
+Jankauskas         7336Vardenis3.44
+Kazlauskas         7338Vardenis4.40
+Navickas           7345Vardenis4.76
+Jankauskas         7351Vardenis3.32
+Vasiliauskas       7352Vardenis3.08
+Navickas           7353Vardenis2.28
+Butkus             7354Vardenis3.44
+Urbonas            7358Vardenis4.72
+Kavaliauskas       7359Vardenis4.36
+Petrauskas         7360Vardenis3.64
+Petrauskas         7365Vardenis4.20
+Vasiliauskas       7368Vardenis4.80
+Butkus             7370Vardenis2.72
+Jankauskas         7371Vardenis2.44
+Jankauskas         7373Vardenis3.68
+Urbonas            7374Vardenis2.12
+Kavaliauskas       7375Vardenis4.76
+Kavaliauskas       7377Vardenis4.76
+Vasiliauskas       7378Vardenis2.84
+Urbonas            7381Vardenis3.84
+Urbonas            7383Vardenis4.88
+Ramanauskas        7384Vardenis3.20
+Kazlauskas         7390Vardenis3.28
+Vasiliauskas       7395Vardenis3.72
+Kavaliauskas       7396Vardenis3.04
+Urbonas            7399Vardenis4.44
+Butkus             7403Vardenis2.44
+Ramanauskas        7406Vardenis3.80
+Vasiliauskas       7407Vardenis4.76
+Jankauskas         7409Vardenis2.28
+Kazlauskas         7411Vardenis4.60
+Ramanauskas        7414Vardenis4.20
+Ramanauskas        7415Vardenis3.36
+Butkus             7417Vardenis4.60
+Vasiliauskas       7421Vardenis2.84
+Butkus             7423Vardenis3.04
+Jankauskas         7424Vardenis3.52
+Vasiliauskas       7427Vardenis2.60
+Ramanauskas        7429Vardenis2.64
+Navickas           7430Vardenis2.32
+Kazlauskas         7431Vardenis4.88
+Kavaliauskas       7435Vardenis4.32
+Jankauskas         7438Vardenis3.48
+Ramanauskas        7440Vardenis4.96
+Pranevicius        7442Vardenis3.36
+Jankauskas         7445Vardenis3.20
+Kavaliauskas       7446Vardenis3.36
+Vasiliauskas       7447Vardenis4.84
+Petrauskas         7450Vardenis3.84
+Jankauskas         7458Vardenis4.64
+Jankauskas         7459Vardenis3.08
+Navickas           7461Vardenis2.96
+Vasiliauskas       7464Vardenis4.08
+Petrauskas         7466Vardenis3.44
+Jankauskas         7469Vardenis3.88
+Butkus             7470Vardenis4.56
+Kavaliauskas       7471Vardenis3.80
+Petrauskas         7477Vardenis4.04
+Pranevicius        7479Vardenis3.72
+Vasiliauskas       7480Vardenis2.92
+Kazlauskas         7481Vardenis4.76
+Kavaliauskas       7482Vardenis4.76
+Kazlauskas         7485Vardenis2.44
+Butkus             7486Vardenis3.96
+Pranevicius        7488Vardenis4.12
+Ramanauskas        7489Vardenis3.56
+Kavaliauskas       7493Vardenis3.76
+Kazlauskas         7496Vardenis4.28
+Ramanauskas        7497Vardenis3.96
+Kavaliauskas       7498Vardenis2.60
+Jankauskas         7503Vardenis2.92
+Kavaliauskas       7504Vardenis2.72
+Jankauskas         7509Vardenis2.92
+Kavaliauskas       7510Vardenis2.60
+Urbonas            7513Vardenis3.52
+Kavaliauskas       7515Vardenis2.28
+Petrauskas         7517Vardenis4.96
+Vasiliauskas       7518Vardenis3.12
+Navickas           7521Vardenis4.08
+Petrauskas         7524Vardenis3.00
+Kavaliauskas       7525Vardenis4.48
+Kazlauskas         7526Vardenis4.88
+Butkus             7528Vardenis3.16
+Urbonas            7531Vardenis4.68
+Pranevicius        7533Vardenis3.92
+Navickas           7534Vardenis3.32
+Petrauskas         7536Vardenis4.92
+Jankauskas         7538Vardenis4.12
+Jankauskas         7539Vardenis3.56
+Ramanauskas        7542Vardenis3.32
+Butkus             7548Vardenis4.16
+Butkus             7550Vardenis3.36
+Pranevicius        7553Vardenis4.64
+Kavaliauskas       7554Vardenis2.48
+Ramanauskas        7556Vardenis3.80
+Navickas           7558Vardenis3.84
+Petrauskas         7561Vardenis4.44
+Kavaliauskas       7562Vardenis3.60
+Petrauskas         7563Vardenis3.76
+Navickas           7565Vardenis4.88
+Vasiliauskas       7568Vardenis3.40
+Navickas           7569Vardenis4.96
+Petrauskas         7571Vardenis2.80
+Jankauskas         7575Vardenis4.64
+Urbonas            7577Vardenis3.16
+Petrauskas         7580Vardenis2.04
+Kazlauskas         7584Vardenis3.48
+Kazlauskas         7588Vardenis3.76
+Butkus             7590Vardenis4.40
+Navickas           7593Vardenis1.64
+Urbonas            7598Vardenis2.44
+Ramanauskas        7600Vardenis3.16
+Jankauskas         7601Vardenis4.92
+Urbonas            7603Vardenis4.40
+Butkus             7605Vardenis3.16
+Ramanauskas        7607Vardenis4.92
+Urbonas            7609Vardenis3.48
+Kavaliauskas       7613Vardenis3.28
+Vasiliauskas       7614Vardenis3.04
+Navickas           7615Vardenis4.72
+Vasiliauskas       7617Vardenis3.80
+Kazlauskas         7618Vardenis4.12
+Kazlauskas         7621Vardenis2.36
+Navickas           7624Vardenis4.24
+Ramanauskas        7626Vardenis2.92
+Vasiliauskas       7627Vardenis2.76
+Pranevicius        7628Vardenis1.88
+Kazlauskas         7631Vardenis2.44
+Ramanauskas        7632Vardenis4.60
+Navickas           7636Vardenis3.44
+Kazlauskas         7637Vardenis4.68
+Vasiliauskas       7639Vardenis4.20
+Kazlauskas         7640Vardenis4.76
+Navickas           7650Vardenis4.20
+Butkus             7651Vardenis2.00
+Jankauskas         7653Vardenis4.76
+Petrauskas         7655Vardenis4.20
+Petrauskas         7657Vardenis4.24
+Kavaliauskas       7658Vardenis4.36
+Butkus             7659Vardenis3.08
+Kazlauskas         7660Vardenis3.84
+Jankauskas         7662Vardenis3.32
+Jankauskas         7664Vardenis2.60
+Kazlauskas         7665Vardenis2.68
+Butkus             7669Vardenis3.64
+Jankauskas         7670Vardenis4.44
+Kavaliauskas       7672Vardenis3.60
+Petrauskas         7673Vardenis2.76
+Kazlauskas         7681Vardenis4.48
+Vasiliauskas       7683Vardenis2.84
+Pranevicius        7685Vardenis4.96
+Vasiliauskas       7686Vardenis4.20
+Kazlauskas         7689Vardenis2.36
+Pranevicius        7693Vardenis4.64
+Butkus             7695Vardenis4.24
+Urbonas            7697Vardenis4.08
+Jankauskas         7699Vardenis3.76
+Pranevicius        7700Vardenis3.32
+Navickas           7701Vardenis4.20
+Ramanauskas        7703Vardenis4.08
+Ramanauskas        7704Vardenis4.44
+Petrauskas         7706Vardenis4.68
+Kazlauskas         7708Vardenis3.60
+Vasiliauskas       7709Vardenis3.68
+Petrauskas         7712Vardenis3.44
+Vasiliauskas       7713Vardenis2.92
+Kazlauskas         7715Vardenis4.20
+Pranevicius        7718Vardenis3.44
+Pranevicius        7720Vardenis2.96
+Petrauskas         7721Vardenis4.44
+Petrauskas         7724Vardenis2.04
+Pranevicius        7729Vardenis2.64
+Ramanauskas        7730Vardenis4.68
+Jankauskas         7734Vardenis3.36
+Pranevicius        7736Vardenis3.16
+Navickas           7739Vardenis3.44
+Kazlauskas         7740Vardenis2.72
+Jankauskas         7742Vardenis4.80
+Kazlauskas         7744Vardenis3.24
+Jankauskas         7749Vardenis2.72
+Butkus             7752Vardenis4.96
+Vasiliauskas       7753Vardenis4.60
+Jankauskas         7755Vardenis4.56
+Butkus             7758Vardenis2.28
+Vasiliauskas       7760Vardenis1.80
+Vasiliauskas       7762Vardenis4.20
+Petrauskas         7763Vardenis3.96
+Vasiliauskas       7765Vardenis3.44
+Jankauskas         7766Vardenis2.96
+Kavaliauskas       7773Vardenis3.28
+Jankauskas         7774Vardenis4.24
+Vasiliauskas       7775Vardenis4.48
+Kavaliauskas       7788Vardenis4.60
+Petrauskas         7789Vardenis3.00
+Navickas           7791Vardenis3.48
+Vasiliauskas       7793Vardenis4.84
+Ramanauskas        7794Vardenis4.04
+Pranevicius        7798Vardenis4.64
+Petrauskas         7802Vardenis2.76
+Butkus             7808Vardenis3.56
+Kavaliauskas       7813Vardenis4.68
+Vasiliauskas       7815Vardenis4.56
+Urbonas            7818Vardenis3.92
+Ramanauskas        7819Vardenis2.68
+Kavaliauskas       7820Vardenis4.08
+Navickas           7823Vardenis2.36
+Kavaliauskas       7830Vardenis2.52
+Jankauskas         7834Vardenis3.36
+Jankauskas         7835Vardenis4.72
+Urbonas            7837Vardenis2.88
+Butkus             7842Vardenis4.24
+Butkus             7843Vardenis4.52
+Ramanauskas        7844Vardenis4.96
+Pranevicius        7849Vardenis4.76
+Petrauskas         7850Vardenis4.56
+Pranevicius        7852Vardenis2.20
+Pranevicius        7853Vardenis4.36
+Kavaliauskas       7855Vardenis3.68
+Kazlauskas         7856Vardenis4.44
+Butkus             7860Vardenis2.56
+Ramanauskas        7861Vardenis4.04
+Navickas           7866Vardenis4.48
+Jankauskas         7867Vardenis4.16
+Pranevicius        7868Vardenis3.00
+Ramanauskas        7869Vardenis4.80
+Navickas           7872Vardenis2.44
+Ramanauskas        7874Vardenis3.60
+Jankauskas         7876Vardenis4.48
+Navickas           7877Vardenis2.76
+Petrauskas         7878Vardenis2.60
+Butkus             7881Vardenis3.84
+Kavaliauskas       7882Vardenis4.04
+Vasiliauskas       7884Vardenis4.80
+Petrauskas         7889Vardenis2.44
+Petrauskas         7890Vardenis2.72
+Urbonas            7891Vardenis4.88
+Kavaliauskas       7897Vardenis3.20
+Kavaliauskas       7900Vardenis4.68
+Pranevicius        7904Vardenis4.64
+Petrauskas         7905Vardenis4.72
+Ramanauskas        7906Vardenis3.60
+Jankauskas         7907Vardenis3.72
+Butkus             7911Vardenis3.44
+Ramanauskas        7912Vardenis4.24
+Ramanauskas        7915Vardenis4.92
+Pranevicius        7916Vardenis2.88
+Jankauskas         7919Vardenis4.56
+Butkus             7923Vardenis4.92
+Ramanauskas        7925Vardenis4.08
+Kavaliauskas       7926Vardenis2.80
+Jankauskas         7928Vardenis3.04
+Petrauskas         7929Vardenis4.48
+Jankauskas         7930Vardenis4.52
+Ramanauskas        7934Vardenis2.44
+Kazlauskas         7938Vardenis3.40
+Petrauskas         7940Vardenis2.68
+Pranevicius        7941Vardenis3.16
+Petrauskas         7943Vardenis4.36
+Vasiliauskas       7948Vardenis2.84
+Pranevicius        7951Vardenis3.32
+Kazlauskas         7956Vardenis4.40
+Kazlauskas         7960Vardenis3.68
+Kazlauskas         7964Vardenis4.32
+Urbonas            7967Vardenis4.96
+Kavaliauskas       7970Vardenis4.96
+Navickas           7972Vardenis4.56
+Jankauskas         7973Vardenis3.32
+Butkus             7974Vardenis3.36
+Navickas           7980Vardenis3.72
+Kazlauskas         7983Vardenis3.88
+Jankauskas         7984Vardenis2.96
+Ramanauskas        7987Vardenis4.72
+Pranevicius        7993Vardenis3.32
+Urbonas            7997Vardenis4.20
+Urbonas            7999Vardenis2.92
+Navickas           8001Vardenis2.80
+Vasiliauskas       8006Vardenis3.60
+Urbonas            8007Vardenis3.56
+Butkus             8011Vardenis4.44
+Butkus             8013Vardenis3.16
+Urbonas            8018Vardenis2.76
+Kavaliauskas       8020Vardenis3.36
+Kavaliauskas       8027Vardenis4.20
+Navickas           8028Vardenis4.92
+Pranevicius        8030Vardenis3.68
+Jankauskas         8032Vardenis4.80
+Kazlauskas         8039Vardenis2.68
+Kavaliauskas       8041Vardenis2.52
+Pranevicius        8043Vardenis3.64
+Kazlauskas         8048Vardenis4.68
+Navickas           8050Vardenis4.80
+Pranevicius        8051Vardenis4.16
+Urbonas            8052Vardenis3.68
+Kavaliauskas       8059Vardenis2.48
+Kavaliauskas       8062Vardenis4.64
+Kazlauskas         8065Vardenis2.84
+Urbonas            8069Vardenis2.40
+Ramanauskas        8071Vardenis2.36
+Jankauskas         8073Vardenis2.44
+Kazlauskas         8078Vardenis3.48
+Butkus             8079Vardenis2.84
+Kavaliauskas       8081Vardenis3.56
+Butkus             8085Vardenis3.56
+Petrauskas         8086Vardenis3.56
+Vasiliauskas       8088Vardenis2.64
+Kazlauskas         8089Vardenis4.56
+Petrauskas         8090Vardenis3.60
+Urbonas            8093Vardenis2.72
+Kavaliauskas       8096Vardenis4.96
+Kavaliauskas       8097Vardenis3.64
+Navickas           8099Vardenis4.04
+Pranevicius        8107Vardenis2.36
+Petrauskas         8109Vardenis4.28
+Kavaliauskas       8110Vardenis4.28
+Petrauskas         8112Vardenis2.52
+Urbonas            8114Vardenis3.52
+Kavaliauskas       8118Vardenis3.64
+Butkus             8121Vardenis4.88
+Butkus             8129Vardenis2.44
+Jankauskas         8131Vardenis4.60
+Kazlauskas         8134Vardenis4.92
+Petrauskas         8135Vardenis3.88
+Vasiliauskas       8143Vardenis3.84
+Ramanauskas        8144Vardenis4.04
+Ramanauskas        8145Vardenis4.08
+Navickas           8146Vardenis4.40
+Vasiliauskas       8148Vardenis3.52
+Vasiliauskas       8150Vardenis3.92
+Vasiliauskas       8151Vardenis4.52
+Ramanauskas        8152Vardenis3.84
+Vasiliauskas       8153Vardenis3.36
+Jankauskas         8154Vardenis3.48
+Butkus             8156Vardenis3.28
+Petrauskas         8157Vardenis4.24
+Urbonas            8160Vardenis3.40
+Navickas           8162Vardenis3.84
+Kazlauskas         8165Vardenis4.08
+Vasiliauskas       8166Vardenis4.80
+Vasiliauskas       8168Vardenis4.20
+Navickas           8173Vardenis2.68
+Ramanauskas        8174Vardenis3.84
+Urbonas            8175Vardenis3.44
+Petrauskas         8177Vardenis4.60
+Kavaliauskas       8181Vardenis2.96
+Jankauskas         8184Vardenis3.44
+Navickas           8185Vardenis2.32
+Jankauskas         8187Vardenis3.52
+Kazlauskas         8188Vardenis2.68
+Kavaliauskas       8193Vardenis2.44
+Petrauskas         8194Vardenis3.88
+Vasiliauskas       8195Vardenis2.88
+Pranevicius        8198Vardenis3.12
+Petrauskas         8201Vardenis4.60
+Urbonas            8204Vardenis4.88
+Butkus             8205Vardenis2.80
+Kavaliauskas       8212Vardenis4.48
+Jankauskas         8214Vardenis4.32
+Kazlauskas         8215Vardenis3.32
+Vasiliauskas       8216Vardenis2.04
+Urbonas            8217Vardenis2.92
+Butkus             8220Vardenis4.96
+Petrauskas         8222Vardenis4.20
+Jankauskas         8223Vardenis3.64
+Vasiliauskas       8224Vardenis2.88
+Jankauskas         8226Vardenis4.40
+Navickas           8230Vardenis4.64
+Vasiliauskas       8242Vardenis4.28
+Kavaliauskas       8248Vardenis3.80
+Kavaliauskas       8250Vardenis4.36
+Kazlauskas         8252Vardenis4.24
+Kavaliauskas       8253Vardenis3.48
+Pranevicius        8254Vardenis4.12
+Kazlauskas         8255Vardenis3.88
+Jankauskas         8258Vardenis4.76
+Vasiliauskas       8259Vardenis2.76
+Ramanauskas        8263Vardenis4.52
+Kavaliauskas       8264Vardenis4.84
+Butkus             8265Vardenis3.32
+Jankauskas         8266Vardenis3.60
+Vasiliauskas       8270Vardenis4.76
+Kavaliauskas       8271Vardenis2.88
+Urbonas            8272Vardenis4.52
+Ramanauskas        8275Vardenis4.00
+Urbonas            8276Vardenis3.40
+Petrauskas         8286Vardenis4.96
+Navickas           8288Vardenis4.80
+Jankauskas         8294Vardenis4.28
+Vasiliauskas       8296Vardenis4.48
+Navickas           8298Vardenis2.28
+Vasiliauskas       8303Vardenis2.36
+Urbonas            8305Vardenis4.00
+Kavaliauskas       8307Vardenis3.48
+Jankauskas         8308Vardenis3.72
+Petrauskas         8309Vardenis3.12
+Butkus             8311Vardenis3.88
+Butkus             8313Vardenis3.24
+Vasiliauskas       8314Vardenis3.40
+Ramanauskas        8315Vardenis4.36
+Vasiliauskas       8316Vardenis1.80
+Jankauskas         8319Vardenis3.24
+Kazlauskas         8320Vardenis3.68
+Pranevicius        8325Vardenis3.76
+Urbonas            8327Vardenis3.20
+Kazlauskas         8336Vardenis2.88
+Navickas           8338Vardenis3.44
+Jankauskas         8339Vardenis3.72
+Jankauskas         8346Vardenis4.16
+Ramanauskas        8349Vardenis3.48
+Kazlauskas         8352Vardenis4.96
+Petrauskas         8354Vardenis4.84
+Butkus             8355Vardenis4.40
+Kavaliauskas       8356Vardenis4.32
+Jankauskas         8357Vardenis2.20
+Navickas           8360Vardenis3.64
+Butkus             8363Vardenis4.36
+Butkus             8366Vardenis3.76
+Petrauskas         8367Vardenis3.88
+Jankauskas         8369Vardenis4.60
+Kavaliauskas       8371Vardenis3.80
+Pranevicius        8372Vardenis4.56
+Petrauskas         8375Vardenis2.60
+Urbonas            8381Vardenis2.12
+Jankauskas         8383Vardenis4.56
+Urbonas            8387Vardenis4.56
+Kazlauskas         8390Vardenis4.92
+Urbonas            8391Vardenis3.76
+Kavaliauskas       8392Vardenis4.16
+Urbonas            8393Vardenis2.36
+Urbonas            8395Vardenis3.92
+Pranevicius        8397Vardenis2.84
+Vasiliauskas       8398Vardenis4.40
+Kazlauskas         8400Vardenis2.56
+Ramanauskas        8404Vardenis4.08
+Navickas           8406Vardenis4.88
+Petrauskas         8407Vardenis3.60
+Kazlauskas         8410Vardenis3.40
+Vasiliauskas       8412Vardenis4.80
+Ramanauskas        8413Vardenis3.40
+Pranevicius        8414Vardenis2.60
+Navickas           8415Vardenis3.00
+Jankauskas         8418Vardenis4.00
+Kavaliauskas       8419Vardenis4.76
+Urbonas            8420Vardenis2.28
+Pranevicius        8421Vardenis2.60
+Butkus             8423Vardenis3.92
+Ramanauskas        8424Vardenis3.16
+Pranevicius        8425Vardenis3.56
+Ramanauskas        8427Vardenis3.40
+Kazlauskas         8430Vardenis4.04
+Pranevicius        8431Vardenis2.84
+Navickas           8434Vardenis4.44
+Ramanauskas        8437Vardenis4.24
+Kavaliauskas       8439Vardenis3.20
+Vasiliauskas       8440Vardenis4.28
+Kavaliauskas       8445Vardenis3.00
+Pranevicius        8447Vardenis2.20
+Pranevicius        8448Vardenis1.80
+Petrauskas         8451Vardenis3.72
+Vasiliauskas       8457Vardenis4.72
+Urbonas            8459Vardenis4.88
+Urbonas            8461Vardenis3.08
+Urbonas            8462Vardenis4.16
+Pranevicius        8463Vardenis4.04
+Kazlauskas         8464Vardenis3.48
+Navickas           8466Vardenis3.68
+Urbonas            8470Vardenis4.16
+Vasiliauskas       8473Vardenis4.36
+Jankauskas         8479Vardenis4.56
+Ramanauskas        8485Vardenis4.40
+Urbonas            8486Vardenis3.32
+Vasiliauskas       8487Vardenis3.44
+Petrauskas         8491Vardenis2.84
+Jankauskas         8493Vardenis4.60
+Ramanauskas        8499Vardenis3.60
+Kavaliauskas       8501Vardenis4.24
+Kavaliauskas       8509Vardenis3.32
+Vasiliauskas       8510Vardenis3.00
+Ramanauskas        8511Vardenis3.44
+Urbonas            8513Vardenis4.60
+Pranevicius        8514Vardenis2.52
+Jankauskas         8520Vardenis3.56
+Kavaliauskas       8521Vardenis2.20
+Pranevicius        8523Vardenis2.68
+Kazlauskas         8527Vardenis2.52
+Urbonas            8533Vardenis3.36
+Urbonas            8534Vardenis3.88
+Pranevicius        8535Vardenis4.16
+Navickas           8537Vardenis3.36
+Jankauskas         8547Vardenis4.40
+Butkus             8549Vardenis2.68
+Navickas           8551Vardenis1.80
+Pranevicius        8553Vardenis4.96
+Vasiliauskas       8554Vardenis3.12
+Jankauskas         8558Vardenis4.80
+Ramanauskas        8559Vardenis4.04
+Pranevicius        8561Vardenis2.92
+Kazlauskas         8562Vardenis4.20
+Kazlauskas         8564Vardenis3.92
+Petrauskas         8570Vardenis4.92
+Urbonas            8572Vardenis2.52
+Petrauskas         8575Vardenis3.24
+Petrauskas         8579Vardenis2.60
+Petrauskas         8581Vardenis2.84
+Petrauskas         8584Vardenis3.48
+Pranevicius        8587Vardenis2.20
+Petrauskas         8588Vardenis3.04
+Butkus             8592Vardenis4.04
+Jankauskas         8593Vardenis3.72
+Kazlauskas         8594Vardenis4.96
+Ramanauskas        8595Vardenis3.40
+Petrauskas         8599Vardenis4.84
+Kazlauskas         8604Vardenis4.00
+Urbonas            8605Vardenis2.80
+Ramanauskas        8607Vardenis4.24
+Vasiliauskas       8614Vardenis4.48
+Jankauskas         8615Vardenis4.12
+Kazlauskas         8619Vardenis3.48
+Ramanauskas        8620Vardenis4.84
+Petrauskas         8621Vardenis3.84
+Navickas           8624Vardenis3.84
+Pranevicius        8626Vardenis4.72
+Butkus             8630Vardenis2.76
+Urbonas            8634Vardenis4.44
+Kavaliauskas       8635Vardenis3.56
+Butkus             8636Vardenis2.64
+Kazlauskas         8645Vardenis4.76
+Navickas           8646Vardenis4.60
+Navickas           8648Vardenis3.56
+Urbonas            8649Vardenis2.92
+Ramanauskas        8651Vardenis3.20
+Jankauskas         8655Vardenis4.40
+Urbonas            8658Vardenis3.64
+Kazlauskas         8662Vardenis4.96
+Urbonas            8664Vardenis4.52
+Navickas           8665Vardenis4.40
+Jankauskas         8666Vardenis2.92
+Butkus             8670Vardenis4.56
+Petrauskas         8673Vardenis2.52
+Vasiliauskas       8674Vardenis2.84
+Vasiliauskas       8676Vardenis3.56
+Urbonas            8679Vardenis3.60
+Urbonas            8686Vardenis3.16
+Kavaliauskas       8687Vardenis3.20
+Vasiliauskas       8688Vardenis4.56
+Kavaliauskas       8692Vardenis3.76
+Urbonas            8695Vardenis3.76
+Vasiliauskas       8696Vardenis2.92
+Navickas           8697Vardenis2.88
+Petrauskas         8701Vardenis4.72
+Ramanauskas        8702Vardenis4.96
+Jankauskas         8703Vardenis3.36
+Vasiliauskas       8704Vardenis4.76
+Pranevicius        8707Vardenis2.44
+Pranevicius        8709Vardenis4.44
+Navickas           8712Vardenis3.92
+Urbonas            8713Vardenis3.04
+Pranevicius        8717Vardenis3.52
+Jankauskas         8718Vardenis4.56
+Urbonas            8721Vardenis3.08
+Urbonas            8723Vardenis4.24
+Kavaliauskas       8725Vardenis2.92
+Ramanauskas        8726Vardenis3.48
+Navickas           8728Vardenis3.08
+Ramanauskas        8729Vardenis3.80
+Butkus             8730Vardenis4.08
+Petrauskas         8731Vardenis4.68
+Navickas           8735Vardenis3.20
+Navickas           8737Vardenis3.60
+Kavaliauskas       8739Vardenis3.04
+Navickas           8740Vardenis3.72
+Ramanauskas        8741Vardenis4.44
+Kazlauskas         8743Vardenis2.52
+Kazlauskas         8744Vardenis4.72
+Jankauskas         8745Vardenis3.56
+Petrauskas         8752Vardenis2.36
+Kazlauskas         8753Vardenis2.92
+Navickas           8754Vardenis4.60
+Kazlauskas         8755Vardenis4.16
+Jankauskas         8757Vardenis4.80
+Vasiliauskas       8758Vardenis4.28
+Navickas           8759Vardenis3.56
+Butkus             8762Vardenis3.20
+Urbonas            8763Vardenis3.60
+Kazlauskas         8765Vardenis4.04
+Kavaliauskas       8766Vardenis3.08
+Vasiliauskas       8772Vardenis3.64
+Kavaliauskas       8777Vardenis2.20
+Vasiliauskas       8779Vardenis2.04
+Jankauskas         8782Vardenis4.52
+Navickas           8786Vardenis2.04
+Butkus             8787Vardenis4.00
+Pranevicius        8790Vardenis3.04
+Kavaliauskas       8791Vardenis3.04
+Pranevicius        8793Vardenis2.84
+Navickas           8794Vardenis2.84
+Petrauskas         8797Vardenis2.60
+Vasiliauskas       8798Vardenis4.32
+Pranevicius        8800Vardenis2.60
+Navickas           8801Vardenis2.88
+Kavaliauskas       8803Vardenis3.32
+Pranevicius        8809Vardenis2.20
+Jankauskas         8811Vardenis2.84
+Kavaliauskas       8812Vardenis2.88
+Pranevicius        8813Vardenis3.44
+Butkus             8814Vardenis3.00
+Pranevicius        8817Vardenis3.40
+Butkus             8818Vardenis2.64
+Pranevicius        8820Vardenis4.76
+Pranevicius        8826Vardenis3.36
+Vasiliauskas       8829Vardenis4.72
+Vasiliauskas       8830Vardenis3.28
+Pranevicius        8831Vardenis4.64
+Ramanauskas        8832Vardenis4.16
+Petrauskas         8833Vardenis4.16
+Urbonas            8834Vardenis2.96
+Urbonas            8836Vardenis3.20
+Ramanauskas        8838Vardenis3.72
+Pranevicius        8841Vardenis4.72
+Kazlauskas         8842Vardenis2.80
+Petrauskas         8843Vardenis3.00
+Ramanauskas        8844Vardenis4.44
+Petrauskas         8846Vardenis4.44
+Ramanauskas        8849Vardenis3.56
+Pranevicius        8853Vardenis3.88
+Vasiliauskas       8854Vardenis2.92
+Petrauskas         8855Vardenis4.80
+Jankauskas         8856Vardenis3.00
+Ramanauskas        8863Vardenis3.60
+Kavaliauskas       8864Vardenis4.20
+Kavaliauskas       8865Vardenis3.52
+Butkus             8866Vardenis2.52
+Butkus             8867Vardenis3.88
+Kazlauskas         8869Vardenis3.52
+Petrauskas         8870Vardenis3.52
+Pranevicius        8872Vardenis4.04
+Ramanauskas        8874Vardenis3.68
+Kazlauskas         8876Vardenis4.04
+Jankauskas         8877Vardenis4.72
+Vasiliauskas       8881Vardenis4.68
+Pranevicius        8882Vardenis4.56
+Urbonas            8883Vardenis3.20
+Vasiliauskas       8885Vardenis1.56
+Jankauskas         8889Vardenis4.32
+Pranevicius        8894Vardenis3.08
+Navickas           8897Vardenis4.76
+Butkus             8899Vardenis2.52
+Navickas           8902Vardenis3.12
+Jankauskas         8903Vardenis3.76
+Kavaliauskas       8904Vardenis4.72
+Petrauskas         8905Vardenis4.72
+Vasiliauskas       8907Vardenis4.76
+Kavaliauskas       8908Vardenis4.36
+Urbonas            8909Vardenis4.92
+Jankauskas         8921Vardenis4.88
+Ramanauskas        8926Vardenis3.56
+Kavaliauskas       8929Vardenis3.28
+Kavaliauskas       8931Vardenis3.44
+Butkus             8937Vardenis4.00
+Ramanauskas        8939Vardenis4.84
+Petrauskas         8941Vardenis3.76
+Navickas           8944Vardenis4.00
+Jankauskas         8947Vardenis3.16
+Vasiliauskas       8950Vardenis3.68
+Navickas           8951Vardenis4.36
+Butkus             8954Vardenis3.48
+Kazlauskas         8956Vardenis3.60
+Butkus             8958Vardenis2.92
+Pranevicius        8959Vardenis4.96
+Vasiliauskas       8960Vardenis3.28
+Petrauskas         8962Vardenis2.20
+Petrauskas         8969Vardenis2.60
+Petrauskas         8971Vardenis3.52
+Petrauskas         8974Vardenis3.12
+Kavaliauskas       8975Vardenis3.92
+Ramanauskas        8980Vardenis2.60
+Pranevicius        8981Vardenis1.88
+Pranevicius        8983Vardenis3.24
+Urbonas            8984Vardenis3.36
+Pranevicius        8985Vardenis4.48
+Ramanauskas        8988Vardenis2.20
+Petrauskas         8989Vardenis3.64
+Ramanauskas        8991Vardenis4.36
+Pranevicius        8992Vardenis4.04
+Pranevicius        8995Vardenis2.20
+Kazlauskas         8996Vardenis1.96
+Kavaliauskas       8997Vardenis2.44
+Vasiliauskas       8998Vardenis4.80
+Kazlauskas         9001Vardenis3.88
+Petrauskas         9003Vardenis2.28
+Kazlauskas         9004Vardenis4.92
+Petrauskas         9005Vardenis4.04
+Petrauskas         9010Vardenis3.24
+Kazlauskas         9012Vardenis4.20
+Jankauskas         9014Vardenis4.36
+Kazlauskas         9015Vardenis3.80
+Jankauskas         9016Vardenis3.32
+Jankauskas         9018Vardenis3.80
+Petrauskas         9019Vardenis2.16
+Vasiliauskas       9020Vardenis2.84
+Ramanauskas        9023Vardenis4.28
+Navickas           9025Vardenis4.80
+Jankauskas         9027Vardenis4.52
+Vasiliauskas       9028Vardenis4.44
+Navickas           9029Vardenis3.80
+Petrauskas         9034Vardenis1.64
+Petrauskas         9035Vardenis4.76
+Navickas           9036Vardenis4.00
+Pranevicius        9039Vardenis2.96
+Urbonas            9041Vardenis4.60
+Pranevicius        9043Vardenis4.68
+Butkus             9044Vardenis2.60
+Kazlauskas         9048Vardenis3.84
+Urbonas            9049Vardenis3.20
+Ramanauskas        9050Vardenis2.20
+Kavaliauskas       9053Vardenis2.80
+Kavaliauskas       9054Vardenis4.16
+Pranevicius        9057Vardenis2.96
+Ramanauskas        9063Vardenis3.36
+Vasiliauskas       9064Vardenis2.92
+Vasiliauskas       9068Vardenis3.32
+Kavaliauskas       9072Vardenis4.16
+Kazlauskas         9075Vardenis3.56
+Ramanauskas        9079Vardenis3.64
+Pranevicius        9082Vardenis3.12
+Petrauskas         9085Vardenis4.68
+Vasiliauskas       9086Vardenis3.28
+Petrauskas         9092Vardenis4.92
+Butkus             9094Vardenis4.36
+Urbonas            9096Vardenis3.32
+Butkus             9099Vardenis4.52
+Pranevicius        9101Vardenis1.88
+Navickas           9103Vardenis3.80
+Kazlauskas         9105Vardenis3.96
+Petrauskas         9106Vardenis4.92
+Urbonas            9111Vardenis4.28
+Butkus             9112Vardenis4.04
+Butkus             9113Vardenis2.44
+Jankauskas         9114Vardenis2.92
+Navickas           9120Vardenis4.72
+Pranevicius        9123Vardenis2.76
+Pranevicius        9125Vardenis4.20
+Jankauskas         9126Vardenis3.52
+Kazlauskas         9127Vardenis3.32
+Ramanauskas        9128Vardenis3.80
+Jankauskas         9130Vardenis2.44
+Kavaliauskas       9132Vardenis4.40
+Kavaliauskas       9133Vardenis3.52
+Ramanauskas        9134Vardenis4.20
+Navickas           9137Vardenis3.36
+Kazlauskas         9141Vardenis3.92
+Navickas           9143Vardenis3.28
+Pranevicius        9145Vardenis3.48
+Petrauskas         9147Vardenis4.64
+Petrauskas         9148Vardenis3.00
+Pranevicius        9149Vardenis4.24
+Butkus             9153Vardenis3.24
+Vasiliauskas       9155Vardenis3.88
+Vasiliauskas       9158Vardenis4.96
+Jankauskas         9162Vardenis4.60
+Jankauskas         9165Vardenis3.80
+Kavaliauskas       9166Vardenis3.96
+Kavaliauskas       9169Vardenis4.08
+Butkus             9170Vardenis4.52
+Pranevicius        9171Vardenis4.40
+Butkus             9172Vardenis4.48
+Pranevicius        9173Vardenis2.96
+Navickas           9179Vardenis4.44
+Jankauskas         9182Vardenis3.52
+Kavaliauskas       9185Vardenis3.08
+Jankauskas         9190Vardenis3.28
+Kavaliauskas       9193Vardenis3.84
+Pranevicius        9197Vardenis4.80
+Vasiliauskas       9201Vardenis2.52
+Kazlauskas         9202Vardenis3.08
+Butkus             9206Vardenis2.12
+Butkus             9208Vardenis3.24
+Pranevicius        9213Vardenis4.00
+Vasiliauskas       9214Vardenis4.36
+Ramanauskas        9215Vardenis4.36
+Urbonas            9217Vardenis3.52
+Vasiliauskas       9218Vardenis2.84
+Vasiliauskas       9219Vardenis3.40
+Kazlauskas         9221Vardenis2.20
+Pranevicius        9222Vardenis4.36
+Navickas           9225Vardenis2.96
+Kavaliauskas       9226Vardenis4.16
+Vasiliauskas       9235Vardenis1.88
+Kazlauskas         9238Vardenis4.72
+Jankauskas         9239Vardenis3.84
+Jankauskas         9241Vardenis3.64
+Butkus             9243Vardenis4.28
+Jankauskas         9245Vardenis4.28
+Kazlauskas         9246Vardenis3.04
+Pranevicius        9248Vardenis3.36
+Kazlauskas         9249Vardenis3.40
+Kazlauskas         9252Vardenis3.20
+Jankauskas         9255Vardenis2.84
+Kazlauskas         9258Vardenis4.72
+Jankauskas         9260Vardenis2.88
+Kazlauskas         9263Vardenis4.48
+Urbonas            9264Vardenis3.64
+Kazlauskas         9267Vardenis4.48
+Navickas           9270Vardenis3.68
+Kavaliauskas       9272Vardenis2.28
+Butkus             9276Vardenis2.76
+Petrauskas         9279Vardenis4.16
+Kavaliauskas       9280Vardenis4.52
+Vasiliauskas       9285Vardenis3.20
+Navickas           9286Vardenis4.64
+Navickas           9293Vardenis2.48
+Butkus             9294Vardenis2.04
+Kavaliauskas       9295Vardenis3.56
+Ramanauskas        9299Vardenis2.04
+Kavaliauskas       9302Vardenis2.56
+Vasiliauskas       9304Vardenis3.76
+Urbonas            9305Vardenis3.48
+Pranevicius        9307Vardenis4.28
+Vasiliauskas       9308Vardenis4.24
+Petrauskas         9309Vardenis3.68
+Kazlauskas         9310Vardenis3.52
+Jankauskas         9311Vardenis4.20
+Jankauskas         9314Vardenis3.92
+Kavaliauskas       9317Vardenis3.00
+Ramanauskas        9319Vardenis3.88
+Navickas           9325Vardenis4.84
+Kazlauskas         9327Vardenis4.12
+Ramanauskas        9332Vardenis3.88
+Navickas           9333Vardenis4.80
+Jankauskas         9334Vardenis3.64
+Kavaliauskas       9335Vardenis2.48
+Urbonas            9336Vardenis4.04
+Urbonas            9337Vardenis4.72
+Jankauskas         9342Vardenis2.80
+Vasiliauskas       9343Vardenis4.76
+Jankauskas         9344Vardenis1.64
+Petrauskas         9345Vardenis3.24
+Ramanauskas        9346Vardenis3.80
+Kavaliauskas       9349Vardenis2.36
+Pranevicius        9351Vardenis4.92
+Urbonas            9352Vardenis2.88
+Pranevicius        9355Vardenis4.52
+Jankauskas         9360Vardenis2.84
+Vasiliauskas       9361Vardenis3.16
+Jankauskas         9366Vardenis2.92
+Kazlauskas         9372Vardenis4.88
+Urbonas            9374Vardenis2.76
+Jankauskas         9378Vardenis2.44
+Petrauskas         9379Vardenis2.52
+Pranevicius        9380Vardenis2.56
+Vasiliauskas       9382Vardenis4.96
+Vasiliauskas       9385Vardenis4.12
+Navickas           9386Vardenis4.04
+Urbonas            9387Vardenis3.32
+Pranevicius        9394Vardenis3.40
+Urbonas            9395Vardenis4.48
+Pranevicius        9397Vardenis4.04
+Jankauskas         9399Vardenis2.28
+Vasiliauskas       9403Vardenis2.68
+Kazlauskas         9406Vardenis4.52
+Kavaliauskas       9407Vardenis3.32
+Jankauskas         9410Vardenis4.96
+Kavaliauskas       9412Vardenis3.80
+Ramanauskas        9413Vardenis2.48
+Vasiliauskas       9415Vardenis4.20
+Kavaliauskas       9417Vardenis3.40
+Urbonas            9418Vardenis3.84
+Vasiliauskas       9421Vardenis4.64
+Butkus             9422Vardenis2.28
+Urbonas            9426Vardenis3.56
+Navickas           9428Vardenis4.72
+Petrauskas         9432Vardenis3.56
+Navickas           9437Vardenis4.80
+Navickas           9438Vardenis1.72
+Pranevicius        9444Vardenis3.12
+Kazlauskas         9446Vardenis3.80
+Pranevicius        9449Vardenis4.96
+Pranevicius        9451Vardenis3.44
+Kazlauskas         9454Vardenis3.16
+Navickas           9455Vardenis4.68
+Vasiliauskas       9458Vardenis3.88
+Kazlauskas         9464Vardenis3.56
+Navickas           9470Vardenis4.40
+Ramanauskas        9472Vardenis3.04
+Butkus             9473Vardenis3.68
+Jankauskas         9474Vardenis4.80
+Jankauskas         9477Vardenis4.00
+Vasiliauskas       9478Vardenis2.60
+Kazlauskas         9481Vardenis3.76
+Navickas           9482Vardenis3.56
+Urbonas            9485Vardenis3.60
+Butkus             9491Vardenis3.12
+Pranevicius        9503Vardenis4.76
+Jankauskas         9506Vardenis4.36
+Pranevicius        9511Vardenis2.20
+Vasiliauskas       9512Vardenis3.28
+Butkus             9513Vardenis3.16
+Navickas           9514Vardenis2.52
+Butkus             9515Vardenis2.92
+Navickas           9522Vardenis3.16
+Petrauskas         9523Vardenis4.16
+Vasiliauskas       9529Vardenis4.40
+Petrauskas         9533Vardenis3.16
+Vasiliauskas       9534Vardenis4.80
+Vasiliauskas       9539Vardenis3.88
+Ramanauskas        9542Vardenis2.84
+Kazlauskas         9546Vardenis3.96
+Butkus             9548Vardenis3.52
+Butkus             9549Vardenis4.48
+Urbonas            9550Vardenis4.48
+Ramanauskas        9554Vardenis4.28
+Navickas           9556Vardenis3.88
+Vasiliauskas       9560Vardenis4.12
+Ramanauskas        9562Vardenis2.64
+Petrauskas         9566Vardenis3.92
+Ramanauskas        9568Vardenis3.92
+Ramanauskas        9569Vardenis2.96
+Kavaliauskas       9570Vardenis3.92
+Vasiliauskas       9572Vardenis2.96
+Kazlauskas         9573Vardenis3.04
+Butkus             9574Vardenis4.64
+Pranevicius        9575Vardenis4.44
+Kazlauskas         9579Vardenis3.92
+Butkus             9580Vardenis2.52
+Urbonas            9581Vardenis4.04
+Kazlauskas         9584Vardenis3.44
+Vasiliauskas       9586Vardenis3.20
+Pranevicius        9588Vardenis4.00
+Urbonas            9592Vardenis4.76
+Petrauskas         9594Vardenis4.00
+Navickas           9598Vardenis3.04
+Vasiliauskas       9600Vardenis2.28
+Urbonas            9604Vardenis3.24
+Urbonas            9606Vardenis2.76
+Vasiliauskas       9611Vardenis4.12
+Ramanauskas        9614Vardenis3.60
+Kavaliauskas       9616Vardenis4.44
+Butkus             9621Vardenis2.84
+Ramanauskas        9622Vardenis3.44
+Vasiliauskas       9623Vardenis4.72
+Kazlauskas         9624Vardenis3.24
+Pranevicius        9625Vardenis2.52
+Ramanauskas        9627Vardenis4.64
+Pranevicius        9628Vardenis3.00
+Ramanauskas        9633Vardenis4.40
+Navickas           9636Vardenis3.92
+Butkus             9645Vardenis4.72
+Kazlauskas         9646Vardenis4.64
+Butkus             9647Vardenis4.00
+Jankauskas         9648Vardenis2.60
+Vasiliauskas       9650Vardenis4.40
+Ramanauskas        9651Vardenis1.88
+Jankauskas         9652Vardenis2.68
+Petrauskas         9653Vardenis4.04
+Jankauskas         9655Vardenis4.28
+Ramanauskas        9656Vardenis4.12
+Jankauskas         9660Vardenis4.04
+Kazlauskas         9662Vardenis1.96
+Ramanauskas        9669Vardenis3.76
+Navickas           9673Vardenis2.48
+Petrauskas         9674Vardenis4.96
+Jankauskas         9675Vardenis4.84
+Navickas           9678Vardenis4.68
+Petrauskas         9679Vardenis3.60
+Kavaliauskas       9680Vardenis3.20
+Jankauskas         9682Vardenis2.92
+Petrauskas         9683Vardenis3.76
+Butkus             9685Vardenis4.52
+Butkus             9686Vardenis3.64
+Ramanauskas        9688Vardenis3.16
+Petrauskas         9690Vardenis4.00
+Kavaliauskas       9691Vardenis2.76
+Pranevicius        9692Vardenis3.40
+Butkus             9693Vardenis4.48
+Petrauskas         9696Vardenis3.96
+Butkus             9697Vardenis2.36
+Kavaliauskas       9698Vardenis2.52
+Kavaliauskas       9699Vardenis3.56
+Jankauskas         9702Vardenis2.92
+Pranevicius        9711Vardenis4.36
+Ramanauskas        9718Vardenis3.20
+Vasiliauskas       9719Vardenis4.44
+Jankauskas         9730Vardenis2.96
+Ramanauskas        9737Vardenis3.32
+Butkus             9738Vardenis3.48
+Jankauskas         9739Vardenis3.20
+Ramanauskas        9741Vardenis4.80
+Jankauskas         9743Vardenis3.28
+Jankauskas         9746Vardenis3.92
+Jankauskas         9748Vardenis3.52
+Petrauskas         9756Vardenis2.44
+Ramanauskas        9757Vardenis3.60
+Urbonas            9759Vardenis3.92
+Jankauskas         9760Vardenis3.84
+Jankauskas         9766Vardenis3.12
+Vasiliauskas       9775Vardenis3.84
+Urbonas            9776Vardenis4.04
+Butkus             9779Vardenis4.56
+Petrauskas         9781Vardenis4.12
+Vasiliauskas       9783Vardenis3.16
+Kavaliauskas       9785Vardenis4.88
+Ramanauskas        9788Vardenis2.88
+Vasiliauskas       9792Vardenis4.64
+Petrauskas         9793Vardenis4.92
+Kazlauskas         9795Vardenis4.60
+Kazlauskas         9799Vardenis3.48
+Vasiliauskas       9800Vardenis3.08
+Navickas           9802Vardenis4.04
+Urbonas            9805Vardenis4.44
+Butkus             9807Vardenis2.28
+Ramanauskas        9808Vardenis3.00
+Kavaliauskas       9811Vardenis3.68
+Jankauskas         9812Vardenis3.80
+Jankauskas         9815Vardenis2.92
+Vasiliauskas       9816Vardenis4.52
+Vasiliauskas       9817Vardenis2.24
+Pranevicius        9818Vardenis4.68
+Pranevicius        9820Vardenis3.76
+Vasiliauskas       9823Vardenis3.40
+Jankauskas         9825Vardenis4.00
+Pranevicius        9826Vardenis4.68
+Pranevicius        9828Vardenis2.76
+Petrauskas         9830Vardenis4.68
+Urbonas            9832Vardenis3.24
+Kazlauskas         9835Vardenis3.16
+Kazlauskas         9837Vardenis2.92
+Navickas           9840Vardenis4.24
+Kavaliauskas       9842Vardenis3.76
+Ramanauskas        9843Vardenis3.48
+Kavaliauskas       9845Vardenis3.40
+Kazlauskas         9849Vardenis4.40
+Jankauskas         9852Vardenis4.76
+Jankauskas         9857Vardenis2.68
+Butkus             9858Vardenis4.68
+Ramanauskas        9861Vardenis4.52
+Kavaliauskas       9866Vardenis4.68
+Kazlauskas         9876Vardenis3.40
+Kazlauskas         9877Vardenis4.84
+Urbonas            9879Vardenis2.84
+Petrauskas         9882Vardenis3.52
+Vasiliauskas       9884Vardenis4.64
+Butkus             9885Vardenis3.48
+Urbonas            9888Vardenis3.16
+Kazlauskas         9892Vardenis3.08
+Kazlauskas         9894Vardenis4.40
+Jankauskas         9895Vardenis2.76
+Jankauskas         9897Vardenis3.56
+Pranevicius        9898Vardenis4.32
+Jankauskas         9900Vardenis3.28
+Petrauskas         9901Vardenis3.52
+Jankauskas         9909Vardenis2.84
+Urbonas            9914Vardenis2.96
+Butkus             9919Vardenis4.44
+Jankauskas         9920Vardenis2.12
+Pranevicius        9923Vardenis3.24
+Jankauskas         9926Vardenis4.60
+Kavaliauskas       9929Vardenis3.52
+Kavaliauskas       9934Vardenis3.68
+Pranevicius        9935Vardenis3.64
+Kavaliauskas       9936Vardenis3.80
+Kavaliauskas       9944Vardenis4.56
+Petrauskas         9945Vardenis3.40
+Kavaliauskas       9950Vardenis4.20
+Ramanauskas        9951Vardenis4.24
+Butkus             9953Vardenis3.32
+Vasiliauskas       9956Vardenis2.60
+Pranevicius        9960Vardenis4.80
+Petrauskas         9963Vardenis1.72
+Jankauskas         9966Vardenis3.64
+Urbonas            9970Vardenis3.28
+Petrauskas         9973Vardenis3.16
+Jankauskas         9976Vardenis3.04
+Jankauskas         9980Vardenis4.96
+Petrauskas         9981Vardenis4.56
+Kavaliauskas       9985Vardenis4.84
+Petrauskas         9987Vardenis4.60
+Ramanauskas        9988Vardenis3.36
+Vasiliauskas       9989Vardenis4.60
+Petrauskas         9994Vardenis3.56
+Vasiliauskas       9995Vardenis3.32
+Kazlauskas         9997Vardenis3.32
