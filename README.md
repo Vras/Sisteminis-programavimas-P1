@@ -24,3 +24,6 @@ P5.cpp
 
 v0.2 generuoja random studentu failus, dalina i dvi kategorijas: iki 5.0 ir nuo >= 5.0 balo ir isveda i du failus.
 Yra palyginti 5 skirtingo dydzio studentu sarasai, kaip greitai veikia programa - pridejau jpg ir sugeneruotus failus v0.2 branch'e.
+
+---
+Manau, kad kodas tapo per daug sudėtingas, todėl gražiai užbaigti nebeužteko žinių ir laiko. Pabandysiu realizuoti viska su windows forms kitame darbe.
